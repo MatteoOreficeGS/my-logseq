@@ -1,1 +1,3 @@
-- Trouble
+# Troubleshooting
+- ## Ricerche nel Log
+-
