@@ -14,6 +14,6 @@
 - ## Mostrare tutte le risposte di un'elaborazione
 	- ```shell
 	  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
-	  	grep -oP 'Rate response":"\K.*'
+	  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 	  ```
 -
