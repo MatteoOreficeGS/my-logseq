@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["logseq/guida operativa" "logseq"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -412,4 +412,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :journal/page-title-format "EEE, dd-MM-yyyy"}
+ :journal/page-title-format "yyyy-MM-dd EEEE"
+ :editor/preferred-pasting-file? true}
