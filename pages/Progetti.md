@@ -1,1 +1,1 @@
-- Raccoglitore per i vari progetti ed informazioni utili
+- Raccoglitore per i vari progetti
