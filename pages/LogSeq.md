@@ -8,4 +8,4 @@ id:: 654baa92-a7e7-46c5-816e-42bc25765463
 		- capire come usare i tags e le properties sulle pagine e i blocchi
 	- ## Tagging per richieste miglioramento di processo
 		- es aggiungere le migrations
-		- indicare un livello di urgenza NICE TO HAvE
+		- indicare un livello di urgenza NICE TO HAVE, MUST HAVE, etc
