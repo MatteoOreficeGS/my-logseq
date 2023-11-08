@@ -1,4 +1,6 @@
 # Daily Journal
+template:: Daily Journal
+template-including-parent:: false
 	- # Mattina
 		- ## Task 1
 		- ## Task 2
