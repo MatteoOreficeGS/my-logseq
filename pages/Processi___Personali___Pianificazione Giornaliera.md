@@ -13,7 +13,7 @@
 			  logseq.order-list-type:: number
 		- Per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
-		- Per le
+		- Per le attivitá di sviluppo devi creare le card nella board
 		  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** prelevandole dalle seguenti liste ed annotale nella sezione del Journal ((f49647f1-892c-41e3-a8a7-ddcd0fdaf100)) come Tasks da completarsi
 	  logseq.order-list-type:: number
