@@ -236,7 +236,7 @@
             [?p :block/journal-day ?d]
             [(> ?d ?start)]
             [(< ?d ?next)]]
-    
+    ;; :inputs [:today :7d-after]
     :group-by-page? false
     :collapsed? false}]}
 
