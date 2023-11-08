@@ -1,1 +1,1 @@
-- Software Development Cycle
+- Acronimo di **Software Development Cycle**
