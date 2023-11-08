@@ -1,5 +1,6 @@
 # NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
+	- Il processo si basa
 - # Pianificazione
 	- Prendi 20 minuti per decidere cosa fare oggi ! ⏰
 	- Annota le richieste per nuove attivitá da svolgere nel **Today Journal**
