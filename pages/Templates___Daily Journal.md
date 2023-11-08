@@ -3,13 +3,24 @@
   template-including-parent:: false
 	- # Processo
 		- Prendi 20 minuti per decidere cosa fare oggi ! ⏰
-			- annota eventuali problematiche nello standup
+			- Identifica le possibili attivitá
 			  logseq.order-list-type:: number
-			- consulta le tue mail
+				- annota eventuali problematiche nello standup
+				  logseq.order-list-type:: number
+				- consulta le tue mail
+				  logseq.order-list-type:: number
+				- consulta il tuo filtro JIRA
+				  logseq.order-list-type:: number
+				- consulta
+				  logseq.order-list-type:: number
+			- annota le cose da fare nella lista sottostante
 			  logseq.order-list-type:: number
-			- consulta il tuo filtro JIRA
+			- dai una prioritá
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- lavora sulle cose che hai da fare
+			  logseq.order-list-type:: number
+				- eventualmente
+				  logseq.order-list-type:: number
 	- # Things to be DONE
 		- completa la lista delle cose da fare ...
 	- # Execute
