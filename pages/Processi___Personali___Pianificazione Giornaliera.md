@@ -13,7 +13,7 @@
 	  logseq.order-list-type:: number
 		- I tuoi filtri JIRA
 		  logseq.order-list-type:: number
-		- La lista di task proposti da
+		- La lista di tasks proposti da #LogSeq al fondo del Journal
 		  logseq.order-list-type:: number
 	- Annota le cose da fare nella lista sottostante come task
 	  logseq.order-list-type:: number
