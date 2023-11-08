@@ -235,8 +235,9 @@
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
             [(> ?d ?start)]
-            [(< ?d ?next)]]
-    :inputs [:today :7d-after]
+            [(< ?d ?next)]
+            ]
+    ;; :inputs [:today :7d-after]
     :group-by-page? false
     :collapsed? false}]}
 
@@ -414,4 +415,4 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/preferred-pasting-file? true
- :ui/show-brackets? false}
+ :ui/show-brackets? true}
