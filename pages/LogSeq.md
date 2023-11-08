@@ -1,7 +1,8 @@
 # Organizzazione
+id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- ## Giornale
-		- ## potrebbe essere utile creare un template
+		- potrebbe essere utile creare un template
 	- ## Troubleshooting
-		- ## capire come si possono taggare le domande per poi ritrovarle
+		- capire come si possono taggare le domande per poi ritrovarle
 	- ## Pagine e blocchi
 		- capire come usare i tags e le properties sulle pagine e i blocchi
