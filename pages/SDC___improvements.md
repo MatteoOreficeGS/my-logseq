@@ -1,4 +1,2 @@
-# #jira
-	- xxx
-	- yyy
--
+- mio suggerimento 1
+- mio suggerimento 2
