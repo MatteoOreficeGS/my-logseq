@@ -1,5 +1,5 @@
 - root node
-  template:: Daily Template
+  template:: Daily Journal
   template-including-parent:: false
 	- # Mattina
 		- ## Task 1
