@@ -26,7 +26,7 @@
 		  logseq.order-list-type:: number
 		- LATER si potrebbe trovare un modo per collegare in #LogSeq delle annotazioni private visibili solo a te, per questo conviene documentare e ragionare bene su cosa debba finire il #LogSeq e cosa in #jira
 		  logseq.order-list-type:: number
-		- aggiornare anche
+		- LATER aggiornare anche questa stessa pagina per meglio descrivere cosa non vada assolutamente scritto in #LogSeq
 		  logseq.order-list-type:: number
 	- a fine giornata
 	  logseq.order-list-type:: number
