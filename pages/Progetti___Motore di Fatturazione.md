@@ -12,7 +12,6 @@
 		  ```
 	- Esempio di codice PHP
 	- ```php
-	  
 	    class Test {
 	   	public function getTempiTransitoCorriere(array $sped,int $corriere): array|false
 	      {
