@@ -9,7 +9,7 @@
 		  logseq.order-list-type:: number
 		- Al termine converti le attivitá che richiedono piú di 10 minuti in #jira/task
 		  logseq.order-list-type:: number
-			- pensare ad un modo per
+			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal
 			  logseq.order-list-type:: number
 		- per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
@@ -21,6 +21,8 @@
 		  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
 	  logseq.order-list-type:: number
+		- se sono troppe usa il plugin per export di Jira e condividi con il tuo capo
+		  logseq.order-list-type:: number
 	- Lavora sulle cose che hai da fare
 	  logseq.order-list-type:: number
 		- puoi marcare le attivitá con NOW per ricordare meglio costa stai facendo
