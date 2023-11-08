@@ -9,17 +9,15 @@
 			  logseq.order-list-type:: number
 			- consulta il tuo filtro JIRA
 			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 	- # Things to be DONE
 		- completa la lista delle cose da fare ...
-	- #
-	- # Mattina
-		- ## Task 1
-		- ## Task 2
-		- ## Task 3
-		- ## Task 4
-		-
-	- # Pomeriggio
-		- ## Task 1
-		- ## Task 2
-		- ## Task 3
-		- ## Task 4
+	- # Execute
+		- ## Mattina
+			- ### Task 1
+			- ### Task 2
+			- ### Task 3
+		- ## Pomeriggio
+			- ### Task 1
+			- ### Task 2
+			- ### Task 3
