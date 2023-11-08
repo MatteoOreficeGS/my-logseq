@@ -257,6 +257,7 @@
         ]
         :group-by-page? false
         :collapsed? false
+        :result-transform :sort-by-priority
      }
    ]}
 
