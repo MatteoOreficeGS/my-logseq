@@ -5,13 +5,13 @@
 	  logseq.order-list-type:: number
 		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni suddivise per provenienza
 		  logseq.order-list-type:: number
-		- Al termine converti le attivitá che richiedono piú di 10 minuti in Task #jira
+		- Al termine converti le attivitá che richiedono piú di 10 minuti in #jira/task
 		  logseq.order-list-type:: number
 		- per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
-	- Scegli le attivitá da fare da questi elenchi
+	- Scegli a questo punto le attivitá **da fare oggi**
 	  logseq.order-list-type:: number
-		- consulta il tuo filtro JIRA
+		- Consulta il tuo filtro JIRA
 		  logseq.order-list-type:: number
 		- analizza i task aperti dai giorni precedenti
 		  logseq.order-list-type:: number
