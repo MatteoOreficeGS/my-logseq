@@ -1,16 +1,14 @@
 ## NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
 - Prendi 20 minuti per decidere cosa fare oggi ! ⏰
-	- Annota le richieste per nuove attivitá da svolgere
+	- Annota le richieste per nuove attivitá da svolgere nel **Today Journal**
 	  logseq.order-list-type:: number
-		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni
+		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni suddivise per provenienza
 		  logseq.order-list-type:: number
-		- al termine converti le cose che richiedono piú di 10 minuti in #jira
+		- Al termine converti le attivitá che richiedono piú di 10 minuti in Task #jira
 		  logseq.order-list-type:: number
 		- per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
-	- Consulta le tue mail
-	  logseq.order-list-type:: number
 	- Scegli le attivitá da fare da questi elenchi
 	  logseq.order-list-type:: number
 		- consulta il tuo filtro JIRA
