@@ -1,1 +1,2 @@
+- ![image.png](../assets/image_1699459579446_0.png)
 - Acronimo di **Software Development Cycle**
