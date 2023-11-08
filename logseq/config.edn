@@ -240,8 +240,20 @@
     :inputs [:today :7d-after]
     :group-by-page? false
     :collapsed? false}
-   
-   
+     { :title [:b "🔨 *TASKS"]
+        :query [:find (pull ?block [*])
+          :where
+            [?block :block/content ?blockcontent]
+            [?block :block/page ?page]
+            [?page :block/name ?pagename]
+            [?block :block/marker ?marker]
+            ( or
+              [(contains? #{"LATER"} ?marker)]
+              [(contains? #{"NEXT"} ?marker)]
+              [(contains? #{"NOW"} ?marker)]
+            )
+        ]
+     }
    ]}
 
  ;; Add custom commands to the command palette
