@@ -1,7 +1,7 @@
 ## NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
 - Prendi 20 minuti per decidere cosa fare oggi ! ⏰
-	- Identifica le possibili nuove attivitá da fare e registrare in #jira
+	- Identifica le possibili ((654bdedb-e744-4de0-91db-e137747446b7)) da fare e registrare in #jira
 	  logseq.order-list-type:: number
 		- annota eventuali problematiche nello stand-up
 		  logseq.order-list-type:: number
