@@ -11,8 +11,9 @@
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 		  ```
 	- Esempio di codice PHP
-	- ```
-	  class Test {
+	- ```php
+	  
+	    class Test {
 	   	public function getTempiTransitoCorriere(array $sped,int $corriere): array|false
 	      {
 	          $this->log("Recupero tempi Rate del corriere " . $corriere);
