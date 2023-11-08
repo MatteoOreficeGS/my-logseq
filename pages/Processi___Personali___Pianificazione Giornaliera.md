@@ -3,10 +3,12 @@
 - Prendi 20 minuti per decidere cosa fare oggi ! ⏰
 	- Annota le richieste per nuove attivitá da svolgere
 	  logseq.order-list-type:: number
-		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal
+		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni
 		  logseq.order-list-type:: number
-		- consulta le tue mail
+		- al termine converti le cose che richiedono piú di
 		  logseq.order-list-type:: number
+	- consulta le tue mail
+	  logseq.order-list-type:: number
 	- Scegli le attivitá da fare da questi elenchi
 	  logseq.order-list-type:: number
 		- consulta il tuo filtro JIRA

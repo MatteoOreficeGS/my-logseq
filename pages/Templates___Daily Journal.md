@@ -2,7 +2,7 @@
   template:: Daily Journal
   template-including-parent:: false
 	- Rivedi il tuo processo di [[Processi/Personali/Pianificazione Giornaliera]]
-	- # Nuove attivitá
+	- # Richieste per nuove attivitá
 	  id:: 654bdedb-e744-4de0-91db-e137747446b7
 		- ## Stand-up
 			- annota qui eventuali richieste una per riga
