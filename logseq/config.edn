@@ -234,12 +234,15 @@
             [?h :block/page ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
-            ;;[(> ?d ?start)]
-            ;;[(< ?d ?next)]
+            [(> ?d ?start)]
+            [(< ?d ?next)]
     ]
-    ;; :inputs [:today :7d-after]
+    :inputs [:today :7d-after]
     :group-by-page? false
-    :collapsed? false}]}
+    :collapsed? false}
+   
+   
+   ]}
 
  ;; Add custom commands to the command palette
  ;; Example usage:

@@ -234,9 +234,10 @@
             [?h :block/page ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
-            [(> ?d ?start)]
-            [(< ?d ?next)]]
-    :inputs [:today :7d-after]
+            ;;[(> ?d ?start)]
+            ;;[(< ?d ?next)]
+    ]
+    ;; :inputs [:today :7d-after]
     :group-by-page? false
     :collapsed? false}]}
 
