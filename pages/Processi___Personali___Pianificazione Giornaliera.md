@@ -24,7 +24,7 @@
 		  logseq.order-list-type:: number
 		- ricordati di annotare le card #jira in maniera che tutti leggano l'avanzamento delle attivitá
 		  logseq.order-list-type:: number
-		- si potrebbe trovare un modo per collegare in
+		- LATER si potrebbe trovare un modo per collegare in #LogSeq delle annotazioni private visibili solo a te, per questo conviene creare una pagina dedica
 		  logseq.order-list-type:: number
 	- a fine giornata
 	  logseq.order-list-type:: number
