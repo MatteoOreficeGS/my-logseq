@@ -11,6 +11,7 @@
 		- ## Richieste via slack
 			- annota qui eventuali richieste una per riga
 	- # Things to be DONE
+	  id:: 654bd88f-3f5c-4e67-82cd-c85b0032a96d
 		- completa la lista delle cose da fare ...
 	- # Execute
 		- ## Mattina

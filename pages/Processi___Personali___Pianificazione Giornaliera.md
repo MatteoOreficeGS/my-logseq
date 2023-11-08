@@ -5,9 +5,11 @@
 	  logseq.order-list-type:: number
 		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni
 		  logseq.order-list-type:: number
-		- al termine converti le cose che richiedono piú di
+		- al termine converti le cose che richiedono piú di 10 minuti in #jira
 		  logseq.order-list-type:: number
-	- consulta le tue mail
+		- per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
+		  logseq.order-list-type:: number
+	- Consulta le tue mail
 	  logseq.order-list-type:: number
 	- Scegli le attivitá da fare da questi elenchi
 	  logseq.order-list-type:: number
