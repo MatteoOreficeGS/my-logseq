@@ -2,6 +2,7 @@
   template:: Daily Journal
   template-including-parent:: false
 	- # Processo
+		-
 		- Prendi 20 minuti per decidere cosa fare oggi ! ⏰
 			- Identifica le possibili attivitá
 			  logseq.order-list-type:: number
@@ -13,6 +14,8 @@
 				  logseq.order-list-type:: number
 				- consulta il tuo filtro JIRA
 				  logseq.order-list-type:: number
+			- attribuisci sempre
+			  logseq.order-list-type:: number
 			- annota le cose da fare nella lista sottostante come task
 			  logseq.order-list-type:: number
 				- cosí facendo le puoi ritrovare il giorno successivo se non complete
@@ -25,9 +28,11 @@
 				  logseq.order-list-type:: number
 				- .....
 				  logseq.order-list-type:: number
+			- gestisci le interruzioni
+			  logseq.order-list-type:: number
 			- a fine giornata
 			  logseq.order-list-type:: number
-				- copia i task
+				- marca come fatte le cose completate
 				  logseq.order-list-type:: number
 	- # Things to be DONE
 		- completa la lista delle cose da fare ...
