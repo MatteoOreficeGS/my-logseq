@@ -1,6 +1,7 @@
 - root node
   template:: Daily Journal
   template-including-parent:: false
+	- # Processo
 	- # Todo List
 		- Inserire qui il testo
 		- prendi 10 minuti per decidere cosa fare oggi ! ⏰
