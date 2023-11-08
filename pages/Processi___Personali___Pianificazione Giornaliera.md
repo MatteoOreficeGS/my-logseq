@@ -7,7 +7,7 @@
 		  logseq.order-list-type:: number
 		- consulta le tue mail
 		  logseq.order-list-type:: number
-	- Scegli le attivitá da fare
+	- Scegli le attivitá da fare da questi elenchi
 	  logseq.order-list-type:: number
 		- consulta il tuo filtro JIRA
 		  logseq.order-list-type:: number
@@ -15,7 +15,6 @@
 		  logseq.order-list-type:: number
 	- Annota le cose da fare nella lista sottostante come task
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
 		- cosí facendo le puoi ritrovare il giorno successivo se non complete
 		  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
