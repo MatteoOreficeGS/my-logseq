@@ -1,6 +1,7 @@
 ## NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
-- Prendi 20 minuti per decidere cosa fare oggi ! ⏰
+- ## Pianificazione
+	- Prendi 20 minuti per decidere cosa fare oggi ! ⏰
 	- Annota le richieste per nuove attivitá da svolgere nel **Today Journal**
 	  logseq.order-list-type:: number
 		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni suddivise per provenienza
@@ -33,3 +34,4 @@
 	  logseq.order-list-type:: number
 		- marca come fatte le cose completate
 		  logseq.order-list-type:: number
+- ## Interruzioni
