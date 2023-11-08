@@ -1,5 +1,4 @@
-- Questo processo serve per fare completare le tue attivitá giornaliere
-	-
+- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che  #WARNING
 - Prendi 20 minuti per decidere cosa fare oggi ! ⏰
 	- Identifica le possibili attivitá
 	  logseq.order-list-type:: number
