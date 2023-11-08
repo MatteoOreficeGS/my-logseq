@@ -10,7 +10,7 @@
 		  logseq.order-list-type:: number
 		- per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
-	- Scegli a questo punto le attivitá **da fare oggi** prelevandole da
+	- Scegli a questo punto le attivitá **da fare oggi** prelevandole dalle seguenti liste ed annotale nella sezione del Journal ((3299977a-bb52-48b1-af14-23f71484e678))
 	  logseq.order-list-type:: number
 		- I tuoi filtri JIRA
 		  logseq.order-list-type:: number
