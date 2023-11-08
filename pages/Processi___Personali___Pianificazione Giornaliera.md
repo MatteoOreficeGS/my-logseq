@@ -22,7 +22,9 @@
 	  logseq.order-list-type:: number
 		- puoi marcare le attivitá con NOW per ricordare meglio costa stai facendo
 		  logseq.order-list-type:: number
-		- ricordati di annotare le card #jira e non il Journal
+		- ricordati di annotare le card #jira in maniera che tutti leggano l'avanzamento delle attivitá
+		  logseq.order-list-type:: number
+		- si potrebbe trovare un modo per collegare in
 		  logseq.order-list-type:: number
 	- a fine giornata
 	  logseq.order-list-type:: number
