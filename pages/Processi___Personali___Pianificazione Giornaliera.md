@@ -1,9 +1,9 @@
 ## NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
 - Prendi 20 minuti per decidere cosa fare oggi ! ⏰
-	- Identifica le possibili ((654bdedb-e744-4de0-91db-e137747446b7)) da fare
+	- Annota le richieste per nuove attivitá da svolgere
 	  logseq.order-list-type:: number
-		- fai riferimento al template giornaliero
+		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal
 		  logseq.order-list-type:: number
 		- consulta le tue mail
 		  logseq.order-list-type:: number
