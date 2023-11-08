@@ -1,4 +1,5 @@
 - Questo processo serve per fare completare le tue attivitá giornaliere
+	-
 - Prendi 20 minuti per decidere cosa fare oggi ! ⏰
 	- Identifica le possibili attivitá
 	  logseq.order-list-type:: number
