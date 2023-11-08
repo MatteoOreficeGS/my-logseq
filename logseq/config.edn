@@ -313,7 +313,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["logseq/guida operativa"]
+ :favorites ["Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
