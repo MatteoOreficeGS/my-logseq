@@ -10,4 +10,6 @@
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 		  ```
--
+	- Esempio di codice PHP
+	- ```
+	  ```
