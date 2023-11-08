@@ -9,11 +9,11 @@
 		  logseq.order-list-type:: number
 		- per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
-	- Scegli a questo punto le attivitá **da fare oggi**
+	- Scegli a questo punto le attivitá **da fare oggi** prelevandole da
 	  logseq.order-list-type:: number
-		- Consulta il tuo filtro JIRA
+		- I tuoi filtri JIRA
 		  logseq.order-list-type:: number
-		- analizza i task aperti dai giorni precedenti
+		- La lista di task proposti da
 		  logseq.order-list-type:: number
 	- Annota le cose da fare nella lista sottostante come task
 	  logseq.order-list-type:: number
