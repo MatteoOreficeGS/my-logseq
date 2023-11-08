@@ -3,8 +3,12 @@
   template-including-parent:: false
 	- # Todo List
 		- prendi 10 minuti per decidere cosa fare oggi ! ⏰
+			- annota eventuali problematiche
+			  logseq.order-list-type:: number
 			- consulta le tue mail
+			  logseq.order-list-type:: number
 			- consulta il tuo filtro JIRA
+			  logseq.order-list-type:: number
 	- # Mattina
 		- ## Task 1
 		- ## Task 2
