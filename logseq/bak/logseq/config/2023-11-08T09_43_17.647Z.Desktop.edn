@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["logseq/guida operativa" "logseq"]
+ :favorites ["logseq/guida operativa & organizzazione" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -413,4 +413,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :ui/show-brackets? true}
