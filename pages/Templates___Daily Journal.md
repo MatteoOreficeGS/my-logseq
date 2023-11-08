@@ -2,8 +2,9 @@
   template:: Daily Journal
   template-including-parent:: false
 	- # Todo List
+		- Inserire qui il testo
 		- prendi 10 minuti per decidere cosa fare oggi ! ⏰
-			- annota eventuali problematiche
+			- annota eventuali problematiche nello standup
 			  logseq.order-list-type:: number
 			- consulta le tue mail
 			  logseq.order-list-type:: number
