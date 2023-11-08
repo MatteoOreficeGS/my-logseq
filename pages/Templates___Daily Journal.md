@@ -1,6 +1,8 @@
 - root node
   template:: Daily Journal
   template-including-parent:: false
+	- # Todo List
+		- prendi 1
 	- # Mattina
 		- ## Task 1
 		- ## Task 2
