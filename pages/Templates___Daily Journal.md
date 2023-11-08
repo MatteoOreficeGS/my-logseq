@@ -21,8 +21,12 @@
 			  logseq.order-list-type:: number
 				- eventualmente
 				  logseq.order-list-type:: number
+				- .....
+				  logseq.order-list-type:: number
 			- a fine giornata
 			  logseq.order-list-type:: number
+				- copia
+				  logseq.order-list-type:: number
 	- # Things to be DONE
 		- completa la lista delle cose da fare ...
 	- # Execute
