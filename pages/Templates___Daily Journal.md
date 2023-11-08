@@ -13,8 +13,10 @@
 				  logseq.order-list-type:: number
 				- consulta il tuo filtro JIRA
 				  logseq.order-list-type:: number
-			- annota le cose da fare nella lista sottostante
+			- annota le cose da fare nella lista sottostante come task
 			  logseq.order-list-type:: number
+				- cosí facendo le puoi ritrovare il giorno successivo se non complete
+				  logseq.order-list-type:: number
 			- dai una prioritá alle cose da fare
 			  logseq.order-list-type:: number
 			- lavora sulle cose che hai da fare
@@ -25,7 +27,7 @@
 				  logseq.order-list-type:: number
 			- a fine giornata
 			  logseq.order-list-type:: number
-				- copia
+				- copia i task
 				  logseq.order-list-type:: number
 	- # Things to be DONE
 		- completa la lista delle cose da fare ...
