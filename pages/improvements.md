@@ -2,9 +2,9 @@
 - Pagina utilizzata per trovare i **backlink** a questo **tag**
 - Pagina utilizzate per elencare direttamente degli improvements
 - # Proposte di miglioramento
-	- query-sort-by:: page
+	- query-sort-by:: block
 	  query-table:: true
-	  query-sort-desc:: true
+	  query-sort-desc:: false
 	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	     {:title [:h3 "TODOs for this Project:"]
@@ -14,5 +14,7 @@
 	              [?p :block/name "improvements"]           
 	  ]
 	      :breadcrumbs-show? true
-	      :collapsed? false}
+	      :collapsed? false
+	      :remove-block-children? true
+	  }
 	  #+END_QUERY
