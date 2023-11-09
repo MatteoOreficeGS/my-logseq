@@ -6,12 +6,14 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  #+BEGIN_QUERY
-	  {:title "All blocks tagged using current page"
-	   :query [:find (pull ?b [*])
-	         :in $ ?current-page
-	         :where
-	         [?p :block/name ?current-page]
-	         [?b :block/path-refs ?p]
+	     {:title [:h3 "TODOs for this Project:"]
+	      :query [:find (pull ?b [*])
+	              :where
+	              [?b :block/ref-pages ?p]
+	              [?p :block/name "5918"]
+	              [?b :block/marker ?marker]
+	              [(contains? #{"TODO" "DOING"} ?marker)]
 	  ]
-	   :inputs [:current-page]}
+	      :breadcrumbs-show? true
+	      :collapsed? false}
 	  #+END_QUERY
