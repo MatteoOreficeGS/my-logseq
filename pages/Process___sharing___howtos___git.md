@@ -1,2 +1,2 @@
-- LATER   Documentare una pagina indice con una serie di articoli su certi comandi `git` al fine di documentare particolari usi #Process/Sharing/Howtos/git #LogSeq
+- TODO   Documentare una pagina indice con una serie di articoli su certi comandi `git` al fine di documentare particolari usi #Process/Sharing/Howtos/git #LogSeq
   id:: 654d0b54-ac27-466b-a07c-74e539cf310d
