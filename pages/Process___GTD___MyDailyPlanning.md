@@ -16,7 +16,7 @@
 		  logseq.order-list-type:: number
 		- Per le attivitá di sviluppo devi creare le card nella board [Analisi](https://gsped.atlassian.net/jira/software/projects/AN/boards/37) , queste non possono andare subito in lavorazione ma vanno pianificate con il team
 		  logseq.order-list-type:: number
-	- Scegli a questo punto le attivitá **da fare oggi** prelevandole dalle seguenti liste ed annotale nella sezione del Journal ((f49647f1-892c-41e3-a8a7-ddcd0fdaf100)) come Tasks da completarsi
+	- Scegli a questo punto le attivitá **da fare oggi** prelevandole dalle seguenti liste ed annotale nella sezione del Journal # Things to be DONE come Tasks da completarsi
 	  logseq.order-list-type:: number
 		- I tuoi filtri JIRA
 		  logseq.order-list-type:: number
