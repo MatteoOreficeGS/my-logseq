@@ -7,9 +7,9 @@
 	  id:: 654bdedb-e744-4de0-91db-e137747446b7
 		- ## Stand-up
 			- Non sono state raccolte richieste da inserire qui
-		- ## Richieste via e-mail
+		- ## Via e-mail
 			- Non sono state raccolte richieste da inserire qui
-		- ## Richieste via slack
+		- ## Via slack
 			- Non sono state raccolte richieste da inserire qui
 	- # Things to be DONE
 	  id:: 654bd88f-3f5c-4e67-82cd-c85b0032a96d
