@@ -1,1 +1,1 @@
-- Tag page per trovare le issue che
+- Tag page per trovare i blocchi che indicano di creare una issue in Jira
