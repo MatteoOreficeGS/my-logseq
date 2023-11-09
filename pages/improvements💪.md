@@ -1,5 +1,5 @@
 # Definizione
-- Una **improvement** rappresenta un problema che si é manifestato ed é da risolvere #INFO
+- Un **improvement** rappresenta l'esigenza di aggiung#INFO
 	- Si rivolve di solito solo quando si manifesta
 	- Interessa una parte esistente, es: classe OOP, microservizio, controllo UI, etc.
 	- Non é una #issue
