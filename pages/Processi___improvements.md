@@ -1,2 +1,5 @@
+# Scopo
 - Pagina utilizzata per trovare i **backlink** a questo **tag**
-- Pagina utilizzate per elencare una seri
+- Pagina utilizzate per elencare direttamente degli improvements
+- # Proposte
+-
