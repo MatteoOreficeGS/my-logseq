@@ -1,1 +1,2 @@
-- Mi chiedo dove abbia senso versionare le migrations ? non sarebbe male trovare un metodo manuale per lasciare una traccia nei vari progetti ? #Process/SDC/database-migrations
+# #issue
+- Mi chiedo dove abbia senso versionare le migrations ? non sarebbe male trovare un metodo manuale per lasciare una traccia nei vari progetti ?
