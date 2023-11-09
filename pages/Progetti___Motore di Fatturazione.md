@@ -1,7 +1,8 @@
 # Problemi rilevati #backlog
 	- gli utenti in primis sbagliano il formato del file #UX #[[Progetti/Gsped Legacy]]
 	- RigaFattura contiene del codice specifico per GLS che tratta `p_tax` eche non dovrebbe stare li, in qualche ramo avevo predisposto una fix per generalizzare `getRateRequest` in maniera che fosse interamente **overridable** ma forse non é stata mergiata per interruzione del lavoro #OOP/Design
-- # Idee di miglioramento
+- # Idee di miglioramento #improvements
+	-
 - # DONE #Troubleshooting
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
