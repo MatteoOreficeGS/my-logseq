@@ -15,6 +15,7 @@
 	  ]
 	      :breadcrumbs-show? true
 	      :collapsed? false
+	      group-by-page? false
 	      :remove-block-children? false
 	  }
 	  #+END_QUERY
