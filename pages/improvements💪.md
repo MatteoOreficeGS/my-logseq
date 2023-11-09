@@ -16,7 +16,6 @@
 	- Realizzare una #LogSeq/query per trovare tutti i blocchi che citano un miglioramento
 		- sarebbe ottimo riuscire a esplodere i figli di ogni nodo taggato
 		- in teoria una volta trovati i nodi taggati si dovrebbe poter fare una lista di tutti i sottonodi
-			-
 - # Proposte di miglioramento generiche
 	- Proposta X0
 	  query-sort-by:: page
