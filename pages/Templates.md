@@ -21,6 +21,7 @@
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 		- **Pull Request Review Task** #PR/review
+			- si intende una richiesta per revisionare una PR
 		- **Suppor Request Task** #[[Process/SDC/support]]
 		- #hotfix/database request task o in generale #Process/SDC/database-migrations
 		  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
