@@ -25,7 +25,7 @@
 			- inserisci il codice in una card jira 
 			  logseq.order-list-type:: number
 				- eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements💪
-				- Jira al momento ha troppi issue type eterogenei #issue/jira
+				- Jira al momento ha troppi issue type eterogenei #issue/jira andrebbero uniformati, a cascata
 			- assegnati e metti in progress
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
