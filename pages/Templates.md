@@ -5,5 +5,5 @@
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
-	-
+	- Template per il
 		-
