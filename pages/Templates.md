@@ -1,7 +1,8 @@
 # Potenziali da creare
-	- Ragionare su propo
+	- Ragionare su **proprietá** comuni a tutti i **templates** e **tags**
 	- Tipi di task per il #Processi/GTD
-		- Bugfixes
+		- Ragionare su proprietá comuni a tutti i **tasks**
+		- Bugfixes #bug
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 	- Template per tag pages
