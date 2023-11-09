@@ -13,7 +13,7 @@
 		  logseq.order-list-type:: number
 			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq
 			  logseq.order-list-type:: number
-		- Per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
+		- Le attivitá v
 		  logseq.order-list-type:: number
 		- Per le attivitá di sviluppo devi creare le card nella board [Analisi](https://gsped.atlassian.net/jira/software/projects/AN/boards/37) , queste non possono andare subito in lavorazione ma vanno pianificate con il team
 		  logseq.order-list-type:: number
