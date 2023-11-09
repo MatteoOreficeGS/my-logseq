@@ -1,0 +1,2 @@
+- #improvements💪
+	- ho suggerito di adottare una notazione #php/psalm per array options
