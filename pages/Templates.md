@@ -1,6 +1,8 @@
 # Da analizzare e definire
 	- Usare anche delle block properties
 	- Ragionare su **proprietá** comuni a tutti i **templates** e **tags**
+		- urgenza sicuramente é un parametro comune
+		- target codebase
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
 		- Ragionare su proprietá comuni a tutti i **tasks**
@@ -11,7 +13,7 @@
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 		- #PR/review task
 		- #[[Process/SDC/support]] request task
-		- Avere un modello per  #hotfix/database
+		- #hotfix/database request task o in generale #Process/SDC/database-migrations
 			- analizza target potenziale della modifica
 			  logseq.order-list-type:: number
 			- crea e test codice sql
