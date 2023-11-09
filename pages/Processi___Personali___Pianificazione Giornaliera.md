@@ -42,4 +42,4 @@
 		- marca come fatte le cose completate
 		  logseq.order-list-type:: number
 - # Interruzioni
-	- Gestisci le interruzioni in questo modo
+	- Da completare il meccanismo
