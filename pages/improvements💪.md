@@ -13,7 +13,7 @@
   CLOCK: [2023-11-09 Thu 15:36:50]--[2023-11-09 Thu 15:36:51] =>  00:00:01
   CLOCK: [2023-11-09 Thu 15:36:52]
   :END:
-	- Realizzare una query per trovare tutti i blocchi che citano un miglioramento #LogSeq/backlog
+	- Realizzare una #LogSeq/query per trovare tutti i blocchi che citano un miglioramento
 		- sarebbe ottimo riuscire a esplodere i figli di ogni nodo taggato
 		- in teoria una volta trovati i nodi taggati si dovrebbe poter fare una lista di tutti i sottonodi
 			-
