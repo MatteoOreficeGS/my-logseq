@@ -1,6 +1,7 @@
 # Definizione
-	- Una issue rappresenta un problema che si é manifestato ed é da risolvere, che interessa una parte esistente, es: classe OOP, microservizio, controllo UI, etc. #WARNING.
+	- Una issue rappresenta un problema che si é manifestato ed é da risolvere #WARNING.
 		- Si rivolve di solito solo quando si manifesta
+		- Interessa una parte esistente, es: classe OOP, microservizio, controllo UI, etc.
 		- Non é un #improvements💪
 - # Scopo
 - Tag page che consente di trovare tutte le issue riscontate
