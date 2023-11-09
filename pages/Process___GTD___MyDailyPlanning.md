@@ -7,9 +7,11 @@
 	  logseq.order-list-type:: number
 		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni suddivise per provenienza
 		  logseq.order-list-type:: number
-		- Al termine converti le attivitá che richiedono piú di 10 minuti in #jira/issue/comeout
+	- Stima il peso
+	  logseq.order-list-type:: number
+		- Converti le attivitá che richiedono piú di 10 minuti in #jira/issue/comeout
 		  logseq.order-list-type:: number
-			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal
+			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #LogSeq #improvements
 			  logseq.order-list-type:: number
 		- Per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
