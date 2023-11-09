@@ -294,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:

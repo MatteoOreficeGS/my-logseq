@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journals "Daily Journal"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -46,7 +46,7 @@
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
@@ -240,25 +240,6 @@
     :inputs [:today :7d-after]
     :group-by-page? false
     :collapsed? false}
-     { :title [:b "🔨 *TASKS"]
-        :query [:find (pull ?block [*])
-          :where
-            [?block :block/content ?blockcontent]
-            [?block :block/page ?page]
-            [?page :block/name ?pagename]
-            [?block :block/marker ?marker]
-            [?page :block/journal? true]
-            [?page :block/journal-day ?d]
-            ( or
-              [(contains? #{"LATER"} ?marker)]
-              [(contains? #{"NEXT"} ?marker)]
-              [(contains? #{"NOW"} ?marker)]
-            )
-        ]
-        :group-by-page? false
-        :collapsed? false
-        :result-transform :sort-by-priority
-     }
    ]}
 
  ;; Add custom commands to the command palette
@@ -313,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["logseq/guida operativa"]
+ :favorites ["processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -435,4 +416,4 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/preferred-pasting-file? true
- :ui/show-brackets? false}
+ :ui/show-brackets? true}
