@@ -23,9 +23,9 @@
 	  logseq.order-list-type:: number
 		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli #FACTS
 		  logseq.order-list-type:: number
-		- prelevandole dalle seguenti liste
+		- preleva i task programmati o **LATER** dalle seguenti liste
 		  logseq.order-list-type:: number
-			- La lista di tasks proposti da #LogSeq al fondo del Journal, questi task sono in stato **NOW** o di **prossima scadenza**
+			- La lista di tasks proposti da #LogSeq al fondo del Journal, oltre ai task in stato **NOW** che dovresti continuare  **prossima scadenza**
 			  logseq.order-list-type:: number
 			- I tuoi filtri JIRA
 			  logseq.order-list-type:: number
