@@ -15,6 +15,7 @@
 		- azioni manuali da intraprendere
 	- Template per una #issue
 	- Template per un miglioramento #improvements💪
+		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
 	- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
