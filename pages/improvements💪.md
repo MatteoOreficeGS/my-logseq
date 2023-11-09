@@ -1,8 +1,8 @@
 # Scopo
 - Pagina utilizzata per trovare i **backlink** a questo **tag**
-- Pagina utilizzate per elencare direttamente degli improvements
+- Pagina utilizzate per elencare i miglioramenti tramite una query TBD
 - # Proposte di miglioramento
-	- inserire una query qui che raccolie le proposte taggate
+	- inserire una query qui che raccolga le proposte taggate
 	  query-sort-by:: page
 	  query-table:: true
 	  query-sort-desc:: true
