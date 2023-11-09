@@ -9,8 +9,8 @@
 		- **Bugfixes** #bug🪲/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
-		- **PullRequest** review task
-		- **Support** request task
+		- #PR/review task
+		- request task
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
 	- Template per il #Troubleshooting
