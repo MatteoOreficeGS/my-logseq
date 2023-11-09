@@ -14,8 +14,8 @@
 		- **Bugfixes** #bug/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
-		- #PR/review task
-		- #[[Process/SDC/support]] request task
+		- **Pull Request Review** #PR/review
+		- **Suppor Request Task** #[[Process/SDC/support]]
 		- #hotfix/database request task o in generale #Process/SDC/database-migrations
 		  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
 			- analizza target potenziale della modifica
@@ -42,7 +42,6 @@
 		- Non deve sostituire l'analisi che sfocierá in una card JIRA
 		  background-color:: red
 		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
-		- Utile a raccogliere
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
 	- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
