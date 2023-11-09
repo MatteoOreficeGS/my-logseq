@@ -2,7 +2,7 @@
   template:: Daily Journal
   template-including-parent:: false
 	- Vai alla guida del tuo processo di [[Processi/GTD/MyDailyPlanning]]
-	- Vai al template del Journal
+	- Vai al template del [[Templates/Daily Journal]] per migliorarlo
 	- # Richieste per nuove attivitá
 	  id:: 654bdedb-e744-4de0-91db-e137747446b7
 		- ## Stand-up
