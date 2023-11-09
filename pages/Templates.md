@@ -38,7 +38,8 @@
 		- dettagli di codice
 		- azioni manuali da intraprendere
 	- Template per una #issue
-	- Template per un miglioramento #improvements
+	- Template per un #improvements
+		- Non deve sostituire l'analisi JIRA
 		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
