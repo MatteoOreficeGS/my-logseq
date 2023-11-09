@@ -1,6 +1,6 @@
 # Slack
 	- ## #jira/cloud
 		- É possibile creare direttamente in #slack i task per #jira con #jira/cloud #improvements #Processi
-		- Non richiede #jira/admin-request/grant per installare
+		- **Non richiede alcune particolare permesso** per installare
 		- LATER documentare con una miniguida per tutti in #Process/Sharing/Howtos
 			- possibilmente fruibile con le slide di #LogSeq
