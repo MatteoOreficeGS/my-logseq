@@ -25,10 +25,12 @@
 		  logseq.order-list-type:: number
 		- preleva i task programmati o **LATER** dalle seguenti liste
 		  logseq.order-list-type:: number
-			- La lista di tasks proposti da #LogSeq al fondo del Journal, oltre ai task in stato **NOW** che dovresti continuare  **prossima scadenza**
+			- La lista di tasks proposti da #LogSeq al fondo del Journal, oltre ai task in stato **NOW** che dovresti continuare sono visualizzati quelli con una prossima **prossima scadenza**
 			  logseq.order-list-type:: number
 			- I tuoi filtri JIRA
 			  logseq.order-list-type:: number
+	- Valutare i task con la scadenza in Jira
+	  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
 	  logseq.order-list-type:: number
 		- se sono troppe usa il plugin per export di Jira e condividi con il tuo capo
