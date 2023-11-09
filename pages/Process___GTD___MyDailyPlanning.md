@@ -25,10 +25,8 @@
 		  logseq.order-list-type:: number
 		- prelevandole dalle seguenti liste
 		  logseq.order-list-type:: number
-			- La lista di tasks proposti da #LogSeq al fondo del Journal
+			- La lista di tasks proposti da #LogSeq al fondo del Journal, questi task sono in stato **NOW** o di **prossima scadenza**
 			  logseq.order-list-type:: number
-				- quest
-				  logseq.order-list-type:: number
 			- I tuoi filtri JIRA
 			  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
