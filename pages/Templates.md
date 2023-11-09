@@ -1,4 +1,5 @@
 # Potenziali da creare
+	- Ragionare su propo
 	- Tipi di task per il #Processi/GTD
 		- Bugfixes
 			- creare un template con delle props in maniera da censire subito il bug
@@ -9,8 +10,7 @@
 		- Al fine di circoscrivere il formato di domanda e risposta
 		- dettagli di codice
 		- azioni manuali da intraprendere
-	- ## Identificare dati comuni a
-	- ## Tags e properties
-		- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
-		- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
-		-
+- # Tags e properties
+	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
+	- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
+	-
