@@ -1,6 +1,6 @@
 # Scopo
 - Pagina utilizzata per trovare i **backlink** a questo **tag**
-- Pagina utilizzate per elencare i miglioramenti tramite una query TBD
+- Pagina utilizzate per elencare i miglioramenti tramite una query #LogSeq/backlog
 - # Proposte di miglioramento
 	- inserire una query qui che raccolga le proposte taggate
 	  query-sort-by:: page
