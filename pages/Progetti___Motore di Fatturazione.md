@@ -12,14 +12,15 @@
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
-	- ## Mostrare tutte le risposte di un'elaborazione
+	- ## Mostrare le risposte Fatture Rate di un'elaborazione
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 		  ```
-	- ## Estrarre dal log CtrFatt.log solo un
+	- ## Estrarre dal log CtrFatt.log solo un'elaborazione
 		- ```shell
 		  grep 'Risposta.*Rate.*15386' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
+-
