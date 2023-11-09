@@ -1,7 +1,7 @@
 - root node
   template:: Daily Journal
   template-including-parent:: false
-	- Vai alla guida del tuo processo di [[Processi/Personali/Pianificazione Giornaliera]]
+	- Vai alla guida del tuo processo di [[Processi/GTD/Pianificazione Giornaliera]]
 	- # Richieste per nuove attivitá
 	  id:: 654bdedb-e744-4de0-91db-e137747446b7
 		- ## Stand-up
