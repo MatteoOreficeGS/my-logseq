@@ -1,1 +1,2 @@
 - Tag page che consente di trovare tutte le issue riscontate
+- Utilizzare il documento
