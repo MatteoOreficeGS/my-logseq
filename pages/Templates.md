@@ -5,5 +5,8 @@
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
-	- Template per il
-		-
+	- Template per il #Troubleshooting
+		- Al fine di circoscrivere il formato di domanda e risposta
+- # Tags e properties
+	- Ragionare anche su
+	-
