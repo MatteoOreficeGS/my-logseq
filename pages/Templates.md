@@ -3,7 +3,7 @@
 	- Ragionare su **proprietá** comuni a tutti i **templates** e **tags**
 	- Tipi di task per il #Processi/GTD
 		- Ragionare su proprietá comuni a tutti i **tasks**
-		- Bugfixes #bug/fix
+		- Bugfixes #bug🪲/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
