@@ -2,8 +2,7 @@
 - # NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
 	- Per aiutarti ad eseguire il processo il tuo Today Journal viene inizializzato ogni giorno con il template [[Templates/Daily Journal]] che fornisce una struttura di base pensata per i passi da eseguirsi in questo processo
-- # Pianificazione
-	- Prendi 20 minuti per decidere cosa fare oggi ! ⏰
+- # Pianificazione ⏰
 	- Annota le richieste per nuove attivitá da svolgere nel **Today Journal**
 	  logseq.order-list-type:: number
 		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni suddivise per provenienza
@@ -18,7 +17,7 @@
 		  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** ed portale in stato **NOW**
 	  logseq.order-list-type:: number
-		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuari /ad
+		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuari #FACTS 
 		  logseq.order-list-type:: number
 		- prelevandole dalle seguenti liste
 		  logseq.order-list-type:: number
