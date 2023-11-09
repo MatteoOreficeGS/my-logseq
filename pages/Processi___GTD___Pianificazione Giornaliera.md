@@ -1,4 +1,5 @@
-# NOTA BENE #WARNING
+- Descrive il processo da me adottato per la pianificazione giornaliera
+- # NOTA BENE #WARNING
 	- Questo processo serve per fare completare le tue attivitá giornaliere basandoti sempre sui task presenti in #jira quindi é essenziale che qualsiasi attivitá che richieda piú di 10 minuti per essere eseguita venga censita in #jira
 	- Per aiutarti ad eseguire il processo il tuo Today Journal viene inizializzato ogni giorno con il template [[Templates/Daily Journal]] che fornisce una struttura di base pensata per i passi da eseguirsi in questo processo
 - # Pianificazione
