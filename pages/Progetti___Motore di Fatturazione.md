@@ -1,7 +1,10 @@
-# DONE #Troubleshooting
-:LOGBOOK:
-CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
-:END:
+# Problemi rilevati
+	- gli utenti in primis sbagliano il formato del file
+- # Idee di miglioramento
+- # DONE #Troubleshooting
+  :LOGBOOK:
+  CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
+  :END:
 	- ## Elencare tutti i client id per cui non esiste una tariffa
 		- ```shell
 		  grep 'Risposta.*Rate.*15386' /tmp/CtrFatGsped.log | \
@@ -13,5 +16,3 @@ CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 		  ```
-- # Problemi rilevati
-- # Idee di miglioramento
