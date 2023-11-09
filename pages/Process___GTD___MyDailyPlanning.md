@@ -31,7 +31,7 @@
 			  logseq.order-list-type:: number
 	- Valutare i task con la scadenza in Jira
 	  logseq.order-list-type:: number
-		- La scandeza non viene utilizzata in #jira #issue/jira va assolutamente obbligata la gente ad utilizzarla
+		- La scandeza non viene utilizzata in #jira #issue/jira va assolutamente obbligata la gente ad utilizzarla #WARNING 
 		  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
 	  logseq.order-list-type:: number
