@@ -4,5 +4,7 @@
 - # Proposte di miglioramento
 	- {{query [[improvements]]}}
 	  query-table:: true
+	  query-sort-by:: page
+	  query-sort-desc:: false
 	-
 -
