@@ -2,7 +2,7 @@
 - Pagina utilizzata per trovare i **backlink** a questo **tag**
 - Pagina utilizzate per elencare direttamente degli improvements
 - # Proposte di miglioramento
-	- {{query }}
+	- {{query [[improvements]]}}
 	  query-table:: true
 	  query-sort-by:: page
 	  query-sort-desc:: false
