@@ -1,4 +1,9 @@
-# Scopo
+# Definizione
+- Una **improvement** rappresenta un problema che si é manifestato ed é da risolvere #INFO
+	- Si rivolve di solito solo quando si manifesta
+	- Interessa una parte esistente, es: classe OOP, microservizio, controllo UI, etc.
+	- Non é una #issue
+- # Scopo
 	- Pagina utilizzata per trovare i **backlink** a questo **tag**
 	- Inserire qui le proposte di miglioramento generiche ..... oppure taggarle
 - # Da fare
