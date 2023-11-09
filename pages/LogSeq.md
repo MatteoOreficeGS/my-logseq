@@ -1,7 +1,7 @@
 # Organizzazione
 id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- ## Giornale
-		- potrebbe essere utile creare un #Templates
+		- DONE potrebbe essere utile creare un #Templates per il daily journal
 	- ## Troubleshooting
 		- capire come si possono taggare le domande per poi ritrovarle
 	- ## Pagine e blocchi
