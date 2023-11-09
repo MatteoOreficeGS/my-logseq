@@ -3,7 +3,7 @@
   template-including-parent:: false
 	- Vai alla guida del tuo processo di [[Processi/GTD/MyDailyPlanning]]
 	- Vai al template del [[Templates/Daily Journal]] per migliorarlo
-	- # Richieste per nuove attivitá
+	- # Nuove richieste del giorno
 	  id:: 654bdedb-e744-4de0-91db-e137747446b7
 		- ## Stand-up
 			- Non sono state raccolte richieste da inserire qui
