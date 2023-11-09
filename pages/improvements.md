@@ -8,7 +8,7 @@
 	  query-properties:: [:block :page]
 	  #+BEGIN_QUERY
 	     {:title [:h3 "TODOs for this Project:"]
-	      :query [:find (pull ?b [*])
+	      :query [:find (pull ?child [*])
 	              :where
 	              [?child :block/parent ?b]
 	              [?b :block/refs ?p]
