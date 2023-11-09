@@ -1,0 +1,1 @@
+- sono le #issue riguardanti Jira
