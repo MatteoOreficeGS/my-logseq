@@ -2,7 +2,7 @@
 - Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio o sistema #INFO
 	- Richiede una fase di analisi e pianificazione
 	- Non sempre interessa una parte esistente
-	- Non si prese
+	- La soluzione di solito non é immediata
 	- Non é una #issue
 - # Scopo
 	- Pagina utilizzata per trovare i **backlink** a questo **tag**
@@ -15,7 +15,7 @@
   :END:
 	- Realizzare una query per trovare tutti i blocchi che citano un miglioramento #LogSeq/backlog
 		- sarebbe ottimo riuscire a esplodere i figli di ogni nodo taggato
-			- in teoria una volta trovati i nodi taggati si dovrebbe poter fare una lista di tutti i sottonodi
+		- in teoria una volta trovati i nodi taggati si dovrebbe poter fare una lista di tutti i sottonodi
 			-
 - # Proposte di miglioramento
 	- Proposta X0
