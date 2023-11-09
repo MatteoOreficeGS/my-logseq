@@ -5,16 +5,17 @@
 		- target codebase ?
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
-		- Ragionare su proprietá comuni a tutti i **tasks**
-		- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/GTD/MyDailyPlanning]]
-		  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
-		  :LOGBOOK:
-		  CLOCK: [2023-11-09 Thu 19:10:16]
-		  :END:
-		- **Bugfixes** #bug/fix
+		- Considerazioni
+			- Ragionare su proprietá comuni a tutti i **tasks**
+			- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/GTD/MyDailyPlanning]]
+			  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
+			  :LOGBOOK:
+			  CLOCK: [2023-11-09 Thu 19:10:16]
+			  :END:
+		- **Bugfixes Task** #bug/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
-		- **Pull Request Review** #PR/review
+		- **Pull Request Review Task** #PR/review
 		- **Suppor Request Task** #[[Process/SDC/support]]
 		- #hotfix/database request task o in generale #Process/SDC/database-migrations
 		  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
@@ -30,7 +31,6 @@
 					- TODO eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
 			- assegnati e metti in progress
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
 	- Template per il #Troubleshooting
