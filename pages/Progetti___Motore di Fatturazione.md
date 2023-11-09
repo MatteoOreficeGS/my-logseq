@@ -1,6 +1,6 @@
 # Problemi rilevati
-	- gli utenti in primis sbagliano il formato del file
-	- RigaFattura contiene del codice specifico per GLS che tratta `p_tax` eche non dovrebbe stare li, in qualche ramo avevo predisposto una fix per generalizzare `getRateRequest` in maniera che fosse interamente **overridable** ma forse non é stata mergiata per problemi
+	- gli utenti in primis sbagliano il formato del file #UX
+	- RigaFattura contiene del codice specifico per GLS che tratta `p_tax` eche non dovrebbe stare li, in qualche ramo avevo predisposto una fix per generalizzare `getRateRequest` in maniera che fosse interamente **overridable** ma forse non é stata mergiata per interruzione del lavoro
 - # Idee di miglioramento
 - # DONE #Troubleshooting
   :LOGBOOK:
