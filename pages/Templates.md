@@ -11,6 +11,18 @@
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 		- #PR/review task
 		- #[[Process/SDC/support]] request task
+		- Avere un modello per  #hotfix/database
+			- analizza target potenziale della modifica
+			  logseq.order-list-type:: number
+			- crea e test codice sql
+			  logseq.order-list-type:: number
+			- inserisci il codice in una card jira 
+			  logseq.order-list-type:: number
+				- eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements💪
+				- Jira al momento ha troppi issue type eterogenei #issue/jira
+			- assegnati e metti in progress
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
 	- Template per il #Troubleshooting
