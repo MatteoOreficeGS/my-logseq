@@ -1,7 +1,8 @@
 # Definizione
-- Un **improvement** rappresenta l'esigenza di aggiung#INFO
-	- Si rivolve di solito solo quando si manifesta
-	- Interessa una parte esistente, es: classe OOP, microservizio, controllo UI, etc.
+- Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio o sistema #INFO
+	- Richiede una fase di analisi e pianificazione
+	- Non sempre interessa una parte esistente
+	- Non si prese
 	- Non é una #issue
 - # Scopo
 	- Pagina utilizzata per trovare i **backlink** a questo **tag**
