@@ -1,5 +1,6 @@
 # Problemi rilevati
 	- gli utenti in primis sbagliano il formato del file
+	- RigaFattura contiene del codice specifico per GLS che non dovrebbe stare li, in qualche ramo avevo predisposto una fix per
 - # Idee di miglioramento
 - # DONE #Troubleshooting
   :LOGBOOK:
