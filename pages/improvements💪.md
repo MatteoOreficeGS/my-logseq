@@ -1,6 +1,12 @@
 # Scopo
-- Pagina utilizzata per trovare i **backlink** a questo **tag**
-- Pagina utilizzate per elencare i miglioramenti tramite una query #LogSeq/backlog
+	- Pagina utilizzata per trovare i **backlink** a questo **tag**
+- # Da fare
+  :LOGBOOK:
+  CLOCK: [2023-11-09 Thu 15:36:49]--[2023-11-09 Thu 15:36:50] =>  00:00:01
+  CLOCK: [2023-11-09 Thu 15:36:50]--[2023-11-09 Thu 15:36:51] =>  00:00:01
+  CLOCK: [2023-11-09 Thu 15:36:52]
+  :END:
+	- Realizzare una query per trovare tutti i blocchi che citano un miglioramento #LogSeq/backlog
 - # Proposte di miglioramento
 	- inserire una query qui che raccolga le proposte taggate
 	  query-sort-by:: page
