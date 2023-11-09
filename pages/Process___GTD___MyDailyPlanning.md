@@ -18,6 +18,8 @@
 		  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** prelevandole dalle seguenti liste ed portale in stato **NOW**
 	  logseq.order-list-type:: number
+		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuari
+		  logseq.order-list-type:: number
 		- I tuoi filtri JIRA
 		  logseq.order-list-type:: number
 		- La lista di tasks proposti da #LogSeq al fondo del Journal
