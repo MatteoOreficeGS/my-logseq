@@ -4,6 +4,8 @@
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
 		- Ragionare su proprietá comuni a tutti i **tasks**
+		- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #improvements💪 #[[Process/GTD/MyDailyPlanning]]
+		  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
 		- Bugfixes #bug🪲/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
