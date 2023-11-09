@@ -13,11 +13,11 @@
 		  logseq.order-list-type:: number
 		- Le attivitá veloci non vanno trasferite in #jira
 		  logseq.order-list-type:: number
-			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq
+			- Pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq
 			  logseq.order-list-type:: number
 		- Per le attivitá di sviluppo devi creare le card nella board [Analisi](https://gsped.atlassian.net/jira/software/projects/AN/boards/37) , queste non possono andare subito in lavorazione ma vanno pianificate con il team
 		  logseq.order-list-type:: number
-			- Creare un #Templates per
+			- Serve un #Templates per le attivitá di **analisi**
 			  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** ed portale in stato **NOW**
 	  logseq.order-list-type:: number
@@ -25,9 +25,11 @@
 		  logseq.order-list-type:: number
 		- prelevandole dalle seguenti liste
 		  logseq.order-list-type:: number
-			- I tuoi filtri JIRA
-			  logseq.order-list-type:: number
 			- La lista di tasks proposti da #LogSeq al fondo del Journal
+			  logseq.order-list-type:: number
+				- quest
+				  logseq.order-list-type:: number
+			- I tuoi filtri JIRA
 			  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
 	  logseq.order-list-type:: number
