@@ -9,9 +9,8 @@
 	     {:title [:h3 "TODOs for this Project:"]
 	      :query [:find (pull ?b [*])
 	              :where
-	              [?b :block/ref-pages ?p]
-	  
-	              
+	              [?b :block/refs ?p]]
+	              [?p :block/name "improvements"]            
 	  ]
 	      :breadcrumbs-show? true
 	      :collapsed? false}
