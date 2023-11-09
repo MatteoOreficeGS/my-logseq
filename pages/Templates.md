@@ -6,7 +6,7 @@
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
 		- Ragionare su proprietá comuni a tutti i **tasks**
-		- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #improvements💪 #[[Process/GTD/MyDailyPlanning]]
+		- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #improvements #[[Process/GTD/MyDailyPlanning]]
 		  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
 		  :LOGBOOK:
 		  CLOCK: [2023-11-09 Thu 19:10:16]
@@ -24,7 +24,7 @@
 			  logseq.order-list-type:: number
 			- inserisci il codice in una card jira 
 			  logseq.order-list-type:: number
-				- eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements💪
+				- eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements
 				- Jira al momento ha troppi issue type eterogenei #issue/jira andrebbero uniformati, a cascata crea diversi problemi tra cui #meta
 					- cui assenza di informazioni specifiche e richieste sui tasks
 					- difficoltá nelle queries e filtri
@@ -38,7 +38,7 @@
 		- dettagli di codice
 		- azioni manuali da intraprendere
 	- Template per una #issue
-	- Template per un miglioramento #improvements💪
+	- Template per un miglioramento #improvements
 		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
