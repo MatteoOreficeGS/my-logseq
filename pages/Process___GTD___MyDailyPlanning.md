@@ -11,7 +11,7 @@
 	  logseq.order-list-type:: number
 		- Converti le attivitá che richiedono piú di 10 minuti in #jira/issue/comeout
 		  logseq.order-list-type:: number
-			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #LogSeq #improvements
+			- LATER pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq
 			  logseq.order-list-type:: number
 		- Per le attivitá veloci inserisci **subito** nella sezione del Journal ((654bd88f-3f5c-4e67-82cd-c85b0032a96d))  un Task da completarsi
 		  logseq.order-list-type:: number
