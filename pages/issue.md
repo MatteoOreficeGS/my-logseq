@@ -1,2 +1,2 @@
 - Tag page che consente di trovare tutte le issue riscontate
-- Utilizzare il documento
+- Utilizzare il documento [Linee guida sviluppo](https://docs.google.com/document/d/1a7bF6bTtYzgwUMKCcsmfhycHUbsjbBHsOpT1MGEvvNg/edit?pli=1#heading=h.qb8anohdadd2) per riportare in LogSeq le issue con migliore organizzazione
