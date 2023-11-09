@@ -7,13 +7,16 @@
   CLOCK: [2023-11-09 Thu 15:36:52]
   :END:
 	- Realizzare una query per trovare tutti i blocchi che citano un miglioramento #LogSeq/backlog
+		- sarebbe ottimo riuscire a esplodere i figli di ogni nodo taggato
+			- in teoria una volta trovati i nodi taggati si dovrebbe poter fare una lista di tutti i sottonodi
+			-
 - # Proposte di miglioramento
-	- inserire una query qui che raccolga le proposte taggate
+	- Proposta X0
 	  query-sort-by:: page
 	  query-table:: true
 	  query-sort-desc:: true
 	  query-properties:: [:block :page]
-	- sarebbe ottimo riuscire a esplodere i figli di ogni nodo taggato
-		- in teoria una volta trovati i nodi taggati si dovrebbe poter fare una lista di tutti i sottonodi
-		-
+	- Proposta X1
+	- ...
+	-
 	-
