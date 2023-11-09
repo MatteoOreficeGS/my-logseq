@@ -9,5 +9,5 @@
 		- Al fine di circoscrivere il formato di domanda e risposta
 	- ## Tags e properties
 		- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
-		- LATER Ricordare e fare dei test su ereditarietá di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
+		- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
 		-
