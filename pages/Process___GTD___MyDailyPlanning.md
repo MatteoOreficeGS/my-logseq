@@ -16,14 +16,16 @@
 		  logseq.order-list-type:: number
 		- Per le attivitá di sviluppo devi creare le card nella board [Analisi](https://gsped.atlassian.net/jira/software/projects/AN/boards/37) , queste non possono andare subito in lavorazione ma vanno pianificate con il team
 		  logseq.order-list-type:: number
-	- Scegli a questo punto le attivitá **da fare oggi** prelevandole dalle seguenti liste ed portale in stato **NOW**
+	- Scegli a questo punto le attivitá **da fare oggi** ed portale in stato **NOW**
 	  logseq.order-list-type:: number
-		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuari
+		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuari /ad
 		  logseq.order-list-type:: number
-		- I tuoi filtri JIRA
+		- prelevandole dalle seguenti liste
 		  logseq.order-list-type:: number
-		- La lista di tasks proposti da #LogSeq al fondo del Journal
-		  logseq.order-list-type:: number
+			- I tuoi filtri JIRA
+			  logseq.order-list-type:: number
+			- La lista di tasks proposti da #LogSeq al fondo del Journal
+			  logseq.order-list-type:: number
 	- Dai una prioritá alle cose da fare
 	  logseq.order-list-type:: number
 		- se sono troppe usa il plugin per export di Jira e condividi con il tuo capo
