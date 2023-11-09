@@ -13,9 +13,6 @@
 	              [?b :block/refs ?p]
 	              [?p :block/name "improvements"]           
 	  ]
-	      :breadcrumbs-show? true
-	      :collapsed? false
-	      group-by-page? false
 	      :remove-block-children? false
 	  }
 	  #+END_QUERY
