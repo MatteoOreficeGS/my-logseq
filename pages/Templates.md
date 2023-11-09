@@ -12,6 +12,10 @@
 			  :LOGBOOK:
 			  CLOCK: [2023-11-09 Thu 19:10:16]
 			  :END:
+			- NOW Classificare per un certo periodo di tempo i tipi di task che si presentano guardando il **Daily Journal**
+			  :LOGBOOK:
+			  CLOCK: [2023-11-09 Thu 19:38:00]
+			  :END:
 		- **Bugfixes Task** #bug/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
