@@ -4,4 +4,3 @@
 		- Non richiede #jira/admin-request/grant per installare
 		- LATER documentare con una miniguida per tutti in #Process/Sharing/Howtos
 			- possibilmente fruibile con le slide di #LogSeq
-			-
