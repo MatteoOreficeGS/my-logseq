@@ -1,5 +1,6 @@
 # Scopo
 	- Pagina utilizzata per trovare i **backlink** a questo **tag**
+	- Inserire qui le proposte di miglioramento generiche ..... oppure taggarle
 - # Da fare
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 15:36:49]--[2023-11-09 Thu 15:36:50] =>  00:00:01
@@ -17,6 +18,7 @@
 	  query-sort-desc:: true
 	  query-properties:: [:block :page]
 	- Proposta X1
-	- ...
-	-
+	- ....
+	- Proposta XN
+	- Proposta XN+1
 	-
