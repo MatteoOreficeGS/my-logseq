@@ -25,7 +25,7 @@
 			- inserisci il codice in una card jira 
 			  logseq.order-list-type:: number
 				- eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
-				- Jira al momento ha troppi issue type eterogenei #issue/jira andrebbero uniformati, a cascata crea diversi problemi tra cui #meta
+				- Jira al momento ha troppi issue type eterogenei  andrebbero uniformati, a cascata crea diversi problemi tra cui:
 					- cui assenza di informazioni specifiche e richieste sui tasks
 					- difficoltá nelle queries e filtri
 			- assegnati e metti in progress
