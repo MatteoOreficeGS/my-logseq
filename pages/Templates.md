@@ -1,4 +1,5 @@
-# Potenziali da creare
+# Da analizzare e definire
+	- Usare anche delle block properties
 	- Ragionare su **proprietá** comuni a tutti i **templates** e **tags**
 	- Tipi di task per il #Processi/GTD
 		- Ragionare su proprietá comuni a tutti i **tasks**
