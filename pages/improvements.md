@@ -10,6 +10,7 @@
 	     {:title [:h3 "TODOs for this Project:"]
 	      :query [:find (pull ?b [*])
 	              :where
+	              [?child :block/parent ?b]
 	              [?b :block/refs ?p]
 	              [?p :block/name "improvements"]           
 	  ]
