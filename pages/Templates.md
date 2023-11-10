@@ -17,6 +17,10 @@
 			  :LOGBOOK:
 			  CLOCK: [2023-11-09 Thu 19:38:00]
 			  :END:
+		- **Meeting Task**
+			- contemplare le azioni finali del  meeting
+			- leggere qualche articolo su come tenere un meeting
+			- LATER fare un
 		- **Bugfixes Task** #bug/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
