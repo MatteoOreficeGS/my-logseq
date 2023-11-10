@@ -27,7 +27,7 @@
 		- **Meeting Task**
 			- contemplare le azioni finali del  meeting
 			- leggere qualche articolo su come tenere un meeting
-			- LATER fare un #Process/Sharing/Howtos su come tenere un meeting
+			- fare un #Process/Sharing/Howtos su come tenere un meeting
 		- **Bugfixes Task** #bug/fix
 			- creare un template con delle props in maniera da censire subito il bug
 			- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
