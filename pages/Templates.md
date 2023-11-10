@@ -8,7 +8,7 @@
 		- Jira al momento ha troppi #jira/issue/type eterogenei  andrebbero uniformati, a cascata crea diversi problemi tra cui:
 			- cui assenza di informazioni specifiche e richieste sui tasks
 			- difficoltá nelle queries e filtri
-			- TODO eventualmente creare un modello system wide per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
+			- eventualmente creare un modello system wide per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
 		- **Considerazioni**
