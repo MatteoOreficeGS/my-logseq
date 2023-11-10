@@ -26,8 +26,10 @@
 		      > 15829.txt
 		  ```
 	- ## Esaminare il log di una chiamate #Domain/FattureRate
-		- Per fare questo bisogna utilizzare URL di apistaging sul quale i log sono visibili
-		- ```bash
-		  docker exec  api cat /tmp/api-2023-10-11.txt | less
+		- Per poter esaminare il log dobbiamo usare la macchina di staging
+		- effettuare una chiamata come la seguente
+		- ```
 		  ```
-		-
+		- ```bash
+		  docker exec  api cat '/tmp/api-2023-10-11.txt' | less
+		  ```
