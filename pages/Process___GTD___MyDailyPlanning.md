@@ -55,3 +55,5 @@
 		  logseq.order-list-type:: number
 - # Interruzioni
 	- Da completare il meccanismo
+- # Considerazioni
+	- le attivitá richieste dal cliente
