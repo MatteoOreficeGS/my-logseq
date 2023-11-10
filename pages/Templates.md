@@ -27,7 +27,7 @@
 		- **Meeting Task**
 			- contemplare le azioni finali del  meeting
 			- leggere qualche articolo su come tenere un meeting
-			- Fare un #Process/Sharing/Howtos su come tenere un meeting #improvements
+			- LATER Fare un #Process/Sharing/Howtos su come tenere un meeting #improvements
 				- spesso nelle riunioni non viene traschitto nulla #issue #meeting #Process/SDC/analysis
 		- **Bugfixes Task** #bug/fix
 			- creare un template con delle props in maniera da censire subito il bug
@@ -61,4 +61,4 @@
 		- template annidati https://github.com/sawhney17/logseq-smartblocks ?
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
-	- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
+	- Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
