@@ -46,7 +46,7 @@
 				  logseq.order-list-type:: number
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
-	- Template per il #Troubleshooting
+	- Template per il #troubleshooting
 		- Al fine di circoscrivere il formato di domanda e risposta
 		- dettagli di codice
 		- azioni manuali da intraprendere
