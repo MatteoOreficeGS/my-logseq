@@ -3,6 +3,8 @@
 	- Ragionare su **proprietá** comuni a tutti i **templates** e **tags**
 		- urgenza sicuramente é un parametro comune
 		- target codebase ?
+		- cliente che ha richiesto
+		- corrieri interessati
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
 		- Considerazioni
@@ -27,7 +29,6 @@
 		- **Pull Request Review Task** #PR/review
 			- si intende una richiesta per revisionare una PR
 		- **Suppor Request Task** #[[Process/SDC/support]]
-			- Tipo #config/new
 			- Tipo #hotfix/database request task o in generale #Process/SDC/database-migrations
 			  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
 				- analizza target potenziale della modifica
