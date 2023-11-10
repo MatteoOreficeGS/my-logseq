@@ -27,7 +27,8 @@
 		- **Pull Request Review Task** #PR/review
 			- si intende una richiesta per revisionare una PR
 		- **Suppor Request Task** #[[Process/SDC/support]]
-			- #hotfix/database request task o in generale #Process/SDC/database-migrations
+			- Tipo #config/new
+			- Tipo #hotfix/database request task o in generale #Process/SDC/database-migrations
 			  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
 				- analizza target potenziale della modifica
 				  logseq.order-list-type:: number
