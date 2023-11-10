@@ -21,8 +21,8 @@
 		  ```
 	- ## Estrarre dal log CtrFatt.log solo un'elaborazione
 		- ```shell
-		  grep 'Risposta.*Rate.*15386' /tmp/CtrFatGsped.log | \
-		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
-		  	sort -h | uniq
+		  zcat /tmp/CtrFatGsped.log | \
+		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \
+		      > 15829.txt
 		  ```
 -
