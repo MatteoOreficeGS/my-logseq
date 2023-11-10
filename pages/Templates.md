@@ -57,6 +57,7 @@
 		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
 	- Template elenco di domande e risposte
 		- da usari in altri template ?
+		- template annidati https://github.com/sawhney17/logseq-smartblocks ?
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
 	- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
