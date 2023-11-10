@@ -57,4 +57,7 @@
 	- Da completare il meccanismo
 - # Considerazioni
 	- le attivitá richieste dal cliente vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue
-	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi
+	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask
+	-
+	-
+	-
