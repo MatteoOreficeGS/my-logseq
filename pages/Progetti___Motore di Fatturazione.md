@@ -25,3 +25,5 @@
 		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \
 		      > 15829.txt
 		  ```
+	- ## Esaminare il log di una chiamate #Domain/FattureRate
+		- per fare questo bisogna utilizzare URL di apistaging al fine d
