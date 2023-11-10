@@ -4,7 +4,7 @@
 		- ~~ho giá creato una #jira/issue [FT-36|specializzare opener GlsRigaFattura per trattare p_tax nella classe figlia (Refactoring)](https://gsped.atlassian.net/browse/FT-36)~~
 - # #improvements
 	- creare un tool da riga di comando per fare analisi del log con semplici parametri, non sarebbe male usare un binario GO oppure uno shell script ancore meglio
-- # DONE #Troubleshooting
+- # #Troubleshooting
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
@@ -14,7 +14,7 @@
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
-	- ## Mostrare le risposte di [[Domain/FattureRate]] di un'elaborazione
+	- ## Mostrare risposte #Domain/FattureRate  dal log `CtrFatt.log`
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
