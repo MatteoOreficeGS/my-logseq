@@ -19,10 +19,10 @@
 			  :LOGBOOK:
 			  CLOCK: [2023-11-09 Thu 19:10:16]
 			  :END:
-			- NOW Classificare per un certo periodo di tempo i tipi di task che si presentano guardando il **Daily Journal**
+			- LATER Classificare per un certo periodo di tempo i tipi di task che si presentano guardando il **Daily Journal**
 			  SCHEDULED: <2023-12-31 Sun>
 			  :LOGBOOK:
-			  CLOCK: [2023-11-09 Thu 19:38:00]
+			  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
 			  :END:
 		- **Meeting Task**
 			- contemplare le azioni finali del  meeting
