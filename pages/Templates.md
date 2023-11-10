@@ -55,6 +55,8 @@
 		- Non deve sostituire l'analisi che sfocierá in una card JIRA
 		  background-color:: red
 		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
+	- Template elenco di domande e risposte
+		- da usari in altri template ?
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
 	- LATER Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
