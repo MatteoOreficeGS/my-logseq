@@ -27,20 +27,20 @@
 		- **Pull Request Review Task** #PR/review
 			- si intende una richiesta per revisionare una PR
 		- **Suppor Request Task** #[[Process/SDC/support]]
-		- #hotfix/database request task o in generale #Process/SDC/database-migrations
-		  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
-			- analizza target potenziale della modifica
-			  logseq.order-list-type:: number
-			- crea e test codice sql
-			  logseq.order-list-type:: number
-			- inserisci il codice in una card jira 
-			  logseq.order-list-type:: number
-				- Jira al momento ha troppi #jira/issue/type eterogenei  andrebbero uniformati, a cascata crea diversi problemi tra cui:
-					- cui assenza di informazioni specifiche e richieste sui tasks
-					- difficoltá nelle queries e filtri
-					- TODO eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
-			- assegnati e metti in progress
-			  logseq.order-list-type:: number
+			- #hotfix/database request task o in generale #Process/SDC/database-migrations
+			  id:: 654d1ffa-e50c-4141-aadf-7a8373f3eee2
+				- analizza target potenziale della modifica
+				  logseq.order-list-type:: number
+				- crea e test codice sql
+				  logseq.order-list-type:: number
+				- inserisci il codice in una card jira 
+				  logseq.order-list-type:: number
+					- Jira al momento ha troppi #jira/issue/type eterogenei  andrebbero uniformati, a cascata crea diversi problemi tra cui:
+						- cui assenza di informazioni specifiche e richieste sui tasks
+						- difficoltá nelle queries e filtri
+						- TODO eventualmente richiedi un modello per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
+				- assegnati e metti in progress
+				  logseq.order-list-type:: number
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
 	- Template per il #Troubleshooting
