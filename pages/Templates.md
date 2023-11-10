@@ -11,7 +11,7 @@
 			- TODO eventualmente creare un modello system wide per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
 	- Tipi di task da svolgere per il #Processi/GTD
-		- Considerazioni
+		- **Considerazioni**
 			- Ragionare su proprietá comuni a tutti i **tasks**
 			  id:: 654d0c7c-b44b-4a3c-b69e-fb443eee047e
 			- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/GTD/MyDailyPlanning]]
