@@ -64,6 +64,7 @@
 		- saperlo aiuta anche nel sceglierle come prioritarie in caso di numerose richieste
 		- diverso se sono per un cliente ma non sono richieste direttamente da lui, potrebbero non essere cosí urgenti
 	- Altra questione fondamentale é l'**attribuzione di una prioritá** ad una attivitá, ad oggi é molto difficile, si potrebbe calcolare uno score basandosi su una serie di parametri in una tabella #[[Process/SDC/Issue Tracking/Risk Assesment]] #issue/process #REMEDY
-	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask #[[Process/SDC/Issue Tracking/Risk Assesment]] ?
+	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi?  Anche qui é fondamentale la #[[Process/SDC/Issue Tracking/Risk Assesment]] #issue/process  #question/ask ?
 		- esiste una soglia di effort minima ?
 		  id:: 6551eae3-8770-4e22-86d8-c6e784a349c2
+-
