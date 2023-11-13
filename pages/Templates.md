@@ -9,21 +9,8 @@
 			- cui assenza di informazioni specifiche e richieste sui tasks
 			- difficoltá nelle queries e filtri
 			- eventualmente creare un modello system wide per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
+	- # Proposte di templates
 	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
-	- Tipi di task da svolgere per il #Processi/GTD
-		- **Considerazioni**
-			- Ragionare su proprietá comuni a tutti i **tasks**
-			  id:: 654d0c7c-b44b-4a3c-b69e-fb443eee047e
-			- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/GTD/MyDailyPlanning]]
-			  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
-			  :LOGBOOK:
-			  CLOCK: [2023-11-09 Thu 19:10:16]
-			  :END:
-			- LATER Classificare per un certo periodo di tempo i tipi di task che si presentano guardando il **Daily Journal**
-			  SCHEDULED: <2023-12-31 Sun>
-			  :LOGBOOK:
-			  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
-			  :END:
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
 	- Template per il #troubleshooting
@@ -62,6 +49,20 @@
 				  logseq.order-list-type:: number
 				- assegnati e metti in progress
 				  logseq.order-list-type:: number
+	- Tipi di task da svolgere per il #Processi/GTD
+		- **Considerazioni**
+			- Ragionare su proprietá comuni a tutti i **tasks**
+			  id:: 654d0c7c-b44b-4a3c-b69e-fb443eee047e
+			- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/GTD/MyDailyPlanning]]
+			  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
+			  :LOGBOOK:
+			  CLOCK: [2023-11-09 Thu 19:10:16]
+			  :END:
+			- LATER Classificare per un certo periodo di tempo i tipi di task che si presentano guardando il **Daily Journal**
+			  SCHEDULED: <2023-12-31 Sun>
+			  :LOGBOOK:
+			  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
+			  :END:
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
 	- Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
