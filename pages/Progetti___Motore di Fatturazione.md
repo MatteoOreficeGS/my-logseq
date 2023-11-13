@@ -54,4 +54,5 @@
 		- ```bash
 		  docker exec  api cat '/tmp/api-2023-10-11.txt' | less
 		  ```
-		- Conviene creare documentazione di alto livello per i componenti di GSped per questo trovare un tipo di organizzazione per la #doc/internal #[[Instrument/C4]] in questo caso avrei voluto per esempio definire il componente #Domain/Model/FattureRate
+		- Conviene creare documentazione di alto livello per i componenti di GSped per questo trovare un tipo di organizzazione per la #doc/internal, valutare se #[[Instrument/C4]] puó essere usato per descrivere quali parti del sistema
+			- #Domain/Model/FattureRate
