@@ -13,3 +13,5 @@
 	- Any object in my object model that also exist as a concept in my domain model I would call a domain object. In the previous example, Restaurant, Order and Customer would all be domain objects.
 	- Not every object in a system is a domain object. Some objects are value objects. A value object is an object whose identity doesn’t matter. Examples of concepts that would make sense as value objects rather than domain objects are phone number values or money values.
 	- One type of “object” that’s popular in the Rails world that I tend not to use is the service object, for reasons explained in the linked post.
+- ## Riferimenti
+	- https://www.codewithjason.com/difference-domains-domain-models-object-models-domain-objects/
