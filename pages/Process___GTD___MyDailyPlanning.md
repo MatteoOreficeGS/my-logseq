@@ -60,8 +60,8 @@
 	- rilevamento di #improvements/ineffectiveness nei processi
 - # Considerazioni
 	- le **attivitá per un certo cliente da lui richieste** vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che non sempre nelle #jira/issue viene indicato chiaramente se é stata una richiesta del cliente a farla aprire #improvements/ineffectiveness #[[Process/Customer Satisfaction]] #jira/issue/type
-		- questo é un problema se ha fretta e non venendo usata una data di scadenza #issue/process
-		- quantomeno nel decidere cosa fare prima queste potrebbero avere la prioritá
+		- questo é un problema se ha fretta e non viene usata una data di scadenza poiché la richiesta va in concorrenza ad altre non espressamente richieste #issue/process
+		- saperlo aiuta anche nel sceglierle come prioritarie in caso di
 		- diverso se sono per un cliente ma non richieste direttamente da lui
 	-
 	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask ?
