@@ -1,1 +1,1 @@
-- É uno strumento per visualizzare attuale architettura di un sistema tramite
+- É uno strumento per visualizzare attuale architettura di un sistema tramite diversi livelli di astrazione e punti di vista #Process/SDC/Visualize
