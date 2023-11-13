@@ -1,0 +1,13 @@
+# Definition
+	- The best definition of "domain object" I've found in literature is in Chapter 11 of [TimHoward](https://wiki.c2.com/?TimHoward)'s book [TheSmalltalkDevelopersGuideToVisualWorks](https://wiki.c2.com/?TheSmalltalkDevelopersGuideToVisualWorks) pp.379-381:
+		- "a domain object is a logical container of purely domain information, usually represents a logical entity in the problem domain space ... In general, domain objects should know how to
+			- recognize which [of their] references indicate aggregation and which ones indicate association
+			- copy themselves
+			- maintain business logic
+			- compare themselves to other domain objects of the same type
+			- facilitate other objects that choose to print or display them
+			- conduct tests on their domain information"
+		- To this list I would add
+			- identify themselves
+			- validate themselves
+- > https://wiki.c2.com/?DomainObject
