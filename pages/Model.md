@@ -1,5 +1,5 @@
-- The difference between domains, domain models, object models and domain objects
-  by Jason Swett, October 4, 2019
+- The difference between **domains**, **domain models**, **object models** and **domain objects** by Jason Swett, October 4, 2019
+-
 - I recently came across a question regarding the difference between domains and domain models. These terms probably mean different things to different people, but I’ll define the terms as I use them.
 - ## Domain
 	- When I’m working on a software project, the domain is the conceptual area I’m working inside of. For example, if I’m working on an application that has to do with restaurants, the domain is restaurants.
@@ -14,4 +14,4 @@
 	- Not every object in a system is a domain object. Some objects are value objects. A value object is an object whose identity doesn’t matter. Examples of concepts that would make sense as value objects rather than domain objects are phone number values or money values.
 	- One type of “object” that’s popular in the Rails world that I tend not to use is the service object, for reasons explained in the linked post.
 - ## Riferimenti
-	- https://www.codewithjason.com/difference-domains-domain-models-object-models-domain-objects/ #OOP/Design
+	- https://www.codewithjason.com/difference-domains-domain-models-object-models-domain-objects/  #Process/SDC/design/OOP
