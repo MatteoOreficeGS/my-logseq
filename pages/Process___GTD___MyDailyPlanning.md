@@ -55,6 +55,9 @@
 		  logseq.order-list-type:: number
 - # Interruzioni
 	- Da completare il meccanismo
+- # Generazione indiretta di task
+	- rilevamento di #issue/code durante esplorazione del codice
+	- rilevamento di
 - # Considerazioni
 	- le attivitá richieste dal cliente vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue
 	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask ?
