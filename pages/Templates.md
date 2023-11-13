@@ -24,6 +24,21 @@
 			  :LOGBOOK:
 			  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
 			  :END:
+	- Template per tag pages
+		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
+	- Template per il #troubleshooting
+		- Al fine di circoscrivere il formato di domanda e risposta
+		- dettagli di codice
+		- azioni manuali da intraprendere
+	- Template per una #issue
+	- Template per un #improvements
+		- Non deve sostituire l'analisi che sfocierá in una card JIRA
+		  background-color:: red
+		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
+	- Template elenco di domande e risposte
+		- da usari in altri template ?
+		- template annidati https://github.com/sawhney17/logseq-smartblocks ?
+	- # Tipi di Task
 		- **Task di Analisi**
 			- deve
 		- **Meeting Task**
@@ -47,20 +62,6 @@
 				  logseq.order-list-type:: number
 				- assegnati e metti in progress
 				  logseq.order-list-type:: number
-	- Template per tag pages
-		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
-	- Template per il #troubleshooting
-		- Al fine di circoscrivere il formato di domanda e risposta
-		- dettagli di codice
-		- azioni manuali da intraprendere
-	- Template per una #issue
-	- Template per un #improvements
-		- Non deve sostituire l'analisi che sfocierá in una card JIRA
-		  background-color:: red
-		- Indicare un livello di desiderata NICE TO HAVE, MUST HAVE, etc
-	- Template elenco di domande e risposte
-		- da usari in altri template ?
-		- template annidati https://github.com/sawhney17/logseq-smartblocks ?
 - # Tags e properties
 	- Ragionare anche su quali metadati utilizzare per ritrovare questo contenuto che viene creato sin da subito
 	- Ricordare che é disponibile  ereditarietá e fare dei test su di #LogSeq https://discuss.logseq.com/t/tagging-every-block-or-using-block-properties/11612
