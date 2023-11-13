@@ -63,7 +63,7 @@
 		- questo é un problema se ha fretta e non viene usata una data di scadenza poiché la richiesta va in concorrenza ad altre non espressamente richieste #issue/process
 		- saperlo aiuta anche nel sceglierle come prioritarie in caso di numerose richieste
 		- diverso se sono per un cliente ma non sono richieste direttamente da lui, potrebbero non essere cosí urgenti
-		- Altra
+		- Altra questione fondamentale é l'attribuzione di una prioritá ad una attivitá, ad oggi é molto difficile, si potrebbe calcolare uno score
 	-
 	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask ?
 		- esiste una soglia di effort minima ?
