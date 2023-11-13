@@ -1,2 +1,2 @@
-# domande
-	- quali sono
+# #question
+	- quali sono le business rule fondamentali ?
