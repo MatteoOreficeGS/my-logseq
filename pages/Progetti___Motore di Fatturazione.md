@@ -14,7 +14,7 @@
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
-	- ## Mostrare risposte #Domain/Models/FattureRate  dal log `CtrFatt.log`
+	- ## Mostrare risposte #Domain/Objects/FattureRate  dal log `CtrFatt.log`
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
@@ -25,7 +25,7 @@
 		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \
 		      > 15829.txt
 		  ```
-	- ## Esaminare log chiamata #Domain/Models/FattureRate
+	- ## Esaminare log chiamata #Domain/Objects/FattureRate
 		- Per poter esaminare il log dobbiamo usare la macchina di staging
 		- effettuare una chiamata come la seguente
 		- ```
@@ -55,4 +55,4 @@
 		  docker exec  api cat '/tmp/api-2023-10-11.txt' | less
 		  ```
 		- Conviene creare documentazione di alto livello per i componenti di GSped, ad esempio il modello #[[Instrument/C4]] puó essere usato per descrivere ad alto livello un sistema
-		- Inoltre andrebbero #Domain/Models/FattureRate
+		- Inoltre andrebbero #Domain/Objects/FattureRate
