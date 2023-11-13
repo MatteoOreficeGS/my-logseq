@@ -59,9 +59,10 @@
 	- rilevamento di #issue/code durante esplorazione del codice
 	- rilevamento di #improvements/ineffectiveness nei processi
 - # Considerazioni
-	- le attivitá richieste dal cliente vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che non sempre nelle #jira/issue viene indicato chiaramente se é stata una richiesta del cliente a farlo aprire
-		- questo é un problema se ha fretta e ha bisogno di risolvere entro una certa data
-		- diverso se
+	- le attivitá per un certo cliente da lui richieste vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che non sempre nelle #jira/issue viene indicato chiaramente se é stata una richiesta del cliente a farlo aprire
+		- questo é un problema se ha fretta e ha bisogno di risolvere entro una certa data si potrebbe non rispettarla
+		- quantomeno nel decidere cosa fare prima queste potrebbero avere la prioritá
+		- diverso se sono per un cliente ma non richieste direttamente da lui
 	-
 	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask ?
 		- esiste una soglia di effort minima ?
