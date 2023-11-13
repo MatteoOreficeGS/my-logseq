@@ -1,1 +1,1 @@
-- É un
+- É uno strumento per visualizzare attuale architettura di un sistema tramite
