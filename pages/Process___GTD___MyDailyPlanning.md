@@ -54,12 +54,13 @@
 		- marca come fatte le cose completate
 		  logseq.order-list-type:: number
 - # Interruzioni
-	- Da completare il meccanismo
+	- Da completare il meccanismo con cui vengono censite le interruzioni, che sono a volte devastanti
 - # Generazione indiretta di task
 	- rilevamento di #issue/code durante esplorazione del codice
-	- rilevamento di
+	- rilevamento di #improvements/ineffectiveness nei processi
 - # Considerazioni
-	- le attivitá richieste dal cliente vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue
+	- le attivitá richieste dal cliente vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che
+	-
 	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi #question/ask ?
 		- esiste una soglia di effort minima ?
 		  id:: 6551eae3-8770-4e22-86d8-c6e784a349c2
