@@ -39,9 +39,9 @@
 			  :LOGBOOK:
 			  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
 			  :END:
-		- **Task di Analisi**
-			- deve
-		- **Meeting Task**
+		- **Task di Analisi** #Process/SDC/analysis
+			- ((6551eae3-8770-4e22-86d8-c6e784a349c2))
+		- **Meeting Task** #meeting
 			- contemplare le azioni finali del  meeting
 			- leggere qualche articolo su come tenere un meeting
 			- LATER Fare un #Process/Sharing/Howtos su come tenere un meeting #improvements
