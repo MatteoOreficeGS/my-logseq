@@ -67,4 +67,4 @@
 	- quali attivitá che richiedono #Process/SDC/analysis devono finire nella board dell'Analisi?  Anche qui é fondamentale la #[[Process/SDC/Issue Tracking/Risk Assesment]] e ad oggi é un problema #issue/process  #question/ask ?
 		- esiste una soglia di effort minima ?
 		  id:: 6551eae3-8770-4e22-86d8-c6e784a349c2
-	- Un altro problema grave oggi é non avere la data di scadenza per i task in Jira, talvolta non ế
+	- Un altro problema grave oggi é non avere la data di scadenza per i task in Jira, talvolta non é nemmeno possibile settarla ! #issue/jira #issue/process #[[Process/Customer Satisfaction]] #WARNING
