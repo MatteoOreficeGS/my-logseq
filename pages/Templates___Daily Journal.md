@@ -2,7 +2,7 @@
   template:: Daily Journal
   template-including-parent:: false
 	- # Attivitá
-		-
+		- Attivitá 1 azionare
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
@@ -15,7 +15,7 @@
 			- oggetto della richiesta come il nome del progetto o della codebase
 			- link ad una #jira/issue
 			- la sequenzialitá indica cosa fatto prima o dopo
-			- valutare uso di
+			- valutare uso di block properties
 - ## Riferimenti utili
 	- Vai alla guida del tuo processo di [[Process/GTD/MyDailyPlanning]]
 	- Vai al template del [[Templates/Daily Journal]] per migliorarlo
