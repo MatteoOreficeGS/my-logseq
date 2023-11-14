@@ -4,11 +4,12 @@
 	- # Attivitá
 	- ## Help compilazione
 		- ### Intestazione attivitá
-			-
-			- richiedente
-			- cliente
-			- ed eventualmente il corriere
-		- Descrivi attivitá iniziando con un verbo, che implica lo svolgimento di una certa azione,
+			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
+			- deve contenere
+				- richiedente
+				- cliente
+				- ed eventualmente il corriere
+		- ### Sotto blocchi
 - ## Riferimenti utili
 	- Vai alla guida del tuo processo di [[Process/GTD/MyDailyPlanning]]
 	- Vai al template del [[Templates/Daily Journal]] per migliorarlo
