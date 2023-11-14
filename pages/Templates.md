@@ -39,6 +39,9 @@
 			  :LOGBOOK:
 			  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
 			  :END:
+		- **Task di configurazione**
+			- non prevede modifiche al codice
+			- es: aggiunta #[[Progetti/Motore di Fatturazione/Mappature]]
 		- **Task di Analisi** #Process/SDC/analysis
 			- ((6551eae3-8770-4e22-86d8-c6e784a349c2))
 		- **Meeting Task** #meeting
