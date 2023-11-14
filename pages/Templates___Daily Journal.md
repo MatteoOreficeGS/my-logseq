@@ -1,3 +1,4 @@
+-
 - root node
   template:: Daily Journal
   template-including-parent:: false
