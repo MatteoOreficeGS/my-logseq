@@ -1,4 +1,4 @@
-alias::
+alias:: journal
 
 - root node
   template:: Daily Journal
