@@ -7,10 +7,14 @@
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
 			- deve contenere
-				- richiedente
-				- cliente ed eventualmente il corriere
+				- puó citare la sorgente della richiesta, mail, slack etc e se possibile un link
+				  logseq.order-list-type:: number
+				- richiedente, cliente ed eventualmente il corriere
+				  logseq.order-list-type:: number
 				- oggetto della richiesta come il nome del progetto o della codebase
+				  logseq.order-list-type:: number
 				- link ad una #jira/issue
+				  logseq.order-list-type:: number
 		- ### Sotto blocchi
 			- la sequenzialitá indica cosa fatto prima o dopo
 - ## Riferimenti utili
