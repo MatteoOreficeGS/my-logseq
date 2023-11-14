@@ -1,2 +1,2 @@
 - per organizzare i progetti di LogSeq
-- per
+- uso principale é per disambiguare dei nomi, ad esempio
