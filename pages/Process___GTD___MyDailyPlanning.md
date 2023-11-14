@@ -5,7 +5,7 @@
 - # Pianificazione ⏰
 	- Annota le richieste per nuove attivitá da svolgere nel **Today Journal**
 	  logseq.order-list-type:: number
-		- Puoi salvare nel blocco ((654bdedb-e744-4de0-91db-e137747446b7)) del Journal tutte queste informazioni suddivise per provenienza
+		- Puoi salvare nel blocco  del Journal tutte queste informazioni suddivise per provenienza
 		  logseq.order-list-type:: number
 	- Stima il peso
 	  logseq.order-list-type:: number

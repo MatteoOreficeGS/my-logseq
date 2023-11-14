@@ -10,7 +10,7 @@
 			- difficoltá nelle queries e filtri
 			- eventualmente creare un modello system wide per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
 	- # Proposte di templates
-	- Tipi di richiesta per la sezione del Daily Journal ((654bdedb-e744-4de0-91db-e137747446b7))
+	- Tipi di richiesta per la sezione del Daily Journal
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
 	- Template per il #troubleshooting
