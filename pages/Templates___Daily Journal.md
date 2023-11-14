@@ -6,7 +6,9 @@ alias:: journal
 	- # Attivitá
 		- Testo descrittivo attivitá 1
 			- journal/client:: #client
-			  journal/
+			  journal/courier:: #courier
+			  journal/requester:: #people
+			  journal/channel:: #channel
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
