@@ -2,7 +2,7 @@
   template:: Daily Journal
   template-including-parent:: false
 	- # Attivitá
-		- Attivitá 1 azionare
+		- Testo descrittivo attivitá 1
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
