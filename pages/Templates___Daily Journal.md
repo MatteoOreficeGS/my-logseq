@@ -20,6 +20,6 @@
 			- link ad una #jira/issue
 			- la sequenzialitá indica cosa fatto prima o dopo
 			- valutare uso di block properties
-- ## Riferimenti utili
-	- Vai alla guida del tuo processo di [[Process/GTD/MyDailyPlanning]]
-	- Vai al template del [[Templates/Daily Journal]] per migliorarlo
+	- ## Riferimenti utili
+		- Vai alla guida del tuo processo di [[Process/GTD/MyDailyPlanning]]
+		- Vai al template del [[Templates/Daily Journal]] per migliorarlo
