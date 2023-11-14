@@ -7,7 +7,7 @@
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
 			- alla fine utilizzare dei tag per indicare
-				- la sorgente della richiesta, mail, slack etc e se possibile un link
+				- la sorgente della richiesta, mail, slack etc
 				  logseq.order-list-type:: number
 				- richiedente, cliente ed eventualmente il corriere
 				  logseq.order-list-type:: number
@@ -15,6 +15,7 @@
 			- oggetto della richiesta come il nome del progetto o della codebase
 			- link ad una #jira/issue
 			- la sequenzialitá indica cosa fatto prima o dopo
+			- valutare uso di
 - ## Riferimenti utili
 	- Vai alla guida del tuo processo di [[Process/GTD/MyDailyPlanning]]
 	- Vai al template del [[Templates/Daily Journal]] per migliorarlo
