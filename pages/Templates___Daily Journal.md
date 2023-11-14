@@ -3,10 +3,10 @@
   template-including-parent:: false
 	- # Attivitá
 		- Testo descrittivo attivitá 1
-			- journal/client:: #client
-			  journal/courier:: #courier
-			  journal/requester:: #people
-			  journal/channel:: #channel
+			- client:: #client
+			  courier:: #courier
+			  requester:: #people
+			  channel:: #channel
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
