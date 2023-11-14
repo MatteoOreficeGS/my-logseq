@@ -3,10 +3,10 @@
   template-including-parent:: false
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
-		  client:: #client
-		  courier:: #courier
-		  requester:: #people
-		  channel:: #channel
+		  client:: fill
+		  courier:: fill
+		  requester:: fill
+		  channel:: fill
 			- attivitá log statement 1
 			- attivitá log statement 2
 			- attivitá log statement ...
