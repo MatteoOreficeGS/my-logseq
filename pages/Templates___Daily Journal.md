@@ -5,7 +5,8 @@ alias:: journal
   template-including-parent:: false
 	- # Attivitá
 		- Testo descrittivo attivitá 1
-			- journal/
+			- journal/client:: #client
+			  journal/
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
