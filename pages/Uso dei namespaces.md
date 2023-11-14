@@ -1,0 +1,2 @@
+- per organizzare i progetti di LogSeq
+- per
