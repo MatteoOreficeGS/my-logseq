@@ -7,6 +7,10 @@
 		  courier:: #courier
 		  requester:: #people
 		  channel:: #channel
+			- attivitá log statement 1
+			- attivitá log statement 2
+			- attivitá log statement ...
+			- attivitá log statement N
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
