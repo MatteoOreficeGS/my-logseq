@@ -2,11 +2,11 @@
   template:: Daily Journal
   template-including-parent:: false
 	- # Attivitá
-		- Testo descrittivo attivitá 1
-			- client:: #client
-			  courier:: #courier
-			  requester:: #people
-			  channel:: #channel
+		- ### Testo descrittivo attivitá 1
+		  client:: #client
+		  courier:: #courier
+		  requester:: #people
+		  channel:: #channel
 	- ## Help compilazione
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
