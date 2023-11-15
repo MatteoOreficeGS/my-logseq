@@ -1,1 +1,2 @@
-- Capire da chi viene utilizzata realmente facendo un diagramma
+- Capire da chi viene utilizzata realmente facendo un diagramma di dipendenze
+- Forse é utilizzata
