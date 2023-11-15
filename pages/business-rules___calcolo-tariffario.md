@@ -1,0 +1,5 @@
+- Analizzare le risorse disponibili in Gsped e formalizzare qui
+-
+- ## Riferimenti
+	- ### GitBook
+		- https://app.gitbook.com/o/-LhpbdRCZplUyqAg775u/home?q=calcolo+tariffario
