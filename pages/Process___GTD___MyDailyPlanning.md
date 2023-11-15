@@ -43,9 +43,9 @@
 		  logseq.order-list-type:: number
 		- ricordati di **annotare sempre** le card #jira in maniera che tutti leggano l'avanzamento delle attivitá
 		  logseq.order-list-type:: number
-		- si potrebbe trovare un modo per collegare in #LogSeq delle annotazioni private visibili solo a te, per questo conviene documentare e ragionare bene su cosa debba finire il #LogSeq e cosa in #jira
+		- ricorda di non inserire in #LogSeq informazioni che devono essere condivise in #jira #Process/Sharing
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- aggiornare anche questa stessa pagina per meglio descrivere cosa non vada assolutamente scritto in #LogSeq
 		  logseq.order-list-type:: number
 	- a fine giornata
