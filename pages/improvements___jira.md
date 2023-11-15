@@ -1,1 +1,1 @@
-alias:: jira/meta/improvements
+alias:: jira/improvements
