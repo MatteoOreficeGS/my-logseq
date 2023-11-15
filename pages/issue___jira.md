@@ -1,1 +1,3 @@
-alias:: jira/meta/issue
+alias:: jira/issue/meta
+
+-
