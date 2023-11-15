@@ -1,1 +1,2 @@
 - É uno strumento per visualizzare attuale architettura di un sistema tramite diversi livelli di astrazione e punti di vista #Process/SDC/visualization #Process/SDC/design
+- Non esiste un metodo preci
