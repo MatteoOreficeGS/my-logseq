@@ -1,4 +1,3 @@
-- Analizzare le risorse disponibili in Gsped e formalizzare qui una sintesi o migliore definizione
 - [[draws/2023-11-15-15-30-57.excalidraw]]
 -
 - ## Riferimenti
