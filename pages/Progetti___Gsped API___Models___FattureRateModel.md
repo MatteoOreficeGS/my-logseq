@@ -2,7 +2,7 @@
 - # #troubleshooting
 	- ## Esaminare log chiamata FattureRate 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
-	  #[[Progetti/Gsped API/Models/FattureRate]]
+	  #[[Progetti/Gsped API/Models/FattureRateModel]]
 		- Per poter esaminare il log dobbiamo usare la macchina di staging
 		- effettuare una chiamata come la seguente
 		- ```
@@ -32,4 +32,4 @@
 		  docker exec  api cat '/tmp/api-2023-10-11.txt' | less
 		  ```
 		- Conviene creare documentazione di alto livello per i componenti di GSped, ad esempio il modello #[[Instrument/C4]] puó essere usato per descrivere ad alto livello un sistema
-		- Inoltre andrebbero #[[Progetti/Gsped API/Models/FattureRate]]
+		- Inoltre andrebbero #[[Progetti/Gsped API/Models/FattureRateModel]]

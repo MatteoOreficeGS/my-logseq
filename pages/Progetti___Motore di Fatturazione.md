@@ -14,7 +14,7 @@
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
-	- ## Mostrare risposte #[[Progetti/Gsped API/Models/FattureRate]]  dal log `CtrFatt.log`
+	- ## Mostrare risposte #[[Progetti/Gsped API/Models/FattureRateModel]]  dal log `CtrFatt.log`
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
