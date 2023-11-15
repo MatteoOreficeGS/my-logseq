@@ -19,6 +19,12 @@
 		  logseq.order-list-type:: number
 			- Serve un #Templates per le attivitá di **analisi**
 			  logseq.order-list-type:: number
+	- Dai una prioritá alle cose da fare
+	  logseq.order-list-type:: number
+		- se sono troppe usa il plugin per export di Jira e condividi con il tuo capo
+		  logseq.order-list-type:: number
+		- se hai dubbi sulle prioritá usa il plugin per export di Jira e condividi con il tuo capo
+		  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** e portale in stato **NOW**
 	  logseq.order-list-type:: number
 	  > in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli
@@ -29,12 +35,6 @@
 			  logseq.order-list-type:: number
 	- Valutare i task con la **scadenza** in Jira
 	  logseq.order-list-type:: number
-	- Dai una prioritá alle cose da fare
-	  logseq.order-list-type:: number
-		- se sono troppe usa il plugin per export di Jira e condividi con il tuo capo
-		  logseq.order-list-type:: number
-		- se hai dubbi sulle prioritá usa il plugin per export di Jira e condividi con il tuo capo
-		  logseq.order-list-type:: number
 	- Lavora sulle cose che hai da fare
 	  logseq.order-list-type:: number
 		- puoi marcare le attivitá con NOW per ricordare meglio costa stai facendo
