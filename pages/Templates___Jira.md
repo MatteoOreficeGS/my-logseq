@@ -1,5 +1,5 @@
 # Descrizione
-Elenca template da creare in #jira
+Elenca template da creare in #jira #Process/SDC/issue-tracking #improvements/jira #jira/reporting
 - # Proposte
 	- I task di sviluppo dovrebbero avere una lista di avvitá di default come
 		- Esegui test di integrazione
