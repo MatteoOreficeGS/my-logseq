@@ -25,7 +25,8 @@
 		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \
 		      > 15829.txt
 		  ```
-	- ## Esaminare log chiamata FattureRate
+	- ## Esaminare log chiamata FattureRate 
+	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
 	  #[[Progetti/Gsped API/Models/FattureRate]]
 		- Per poter esaminare il log dobbiamo usare la macchina di staging
 		- effettuare una chiamata come la seguente
