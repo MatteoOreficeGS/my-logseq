@@ -25,11 +25,11 @@
 		  logseq.order-list-type:: number
 		- se hai dubbi sulle prioritá usa il plugin per export di Jira e condividi con il tuo capo
 		  logseq.order-list-type:: number
-		- ci possono essere anche task nello stato **NOW** dal giorno precedente che non sono stati terminati o dimenticati
+		- ci possono essere anche task nello stato **NOW** dal giorno precedente che non sono stati terminati o dimenticati, hai due scelte
 		  logseq.order-list-type:: number
-			- La lista di tasks proposti da #LogSeq al fondo del Journal, oltre ai task in stato **NOW** che dovresti continuare sono visualizzati quelli con una prossima **prossima scadenza**
+			- puoi chiuderli con un commento
 			  logseq.order-list-type:: number
-			- I tuoi filtri JIRA
+			- puoi
 			  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** dall'elenco dalla cima delle attivitá master ordinaté per prioritá decrescente in #jira e creale nella TodoList del #[[Templates/Daily Journal]] con stato **NOW**
 	  logseq.order-list-type:: number
