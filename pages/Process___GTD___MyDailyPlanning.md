@@ -9,7 +9,7 @@
 		  logseq.order-list-type:: number
 	- Valuta #jira/issue/effprt delle card per inserimento in #jira
 	  logseq.order-list-type:: number
-		- Converti le attivitá che richiedono piú di 10 minuti in #jira/issue/comeout
+		- Converti le attivitá che richiedono piú di 10 minuti in #issue/jira , puoi marcare con questo tag la necessitá di crearne una #jira/issue/comeout
 		  logseq.order-list-type:: number
 		- Le attivitá veloci non vanno trasferite in #jira
 		  logseq.order-list-type:: number
