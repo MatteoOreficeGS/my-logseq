@@ -1,5 +1,6 @@
-- Analizzare le risorse disponibili in Gsped e formalizzare qui
+- Analizzare le risorse disponibili in Gsped e formalizzare qui una sintesi o migliore definizione
 -
+- /
 - ## Riferimenti
 	- ### GitBook
 		- https://app.gitbook.com/o/-LhpbdRCZplUyqAg775u/home?q=calcolo+tariffario
