@@ -4,7 +4,8 @@
 		- se il tipo listino non é conforme al listino per la quale la tariffa é specificata
 		- ....inserire altri esempi
 	- ### Sequenza
-		- fa alcuni controlli
+		- fa alcuni controlli che potrebbero interrompere il calcolo della tariffa
+		- controllo sulle zone incluse
 -
 - # #troubleshooting
 	- ## Esaminare log chiamata FattureRate 
