@@ -27,9 +27,9 @@
 		  logseq.order-list-type:: number
 		- ci possono essere anche task nello stato **NOW** dal giorno precedente che non sono stati terminati o dimenticati, hai due scelte
 		  logseq.order-list-type:: number
-			- chiuderli con un commento
-				- in linea di massima questi task devono esistere in #jira quindi é inutile tenerli aperti
-			- puoi tenerli aperti considerandone la prioritá rispetto alle attivitá piú importanti in #jira,
+			- se non sono #jira/untracked chiuderli con un commento
+				- > in linea di massima questi task devono esistere in #jira quindi é inutile tenerli aperti
+			- diversamente se li trovi aperti il giorno successivo e sono #jira/untracked meglio farli diventare dell
 	- Scegli a questo punto le attivitá **da fare oggi** dall'elenco dalla cima delle attivitá master ordinaté per prioritá decrescente in #jira e creale nella TodoList del #[[Templates/Daily Journal]] con stato **NOW**
 	  logseq.order-list-type:: number
 	  > in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli
