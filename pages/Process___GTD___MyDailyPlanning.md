@@ -60,6 +60,7 @@
 - # Interruzioni
 	- Da completare il meccanismo con cui vengono censite le interruzioni, che sono a volte devastanti
 - # Generazione indiretta di task
+  Attivitá da tenere a mente durante il giorno
 	- rilevamento di #issue/code durante esplorazione del codice
 	- rilevamento di #improvements/ineffectiveness nei processi
 - # Considerazioni
