@@ -25,7 +25,7 @@
 		  logseq.order-list-type:: number
 		- se hai dubbi sulle prioritá usa il plugin per export di Jira e condividi con il tuo capo
 		  logseq.order-list-type:: number
-	- Scegli a questo punto le attivitá **da fare oggi** dall'elenco delle attivitá master in #jira e portale in stato **NOW**
+	- Scegli a questo punto le attivitá **da fare oggi** dall'elenco delle attivitá master in #jira e creale nella TodoList del #[[Templates/Daily Journal]] con stato **NOW**
 	  logseq.order-list-type:: number
 	  > in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli
 		- preleva i task programmati o **LATER** dalle seguenti liste
