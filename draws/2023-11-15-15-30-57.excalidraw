@@ -1,10 +1,79 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://logseq.com",
-  "elements": [],
+  "source": "file://",
+  "elements": [
+    {
+      "id": "k-3zYF9NBAf8ygiVkHmIE",
+      "type": "rectangle",
+      "x": 422.75905990600586,
+      "y": 321.9866943359375,
+      "width": 250,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 139724197,
+      "version": 55,
+      "versionNonce": 1641550565,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "l85ibyva8n29KG6-rc72y"
+        }
+      ],
+      "updated": 1700058696286,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "l85ibyva8n29KG6-rc72y",
+      "type": "text",
+      "x": 454.84302139282227,
+      "y": 349.4866943359375,
+      "width": 185.8320770263672,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 2099777131,
+      "version": 66,
+      "versionNonce": 1654277259,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700058696287,
+      "link": null,
+      "locked": false,
+      "text": "Excalidraw",
+      "fontSize": 36,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 31,
+      "containerId": "k-3zYF9NBAf8ygiVkHmIE",
+      "originalText": "Excalidraw",
+      "lineHeight": 1.25
+    }
+  ],
   "appState": {
-    "viewBackgroundColor": "#FFF",
-    "gridSize": null
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
   }
 }
