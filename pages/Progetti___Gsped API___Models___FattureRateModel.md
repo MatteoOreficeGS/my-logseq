@@ -1,4 +1,8 @@
 - Rappresenta un #Model/Object deputato al #business-rules/calcolo-tariffario
+- ## `calcolaTariffa(...)`
+	-
+	-
+-
 - # #troubleshooting
 	- ## Esaminare log chiamata FattureRate 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
