@@ -1,2 +1,2 @@
 - Capire da chi viene utilizzata realmente facendo un diagramma di dipendenze
-- Forse é utilizzata
+- Forse é utilizzata ma non é chiaro da quali entry point
