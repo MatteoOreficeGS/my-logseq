@@ -1,2 +1,2 @@
 - É uno strumento per visualizzare attuale architettura di un sistema tramite diversi livelli di astrazione e punti di vista #Process/SDC/visualization #Process/SDC/design
-- Non esiste un metodo preci
+- Non esiste un #Method ben definito su come applicarlo ma esistono dei corsi, vedere https://architectis.je/
