@@ -1,0 +1,1 @@
+- Server per indicizzare le issue presenti nel codice filtrandole con altri criteri senza sforzo
