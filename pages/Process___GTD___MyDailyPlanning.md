@@ -13,7 +13,7 @@
 		  logseq.order-list-type:: number
 		- Le attivitá veloci non vanno trasferite in #jira
 		  logseq.order-list-type:: number
-			- Pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq
+			- Pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq, scegli un tag per esempio
 			  logseq.order-list-type:: number
 		- Per le attivitá di sviluppo devi creare le card nella board [Analisi](https://gsped.atlassian.net/jira/software/projects/AN/boards/37) , queste non possono andare subito in lavorazione ma vanno pianificate con il team
 		  logseq.order-list-type:: number
