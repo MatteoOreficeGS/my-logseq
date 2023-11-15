@@ -1,4 +1,1 @@
-filters:: {}
-
-- Permette di trovare facilmente tutti i blocchi che parlano di risoluzione problematiche
--
+- Permette di trovare facilmente tutti i blocchi che parlano di risoluzione problematiche #issue
