@@ -19,7 +19,7 @@
 		  logseq.order-list-type:: number
 			- Serve un #Templates per le attivitá di **analisi**
 			  logseq.order-list-type:: number
-	- Dai una prioritá alle cose da fare
+	- Stabilisci le attivitá
 	  logseq.order-list-type:: number
 		- se sono troppe usa il plugin per export di Jira e condividi con il tuo capo
 		  logseq.order-list-type:: number
