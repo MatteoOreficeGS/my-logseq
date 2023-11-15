@@ -7,7 +7,7 @@
 	  logseq.order-list-type:: number
 		- Puoi salvare nel blocco  del Journal tutte queste informazioni suddivise per provenienza
 		  logseq.order-list-type:: number
-	- Stima il peso
+	- Valuta #jira/issue/effprt delle card per inserimento in #jira
 	  logseq.order-list-type:: number
 		- Converti le attivitá che richiedono piú di 10 minuti in #jira/issue/comeout
 		  logseq.order-list-type:: number
