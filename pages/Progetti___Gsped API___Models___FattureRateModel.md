@@ -1,7 +1,8 @@
 - Rappresenta un #Model/Object deputato al #business-rules/calcolo-tariffario
-- ## `calcolaTariffa(...)`
-	-
-	-
+- ## `private function calcolaTariffa(...)`
+	- Ritorna `false` in caso non ci siano le condizioni per calcolare la tariffa, es:
+		- se il tipo listino non é conforme al
+			-
 -
 - # #troubleshooting
 	- ## Esaminare log chiamata FattureRate 
