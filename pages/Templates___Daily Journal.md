@@ -25,5 +25,5 @@
 			- la sequenzialitá indica cosa fatto prima o dopo
 			- valutare uso di block properties
 	- ## Riferimenti utili
-		- Vai alla guida del tuo processo di [[Process/GTD/MyDailyPlanning]]
-		- Vai al template del [[Templates/Daily Journal]] per migliorarlo
+		- Vai alla guida del processo [[Process/GTD/MyDailyPlanning]] per vederlo o modificarlo
+		- Vai al template del [[Templates/Daily Journal]] per vederlo o modificarlo
