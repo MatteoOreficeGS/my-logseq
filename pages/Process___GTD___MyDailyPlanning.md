@@ -29,7 +29,7 @@
 		  logseq.order-list-type:: number
 			- puoi chiuderli con un commento
 			  logseq.order-list-type:: number
-			- puoi
+			- puoi tenerli aperti considerandone la prioritá rispetto alle attivitá piú importanti in #jira,
 			  logseq.order-list-type:: number
 	- Scegli a questo punto le attivitá **da fare oggi** dall'elenco dalla cima delle attivitá master ordinaté per prioritá decrescente in #jira e creale nella TodoList del #[[Templates/Daily Journal]] con stato **NOW**
 	  logseq.order-list-type:: number
