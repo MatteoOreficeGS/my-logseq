@@ -1,1 +1,1 @@
-- Rappresenta un
+- Rappresenta un #Model/Object deputato al #business-rules/calcolo-tariffario
