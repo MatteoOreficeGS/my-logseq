@@ -41,6 +41,8 @@
 	  logseq.order-list-type:: number
 		- puoi marcare le attivitá con NOW per ricordare meglio costa stai facendo
 		  logseq.order-list-type:: number
+	- Durante l'attivitá o al suo termine
+	  logseq.order-list-type:: number
 		- ricordati di **annotare sempre** le card #jira in maniera che tutti leggano l'avanzamento delle attivitá
 		  logseq.order-list-type:: number
 		- ricorda di non inserire in #LogSeq informazioni che devono essere condivise in #jira #Process/Sharing
@@ -51,7 +53,7 @@
 			  logseq.order-list-type:: number
 			- tutto ció che aiuti ad estendere la rete di conoscenze di questa **knowledge base**
 			  logseq.order-list-type:: number
-		- aggiornare anche questa stessa pagina per meglio descrivere cosa non vada assolutamente scritto in #LogSeq
+		- aggiornare anche questa stessa pagina per meglio descrivere cosa  **debba** o **non debba** essere assolutamente scritto in #LogSeq
 		  logseq.order-list-type:: number
 	- a fine giornata
 	  logseq.order-list-type:: number
