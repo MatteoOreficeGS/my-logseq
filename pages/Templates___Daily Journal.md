@@ -12,6 +12,7 @@
 			- attivitá log statement ...
 			- attivitá log statement N
 	- ## Help compilazione
+	  #INFO
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
 			- alla fine utilizzare dei tag per indicare
