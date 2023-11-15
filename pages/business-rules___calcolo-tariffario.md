@@ -1,6 +1,6 @@
 # Definizione
-	- Il calcolo tariffarrio é il processo attraverso il quale
-- [[draws/2023-11-15-15-30-57.excalidraw]]
+Il calcolo tariffarrio é il processo attraverso il quale viene determinato il prezzo di una spedizione
+- Il seguente diagramma fornisce u[[draws/2023-11-15-15-30-57.excalidraw]]
 -
 - ## Riferimenti
 	- ### GitBook
