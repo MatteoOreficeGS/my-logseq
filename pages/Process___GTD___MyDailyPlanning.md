@@ -19,12 +19,10 @@
 		  logseq.order-list-type:: number
 			- Serve un #Templates per le attivitá di **analisi**
 			  logseq.order-list-type:: number
-	- Scegli a questo punto le attivitá **da fare oggi** e portale in stato **NOW** 
+	- Scegli a questo punto le attivitá **da fare oggi** e portale in stato **NOW**
 	  logseq.order-list-type:: number
-		- in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli #FACTS
-		  logseq.order-list-type:: number
+	  > in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli
 		- preleva i task programmati o **LATER** dalle seguenti liste
-		  logseq.order-list-type:: number
 			- La lista di tasks proposti da #LogSeq al fondo del Journal, oltre ai task in stato **NOW** che dovresti continuare sono visualizzati quelli con una prossima **prossima scadenza**
 			  logseq.order-list-type:: number
 			- I tuoi filtri JIRA
