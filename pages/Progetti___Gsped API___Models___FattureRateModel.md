@@ -1,5 +1,6 @@
 - Rappresenta un #Model/Object deputato al #business-rules/calcolo-tariffario
 - ## `private function calcolaTariffa(...)`
+	- Calcola il valore finale
 	- Ritorna `false` in caso non ci siano le condizioni per calcolare la tariffa
 	- ### Sequenza
 		- fa alcuni controlli che potrebbero interrompere il calcolo della tariffa
