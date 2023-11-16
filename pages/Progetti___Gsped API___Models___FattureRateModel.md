@@ -1,11 +1,10 @@
 - Rappresenta un #Model/Object deputato al #business-rules/calcolo-tariffario
 - ## `private function calcolaTariffa(...)`
-	- Ritorna `false` in caso non ci siano le condizioni per calcolare la tariffa, es:
-		- se il tipo listino non é conforme al listino per la quale la tariffa é specificata
-		- ....inserire altri esempi
+	- Ritorna `false` in caso non ci siano le condizioni per calcolare la tariffa
 	- ### Sequenza
 		- fa alcuni controlli che potrebbero interrompere il calcolo della tariffa
-		- controllo sulle zone incluse
+			- ie: se il tipo listino non é conforme al listino per la quale la tariffa é specificata
+		- controllo sulle zone incluse se `zone_include` diverso da `MONDO`
 -
 - # #troubleshooting
 	- ## Esaminare log chiamata FattureRate 
