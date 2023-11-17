@@ -7,6 +7,7 @@
 	- TBD
 - # Funzioni da conoscere
 	- ## Namespaces
+	- ### Come usarli in #gsped
 	-
 - # Pubblicazione
 	- ## On-premise
