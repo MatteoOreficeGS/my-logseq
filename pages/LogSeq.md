@@ -7,7 +7,10 @@
 	- TBD
 - # Funzioni da conoscere
 	- ## Namespaces
-	- ### Come usarli in #gsped
+		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
+		- Organizzare insieme di argomenti correlati
+		- Navigare insieme di argomenti correlati, indice
+		- ### Come usarli in #gsped
 	-
 - # Pubblicazione
 	- ## On-premise
