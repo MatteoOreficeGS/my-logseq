@@ -1,11 +1,11 @@
 # Scopo
 	- Questa pagina documenta informazioni  utili su LogSeq utilizzabili anche per convincere i tuoi amici ad usarlo
 - # Definizioni
-	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono
+	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlinks senza sforzi
-	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation
+	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation, LogSeq quando aggiorni il titolo della pagina linkata aggiorna anche tutte le reference, internamente usa degli id ( vedi )
 	- Ricerca superveloce full-text o tag based
 	- Tutto é un albero
 		- Puoi linkare non solo le pagine
