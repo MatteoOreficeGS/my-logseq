@@ -1,9 +1,8 @@
-filters:: {"improvements💪" true}
-
+-
+- Questa pagina documenta informazioni  utili su LogSeq
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlink senza sforzi
-	-
 - # Uso quotidiano
 	- TBD
 - # Pubblicazione
