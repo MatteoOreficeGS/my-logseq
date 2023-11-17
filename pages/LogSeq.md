@@ -2,7 +2,8 @@ filters:: {"improvements💪" true}
 
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
-	- ## Backlin
+	- Backlink senza sforzi
+	-
 - # Uso quotidiano
 - # Pubblicazione
 	- ## On-premise
