@@ -6,7 +6,7 @@ filters:: {"improvements💪" true}
 - # Open Issues
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- i namespace possono stare nelle properties ?
-	-
+-
 - ## Templates
 	- DONE potrebbe essere utile creare un #Templates per il daily journal
 	  :LOGBOOK:
