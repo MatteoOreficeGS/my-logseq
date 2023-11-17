@@ -2,9 +2,10 @@
 	- Questa pagina documenta informazioni  utili su LogSeq
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
-	- Backlink senza sforzi
+	- Backlinks senza sforzi
+	- Tutto é un albero
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, collegamento tra concetti.
-	- Dal momen
+	- Dal momento che ci si sforza a scrivere si tende a memorizzare le informazioni secondo uno schema anche nel
 - # Uso quotidiano
 	- TBD
 - # Funzioni da conoscere
