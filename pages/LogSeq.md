@@ -16,7 +16,3 @@ filters:: {"improvements💪" true}
 	- i namespace possono stare nelle properties ?
 - # Templates utili
   Esiste un namespace dedicato per organizzare tutti i [[Templates]] utilizzati in questo grafo
-	- DONE  daily journal da usarsi come default #Templates
-	  :LOGBOOK:
-	  CLOCK: [2023-11-09 Thu 16:55:10]--[2023-11-09 Thu 16:55:11] =>  00:00:01
-	  :END:
