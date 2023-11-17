@@ -1,2 +1,2 @@
 - Capire da chi viene utilizzata realmente facendo un diagramma di dipendenze
-- Che relazione ha con #[[Progetti/Gsped API/Models/FattureRateModel]] #action/question/ask
+- Che relazione ha con #[[Progetti/Gsped API/Models/FattureRateModel]] #action/question
