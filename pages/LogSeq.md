@@ -1,11 +1,12 @@
 # Scopo
-	- Questa pagina documenta informazioni  utili su LogSeq
+	- Questa pagina documenta informazioni  utili su LogSeq utilizzabili anche per convincere
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlinks senza sforzi
+	- Ricerca superveloce full-text o tag based
 	- Tutto é un albero
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, collegamento tra concetti.
-	- Dal momento che ci si sforza a scrivere si tende a memorizzare le informazioni secondo uno schema anche nel
+	- Dal momento che ci si sforza a descrivere le informazioni secondo una struttura questa si materializza anche nella propria mente.
 - # Uso quotidiano
 	- TBD
 - # Funzioni da conoscere
