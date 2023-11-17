@@ -6,7 +6,8 @@ filters:: {"improvements💪" true}
 - # Open Issues
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- i namespace possono stare nelle properties ?
--
+- # Pubblicazione
+	- #glossary/on-premise https://devops.bike/publish-your-notes-as-site
 - ## Templates
 	- DONE potrebbe essere utile creare un #Templates per il daily journal
 	  :LOGBOOK:
