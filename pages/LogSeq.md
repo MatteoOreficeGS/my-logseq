@@ -15,8 +15,8 @@ filters:: {"improvements💪" true}
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- i namespace possono stare nelle properties ?
 - # Templates utili
-	- DONE  daily journal da usarsi come default per  #Templates
+	- DONE  daily journal da usarsi come default #Templates
 	  :LOGBOOK:
 	  CLOCK: [2023-11-09 Thu 16:55:10]--[2023-11-09 Thu 16:55:11] =>  00:00:01
 	  :END:
-	- abbiamo creato una pagina dedicata ai [[Templates]] dove conviene creare e suggerire i nuovi templates
+	- abbiamo creato una pagina dedicata dove organizzarli  [[Templates]] dove conviene creare e suggerire i nuovi templates
