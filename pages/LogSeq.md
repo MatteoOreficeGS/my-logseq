@@ -8,6 +8,7 @@ filters:: {"improvements💪" true}
 	- TBD
 - # Pubblicazione
 	- ## On-premise
+	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
 		- Si puó pubblicare anche su proprio server https://devops.bike/publish-your-notes-as-site #glossary/on-premise
 	- ## Documenti
 		-
