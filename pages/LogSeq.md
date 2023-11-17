@@ -3,7 +3,7 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlink senza sforzi
-	- Mi invoglia a creare
+	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, networking dei
 - # Uso quotidiano
 	- TBD
 - # Funzioni da conoscere
