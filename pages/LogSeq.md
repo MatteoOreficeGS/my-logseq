@@ -5,7 +5,7 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlinks senza sforzi
-	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation, LogSeq quando aggiorni il titolo della pagina linkata aggiorna anche tutte le reference, internamente usa degli id ( vedi )
+	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation, LogSeq quando aggiorni il titolo della pagina linkata aggiorna anche tutte le reference, internamente usa degli id ( vedi #Instrument/Zettelkasten )
 	- Ricerca superveloce full-text o tag based
 	- Tutto é un albero
 		- Puoi linkare non solo le pagine
