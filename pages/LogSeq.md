@@ -1,12 +1,14 @@
 # Scopo
 	- Questa pagina documenta informazioni  utili su LogSeq utilizzabili anche per convincere i tuoi amici ad usarlo
+- # Definizioni
+	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlinks senza sforzi
 	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation
 	- Ricerca superveloce full-text o tag based
 	- Tutto é un albero
-		- Puoi linkare
+		- Puoi linkare non solo le pagine
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, collegamento tra concetti. #[[Process/Note Taking]]
 	- Dal momento che ci si sforza a descrivere le informazioni secondo una struttura questa si materializza anche nella propria mente. #information-architecture
 	- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]]
