@@ -1,10 +1,13 @@
--
-- Questa pagina documenta informazioni  utili su LogSeq
+# Scopo
+	- Questa pagina documenta informazioni  utili su LogSeq
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlink senza sforzi
 - # Uso quotidiano
 	- TBD
+- # Funzioni da conoscere
+	- ## Namespaces
+	-
 - # Pubblicazione
 	- ## On-premise
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
