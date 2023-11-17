@@ -15,4 +15,5 @@ filters:: {"improvements💪" true}
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- i namespace possono stare nelle properties ?
 - # Templates utili
-  Esiste un namespace dedicato per organizzare tutti i [[Templates]] utilizzati in questo grafo
+	- Possono contenere
+	- Ho creato un namespace dedicato per organizzare tutti i [[Templates]] utilizzati in questo grafo
