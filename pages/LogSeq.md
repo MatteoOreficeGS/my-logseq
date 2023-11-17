@@ -3,6 +3,7 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- Backlinks senza sforzi
+	- Aggiornamento
 	- Ricerca superveloce full-text o tag based
 	- Tutto é un albero
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, collegamento tra concetti. #[[Process/Note Taking]]
