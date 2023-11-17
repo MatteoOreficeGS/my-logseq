@@ -31,3 +31,4 @@
 	- ## Riferimenti utili
 		- Vai alla guida del processo [[Process/GTD/MyDailyPlanning]] per vederlo o modificarlo
 		- Vai al template del [[Templates/Daily Journal]] per vederlo o modificarlo
+		- Se hai meta suggerimenti
