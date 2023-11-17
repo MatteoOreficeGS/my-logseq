@@ -5,8 +5,9 @@
 	- Backlinks senza sforzi
 	- Ricerca superveloce full-text o tag based
 	- Tutto é un albero
-	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, collegamento tra concetti. #[[Process/Note Taking]] #[[Instrument/Zettelkasten]]
+	- Mi invoglia a creare note atomiche quindi ad usare processi mentali come sintesi, delimitazione, collegamento tra concetti. #[[Process/Note Taking]]
 	- Dal momento che ci si sforza a descrivere le informazioni secondo una struttura questa si materializza anche nella propria mente. #information-architecture
+	- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]]
 - # Uso quotidiano
 	- TBD
 - # Funzioni da conoscere
