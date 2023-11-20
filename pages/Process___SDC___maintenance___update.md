@@ -1,1 +1,1 @@
-alias:: tech-update
+alias:: tech-update, gsped-update
