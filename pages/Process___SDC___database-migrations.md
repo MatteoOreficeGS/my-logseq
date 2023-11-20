@@ -1,5 +1,5 @@
 - Mi chiedo dove abbia senso versionare le migrations ? non sarebbe male trovare un metodo manuale per lasciare una traccia nei vari progetti ? #issue/code
 - assenza di migrazioni database causa questi problemi
 	- in primis puó causare gravi problemi per gli ambienti di produzione #env/production in fase di #Process/SDC/deployment #issue/failure
-	- puó causare inoltre problemi per disallineamento su ambienti di sviluppo del team #env/development #devenv
-	- inoltre non si storicizza la corrispondenza tra le modifiche al codice e al database #Process/SDC/versioning
+	- puó causare inoltre problemi per disallineamento su ambienti di sviluppo del team #env/development #devenv #issue/tools
+	- inoltre non si storicizza la corrispondenza tra le modifiche al codice e al database #Process/SDC/versioning #issue/code
