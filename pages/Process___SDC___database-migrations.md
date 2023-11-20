@@ -2,3 +2,4 @@
 - assenza di migrazioni database causa questi problemi
 	- in primis puó causare gravi problemi per gli ambienti di produzione #env/production
 	- puó causare inoltre problemi per disallineamento su ambienti di sviluppo del team #env/development #devenv
+	- inoltre non si storicizza la corrispondenza tra le modifiche al codice e al database
