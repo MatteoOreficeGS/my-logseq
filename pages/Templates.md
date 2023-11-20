@@ -27,7 +27,7 @@
 		- da usari in altri template ?
 		- template annidati https://github.com/sawhney17/logseq-smartblocks ?
 	- # Tipi di Task
-		- **Considerazioni** e task per #Processi/GTD
+		- **Considerazioni** e task per #Process/GTD
 			- Ragionare su proprietá comuni a tutti i **tasks**
 			  id:: 654d0c7c-b44b-4a3c-b69e-fb443eee047e
 				- tutti i task devono riferire una Issue in Jira
