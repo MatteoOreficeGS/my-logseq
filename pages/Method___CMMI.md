@@ -1,1 +1,1 @@
-- Programma per
+- Un metodo per il miglioramento dei #[[Process/Process Improvement]]
