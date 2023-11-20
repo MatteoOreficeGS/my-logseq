@@ -1,1 +1,1 @@
-alias:: devenv
+alias:: devenv, env/development
