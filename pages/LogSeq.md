@@ -18,11 +18,10 @@
 		- Puoi linkare non solo le pagine ma persino i blocchi
 		- In realtá le pagina non sono altro che blocchi con un metadato che le fa risultare come pagine, quindi visibili nella sezione **All Pages** dal menú di sinistra, ma di fatto nel grafo sono semplicemente dei nodi.
 		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[glossary/Network Thinking]]
-	- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
-	- Tutto é un file markdown, eventualmente con il front-matter
-		- gli assets incollati come immagini vengono creati come link o files
-			- il comportamento di creazione files puó essere forzato anche sui link
-			-
+		- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
+	- Ogni nodo é un file markdown, eventualmente con il front-matter
+	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link pubblici
+		-
 - # Uso quotidiano
 	- TBD
 - # Funzioni da conoscere
