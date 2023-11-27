@@ -4,7 +4,7 @@
 	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
-	- Backlinks senza sforzi
+	- Backlinks senza sforzi: dal momento che si crea un link da Concetto 1 verso Concetto 2
 	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation
 		- aggiornare il titolo di una pagina collegata non rompe le references a quella pagina
 		- internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
@@ -18,7 +18,7 @@
 		- In realtá le pagina non sono altro che blocchi con un metadato che le fa risultare come pagine, quindi visibili nella sezione **All Pages** dal menú di sinistra, ma di fatto nel grafo sono semplicemente dei nodi.
 		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[glossary/Network Thinking]]
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali in cui sintesi é fondamentale per delimitare e collegare tra loro i concetti concetti. #[[Process/Note Taking]] #[[glossary/Network Thinking]]
-	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture
+	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
 	- Tutto é un file markdown, eventualmente con il front-matter
 		- gli assets incollati come immagini vengono creati come link o files
 			- il comportamento di creazione files puó essere forzato anche sui link
