@@ -26,12 +26,18 @@
 - # Uso quotidiano
 	- Mantenimento di un giornale delle attivitá o log
 	- Salvataggio delle informazioni secondo un proprio schema mentale
+	- Mantenere appunti in maniera altamente organizzata e navigabile
 - # Funzioni da conoscere
+	- ## Links building
+		-
+	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
 		- Organizzare insieme di argomenti correlati
 		- Navigare insieme di argomenti correlati, indice
 		- ### Come usarli in #gsped
+	- ## Properties
+	-
 	-
 - # Pubblicazione
 	- ## On-premise
