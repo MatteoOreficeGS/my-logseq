@@ -18,7 +18,7 @@
 		- In realtá le pagina non sono altro che blocchi con un metadato che le fa risultare come pagine, quindi visibili nella sezione **All Pages** dal menú di sinistra, ma di fatto nel grafo sono semplicemente dei nodi.
 		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[glossary/Network Thinking]]
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali in cui sintesi é fondamentale per delimitare e collegare tra loro i concetti concetti. #[[Process/Note Taking]] #[[glossary/Network Thinking]]
-	- Dal momento che ci si sforza nel descrivere le informazioni secondo una struttura questa si materializza anche nella propria mente. #information-architecture
+	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture
 	- Tutto é un file markdown, eventualmente con il front-matter
 		- gli assets incollati come immagini vengono creati come link o files
 			- il comportamento di creazione files puó essere forzato anche sui link
