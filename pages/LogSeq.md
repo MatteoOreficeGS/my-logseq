@@ -5,13 +5,12 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
+	- **Creazione di nuove pagine** in maniera **rapida direttamente dal punto in cui si vuole creare il riferimento**. evitando quindi il procedimento inverso comunemente adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link
 	- Niente piú **link rotti**  nella tua documentazione #doc #glossary/broken-link
 	- Aggiornare il titolo di una pagina collegata non rompe le references a quella pagina o blocco
 	- Ricerca superveloce **full text** e **tag based**
-	- Lascia molta libertá nell'organizzare le informazioni e puó essere utilizzato per diversi scopi, dal creare documentazione, al registro delle attivitá, alla gestione di microtask giornalieri
-	- Azioni dalla pagina che linka
-		- **Creazione di nuove pagine in maniera rapida direttamente dal punto in cui si vuole creare il riferimento**
-		  evitando quindi il procedimento inverso comunemente adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link
+	- Lascia molta libertá nell'organizzare le informazioni e puó essere utilizzato per diversi scopi, dal creare documentazione, al registro delle attivitá, alla gestione di task legati o meno allo spazio di lavoro.
+	-
 	- Mi invoglia a creare note atomiche quindi ad usare processi mentali in cui sintesi é fondamentale per delimitare e collegare tra loro i concetti concetti. #[[Process/Note Taking]] #[[glossary/Network Thinking]]
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
 - # Interni
