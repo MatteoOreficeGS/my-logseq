@@ -20,7 +20,7 @@
 		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[glossary/Network Thinking]]
 		- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Ogni nodo é un file markdown, eventualmente con il front-matter
-	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link pubblici
+	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link
 		-
 - # Uso quotidiano
 	- TBD
