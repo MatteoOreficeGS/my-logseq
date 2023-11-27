@@ -8,7 +8,7 @@
 	- Niente piú **link rotti**  nella tua documentazione #doc #glossary/broken-link
 	- Aggiornare il titolo di una pagina collegata non rompe le references a quella pagina o blocco
 	- Ricerca superveloce **full text** e **tag based**
-	- Lascia totale libertá nell'organizzare le informazioni, ma fornisce anche
+	- Lascia molta libertá nell'organizzare le informazioni utilizzando link
 	- Azioni dalla pagina che linka
 		- **Creazione di nuove pagine in maniera rapida direttamente dal punto in cui si vuole creare il riferimento**
 		  evitando quindi il procedimento inverso comunemente adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link
