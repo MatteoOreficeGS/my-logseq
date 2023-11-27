@@ -7,7 +7,7 @@
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
 	- **Creazione di nuove pagine** in maniera **top-down** . Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione **bottom-up**.
 	- **Embedded editing**:  potente funzione che permette di modificare una pagina collegata direttamete dal punto in cui viene riferita / puntata.
-	- InInsight
+	- **Insight** in linea su **utilizzo delle pagine** e **blocchi**:
 	- Niente piú **link rotti**  nella tua documentazione: aggiornare il titolo di una pagina non rompe le references che la puntano nonostante i nodi siano prima di tutto files sul proprio filesystem #doc #glossary/broken-link
 	- Ricerca superveloce **full text** e **tag based**
 	- Lascia molta libertá nell'organizzare le informazioni e puó essere utilizzato per diversi scopi, dal creare documentazione, al registro delle attivitá, alla gestione di task legati o meno allo spazio di lavoro.
