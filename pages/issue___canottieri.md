@@ -1,0 +1,4 @@
+- Detto anche il problema dei canottieri
+- ![image.png](../assets/image_1700570518376_0.png)
+- # Definizione
+- Immaginate che su una canoa alcune persone remano nel verso opposto di quanto stabilito dagli architetti

@@ -28,7 +28,8 @@
 				- oggetto della richiesta come il nome del progetto o della codebase
 				- la sequenzialitá indica cosa fatto prima o dopo
 				- valutare uso di block properties
+	- ## Tags utilizzabili nel journal
+		- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
+		  query-properties:: [:page :updated-at :created-at :description]
 	- ## Riferimenti utili
 		- Vai alla guida del processo [[Process/GTD/MyDailyPlanning]] per vederlo o modificarlo
-		- Vai al template del [[Templates/Daily Journal]] per vederlo o modificarlo
-		- Se hai meta suggerimenti su organizzazione intrinseca delle informazioni consulta #LogSeq oppure tagga #LogSeq/information-architecture

@@ -1,0 +1,1 @@
+- When I’m working on a software project, the domain is the conceptual area I’m working inside of. For example, if I’m working on an application that has to do with restaurants, the domain is restaurants.
