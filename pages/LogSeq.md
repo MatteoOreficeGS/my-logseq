@@ -5,20 +5,20 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
-	- Niente piú #glossary/broken-link nella tua documentazione
-		- aggiornare il titolo di una pagina collegata non rompe le references a quella pagina
-		- internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
+	- Niente piú #glossary/broken-link nella tua documentazione #doc
+	- Aggiornare il titolo di una pagina collegata non rompe le references a quella pagina o blocco
 	- Ricerca superveloce full-text e tag based
 	- Azioni dalla pagina che linka
 		- **Creazione di nuove pagine in maniera rapida direttamente dal punto in cui si vuole creare il riferimento**
 		  evitando quindi il procedimento inverso comunemente adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link
+	- Mi invoglia a creare note atomiche quindi ad usare processi mentali in cui sintesi é fondamentale per delimitare e collegare tra loro i concetti concetti. #[[Process/Note Taking]] #[[glossary/Network Thinking]]
+	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
 - # Interni
 	- Tutto é un albero o meglio un grafo
 		- Puoi linkare non solo le pagine ma persino i blocchi
 		- In realtá le pagina non sono altro che blocchi con un metadato che le fa risultare come pagine, quindi visibili nella sezione **All Pages** dal menú di sinistra, ma di fatto nel grafo sono semplicemente dei nodi.
 		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[glossary/Network Thinking]]
-	- Mi invoglia a creare note atomiche quindi ad usare processi mentali in cui sintesi é fondamentale per delimitare e collegare tra loro i concetti concetti. #[[Process/Note Taking]] #[[glossary/Network Thinking]]
-	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
+	- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Tutto é un file markdown, eventualmente con il front-matter
 		- gli assets incollati come immagini vengono creati come link o files
 			- il comportamento di creazione files puó essere forzato anche sui link
