@@ -1,2 +1,4 @@
 - descrive organizzazione dei metadati
--
+- Proprietá utili
+	- Oggetti di dominio o in generale situazioni as-is
+		- Istanza
