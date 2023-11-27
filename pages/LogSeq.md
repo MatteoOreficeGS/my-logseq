@@ -7,10 +7,10 @@
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
 	- **Creazione di nuove pagine** in maniera **top-down** . Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione **bottom-up**.
 	- **Embedded editing**:  potente funzione che permette di modificare una pagina collegata direttamete dal punto in cui viene riferita / puntata.
-	- Mostra facilmente l'**utilizzo delle pagine** e **blocchi** da parte di altre pagine: per i blocchi sono disponibili dei contatori che consentono di sapere in quanti posti é collegato
+	- Mostra facilmente l'**utilizzo delle pagine** e **blocchi** da parte di altre pagine in termini quantitativi
 	- Niente piú **link rotti**  nella tua documentazione: aggiornare il titolo di una pagina non rompe le references che la puntano nonostante i nodi siano prima di tutto files sul proprio filesystem #doc #glossary/broken-link
 	- Ricerca superveloce **full text** e **tag based**
-	- Lascia molta libertá nell'organizzare le informazioni e puó essere utilizzato per diversi scopi, dal creare documentazione, al registro delle attivitá, alla gestione di task legati o meno allo spazio di lavoro.
+	- Lascia molta libertá nell'organizzare le informazioni ( albero, directory, grafo, )e puó essere utilizzato per diversi scopi, dal creare documentazione, al registro delle attivitá, alla gestione di task legati o meno allo spazio di lavoro.
 	- Mi invoglia a creare **note atomiche** quindi ad usare processi mentali in cui la sintesi é fondamentale per delimitare e collegare tra loro concetti in una rete di conosceza. #[[Process/Note Taking]] #[[glossary/Network Thinking]] #Instrument/Zettelkasten
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
 - # Interni
