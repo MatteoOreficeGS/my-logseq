@@ -1,11 +1,10 @@
 filters:: {"issue" false}
 
 - # Definizione
-- Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio, sistema, componente #INFO
-	- Richiede una fase di analisi e pianificazione
-	- Non sempre interessa una parte esistente
-	- La soluzione di solito non é immediata
+- Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio, sistema, componente o processo #INFO
 	- Non é una #issue
+	- Richiede una fase di analisi e pianificazione e la soluzione di solito non é immediata
+	- Non sempre interessa una parte esistente
 - # Scopo
 	- Pagina utilizzata per trovare i **backlink** a questo **tag**
 - # Da fare
