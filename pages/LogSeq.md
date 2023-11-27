@@ -23,9 +23,9 @@
 		- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Ogni nodo é un file markdown, eventualmente con il front-matter
 	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link
-		-
 - # Uso quotidiano
-	- TBD
+	- Mantenimento di un giornale delle attivitá o log
+	- Salvataggio delle informazioni secondo un proprio schema mentale
 - # Funzioni da conoscere
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
