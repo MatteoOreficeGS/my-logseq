@@ -4,8 +4,8 @@
 	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
-	- Backlinks senza sforzi: dal momento che si crea un link da Concetto 1 verso Concetto 2
-	- Niente piú #glossary/broken-link nella tua #Process/SDC/documentation
+	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
+	- Niente piú #glossary/broken-link nella tua documentazione
 		- aggiornare il titolo di una pagina collegata non rompe le references a quella pagina
 		- internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Ricerca superveloce full-text e tag based
