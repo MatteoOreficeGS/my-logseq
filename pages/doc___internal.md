@@ -1,1 +1,1 @@
-- ysh
+alias:: doc/team
