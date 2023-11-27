@@ -1,6 +1,6 @@
 - descrive organizzazione dei metadati
 - Proprietá utili
-	- Oggetti di dominio o in generale situazioni esistenti
+	- Comuni a vari tipi di oggetto legati al business
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
