@@ -27,4 +27,3 @@ filters:: {"issue" false}
 	- ....
 	- Proposta XN
 	- Proposta XN+1
-	-
