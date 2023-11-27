@@ -1,3 +1,3 @@
-alias:: missing-doc, nodoc
+alias:: issue/missing-doc, issue/nodoc
 
 -
