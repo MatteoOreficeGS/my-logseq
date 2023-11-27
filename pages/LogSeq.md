@@ -7,7 +7,8 @@
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
 	- Niente piú **link rotti**  nella tua documentazione #doc #glossary/broken-link
 	- Aggiornare il titolo di una pagina collegata non rompe le references a quella pagina o blocco
-	- Ricerca superveloce full-text e tag based
+	- Ricerca superveloce **full text** e **tag based**
+	- Lascia totale libertá nell'organizzare le informazioni, ma fornisce anche
 	- Azioni dalla pagina che linka
 		- **Creazione di nuove pagine in maniera rapida direttamente dal punto in cui si vuole creare il riferimento**
 		  evitando quindi il procedimento inverso comunemente adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link
