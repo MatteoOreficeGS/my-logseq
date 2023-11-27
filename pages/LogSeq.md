@@ -5,7 +5,7 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
-	- **Creazione di nuove pagine** in maniera **top-down** (rapida direttamente dal punto in cui si vuole creare il riferimento**. Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione bottom-up.
+	- **Creazione di nuove pagine** in maniera **top-down** . Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione **bottom-up**.
 	- Niente piú **link rotti**  nella tua documentazione #doc #glossary/broken-link
 	- Aggiornare il titolo di una pagina collegata non rompe le references a quella pagina o blocco
 	- Ricerca superveloce **full text** e **tag based**
