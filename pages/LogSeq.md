@@ -5,7 +5,7 @@
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
-	- Niente piú #glossary/broken-link nella tua documentazione #doc
+	- Niente piú **link rotti**  nella tua documentazione #doc #glossary/broken-link
 	- Aggiornare il titolo di una pagina collegata non rompe le references a quella pagina o blocco
 	- Ricerca superveloce full-text e tag based
 	- Azioni dalla pagina che linka
