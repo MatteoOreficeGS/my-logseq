@@ -28,7 +28,8 @@
 				- oggetto della richiesta come il nome del progetto o della codebase
 				- la sequenzialitá indica cosa fatto prima o dopo
 				- valutare uso di block properties
-	- ## Tags utilizzabili nel journal
+	- ## Tags e journal
+		- Vedere #[[Templates/Daily Journal]] per il template
 		- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
 		  query-properties:: [:page :updated-at :created-at :description]
 	- ## Riferimenti utili
