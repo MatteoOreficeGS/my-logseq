@@ -64,7 +64,7 @@
 	- rilevamento di #issue/code durante esplorazione del codice
 	- rilevamento di #improvements/ineffectiveness nei processi
 - # Considerazioni
-	- C'é una tendenza al procrastinare i task ed a lasciarli aperti per mesi senza arrivare alla fine, questo é un grande problema #issue/process #Process/GTD #improvements/ineffectiveness #REMEDY
+	- C'é una tendenza al procrastinare i task ed a lasciarli aperti per mesi senza arrivare alla fine, questo é un grande problema #issue/process #Process/GTD #improvements/ineffectiveness #REMEDY #Process/GTD #issue/
 	- le **attivitá per un certo cliente da lui richieste** vanno taggare in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che non sempre nelle #jira/issue viene indicato chiaramente se é stata una richiesta del cliente a farla aprire #improvements/ineffectiveness #[[Process/Customer Satisfaction]] #jira/issue/type #issue/process
 		- questo é un problema se ha fretta e non viene usata una data di scadenza poiché la richiesta va in concorrenza ad altre non espressamente richieste
 		- saperlo aiuta anche nel sceglierle come prioritarie in caso di numerose richieste
