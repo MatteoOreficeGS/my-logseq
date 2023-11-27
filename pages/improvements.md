@@ -1,7 +1,7 @@
 filters:: {"issue" false}
 
 - # Definizione
-- Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio o sistema #INFO
+- Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio, sistema, componente #INFO
 	- Richiede una fase di analisi e pianificazione
 	- Non sempre interessa una parte esistente
 	- La soluzione di solito non é immediata
