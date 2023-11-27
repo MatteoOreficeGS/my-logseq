@@ -5,5 +5,7 @@
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
 	- ## Journal
-		- trovare un sistema basato su tag oppure props per
-		-
+		- trovare un sistema basato su tag oppure props per elencare i tags utilizzabili nelle righe del journal
+- # Gerarchia
+	-
+	-
