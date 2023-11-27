@@ -1,4 +1,7 @@
 - descrive organizzazione dei metadati
 - Proprietá utili
-	- Oggetti di dominio o in generale situazioni as-is
-		- Istanza
+	- Oggetti di dominio o in generale situazioni esistenti
+		- Istanza: quale istanza riguarda o cliente
+		- Cliente: quale cliente eventualmente di istanza globale
+		- Corriere: quale corriere
+		-
