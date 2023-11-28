@@ -44,5 +44,6 @@
 			- PageClass
 			- BlockClass
 		- Pagina di prefisso gerarchia
+			- in questa maniera si possono trovare tutte le pagine che  rappresentano una gerarchia
 			-
 	-
