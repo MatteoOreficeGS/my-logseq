@@ -1,4 +1,6 @@
 - I seguenti tag sono quelli consigliati
 - Una volta creato un tipo vero e proprio in #LogSeq/graph-architecture per i tags
-	- cancellare questa pagina impostando il suo percorso come alias
+	- impostando percorso di questa pagina come alias s
+	  logseq.order-list-type:: number
+	- cancellare questa pagina
 	  logseq.order-list-type:: number
