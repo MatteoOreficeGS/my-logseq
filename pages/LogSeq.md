@@ -14,7 +14,7 @@
 			- ... e molto altro
 		- Non sono inter-collegabili a livello di blocco o pagina, se non usando i link esterni
 	- ## Blocco
-		-
+		- Un blocco é l'unitá atomica in cui é possibile scrivere qualcosa
 	- ## Pagina
 		- La pagina non é altro che un blocco particolare del tipo piú specifico **pagina** a cui corrisponde anche in maniera **1:1** un artefatto di archiviazione sul disco , ovvero un file `.md`
 - # Vantaggi
