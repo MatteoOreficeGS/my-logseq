@@ -1,5 +1,6 @@
 - descrive organizzazione dei metadati
 - # Proprietá o tags utili e loro usi
+	- Sulla questa pagina si possono poi inserire delle query per ogni classe al fine di trovare i vari tipi di pagina
 	- ## Legate al business
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
@@ -14,7 +15,6 @@
 			- continuo attivitá esistente
 		- i tags possono poi essere riepilogati sul template del #[[Templates/Daily Journal]] magari con una query
 	- ## Tipi per i namespace
-		-
 		- In generale i prefissi dei namespace diventano candidati per dei tipi specifici
 			- Glossary
 				- una proprietá per disambiguare
