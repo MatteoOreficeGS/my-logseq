@@ -57,11 +57,13 @@
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
 		- Si puó pubblicare anche su proprio server https://devops.bike/publish-your-notes-as-site #glossary/on-premise
 	- ## Documenti
+		- Export in vari formati
+	- ## GitHub Pages
+		- https://github.com/logseq/publish-spa
 		-
 - # Open Issues #question
 	- capire come usare i tags e le properties sulle pagine e i blocchi
-	- i namespace possono stare nelle properties ?
-		- risposta no
+	- come reagist
 - # Templates utili
 	- Possono contenere sostanzialmente dei blocchi
 	- Esiste un modo di interpolare variabili
