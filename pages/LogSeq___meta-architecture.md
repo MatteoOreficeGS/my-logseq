@@ -10,6 +10,6 @@
 	- NodeClass
 		- Property
 		- Tags
-		- PageClass
+		- PageClass:
 		- BlockClass
 	-
