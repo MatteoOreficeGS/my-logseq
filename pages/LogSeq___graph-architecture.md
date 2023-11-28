@@ -9,7 +9,9 @@
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
 			- sará possibile anche vedere le righe taggate in maniera tabellare
-		- é utile anche definire dei
+		- é utile anche definire dei #Templates per possibili usi nel journal
+			- tipo di attivitá
+			- continuo attivitá esistente
 			-
 	-
 - # Gerarchia
