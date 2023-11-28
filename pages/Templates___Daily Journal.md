@@ -14,4 +14,6 @@
 			- attivitá log statement N
 	- # Aiuto compilazione
 	  Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili
-		-
+	- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
+	- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
+	- {{embed ((6565c304-fbc2-4931-ab16-96384d8543be))}}
