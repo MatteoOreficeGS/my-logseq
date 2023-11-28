@@ -19,6 +19,8 @@
 				- una proprietá per disambiguare
 			- Instrument: potrebbe avere diverse sottoclassi
 			- Actions
+			- Jira
+			- Issue
 		- Fare un test per uso namespace nelle properties
 	-
 - # Gerarchia [draft]
