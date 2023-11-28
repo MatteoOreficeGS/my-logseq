@@ -1,5 +1,5 @@
 # Scopo
-	- Questa pagina documenta informazioni  utili su LogSeq utilizzabili anche per convincere i tuoi amici ad usarlo
+	- Questa pagina sintetizza alcune informazioni utili riguardo a come usare LogSeq
 - # Definizioni
 	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
 - # Vantaggi
