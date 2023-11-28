@@ -17,7 +17,8 @@
 		- In generale i prefissi dei namespace diventano candidati per dei tipi specifici
 			- Glossary
 			- Instrument: potrebbe avere diverse sottoclassi
-			-
+			- Actions
+		- Fare un test per uso namespace nelle properties
 	-
 - # Gerarchia [draft]
 	- NodeClass
