@@ -1,4 +1,5 @@
--
+description:: modello concettuale che descrime una realtá , non necessariamente espresso come codice
+
 - The world is a staggeringly complex place. Even relatively simple-seeming things like restaurants involve way more complexity than could be accurately captured in a software system. So instead of coding to a domain, we have to code to a *domain model*
 - For me, a domain model is a separate thing from any particular code or piece of software. If I come up with a domain model for something to do with restaurants, I could express my domain model on a piece of paper if I wanted to (or just inside my head). My domain model is a standalone conceptual entity, regardless of whether I actually end up writing any software based on it or not.
 - A domain model also doesn’t even need to be consciously expressed in order to exist. In fact, on most software systems I’ve ever worked on, the domain model of the system only exists in the developers’ minds. The domain model isn’t something that someone planned at the beginning, it’s something that each developer synthesizes in his or her mind based on the code that exists in the application and based on what the developer understands about the domain itself.
