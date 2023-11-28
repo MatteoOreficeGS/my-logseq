@@ -1,4 +1,5 @@
-# Definizione
+- {{query (all-page-tags)(page [[issue]])}}
+- # Definizione
 	- Una **issue** rappresenta un problema che si é manifestato ed é da risolvere #INFO
 		- Si rivolve di solito solo quando si manifesta
 		- Interessa una parte esistente, es: classe OOP, microservizio, controllo UI, etc.
