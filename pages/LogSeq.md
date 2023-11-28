@@ -30,6 +30,16 @@
 	- Puó essere utilizzato per diversi scopi, dal creare documentazione pubblica o personale, al registro delle attivitá giornaliera, alla gestione di task legati o meno allo spazio di lavoro.
 	- Invoglia a creare **note atomiche** quindi ad usare processi mentali in cui la sintesi é fondamentale per delimitare e collegare tra loro concetti in una rete di conosceza. #[[Process/Note Taking]] #[[glossary/Network Thinking]] #Instrument/Zettelkasten
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
+- # Funzioni utili
+	- ## Links building
+		-
+	- ## Tags
+	- ## Namespaces
+		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
+		- Organizzare insieme di argomenti correlati
+		- Navigare insieme di argomenti correlati, indice
+		- ### Come usarli in #gsped
+	- ## Properties
 - # Interni
 	- Tutto é un albero o meglio un grafo
 		- Puoi linkare non solo le pagine ma persino i blocchi
@@ -42,16 +52,6 @@
 	- Mantenimento di un giornale delle attivitá o log
 	- Salvataggio delle informazioni secondo un proprio schema mentale
 	- Mantenere appunti in maniera altamente organizzata e navigabile
-- # Funzioni da conoscere
-	- ## Links building
-		-
-	- ## Tags
-	- ## Namespaces
-		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
-		- Organizzare insieme di argomenti correlati
-		- Navigare insieme di argomenti correlati, indice
-		- ### Come usarli in #gsped
-	- ## Properties
 - # Pubblicazione
 	- ## On-premise
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
