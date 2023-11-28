@@ -22,6 +22,7 @@
 			- Jira
 			- Issue
 			- Model
+				- Tipo #Models
 				- Classe C4
 				- Repository di archiviazione
 				- Dove é deployato
