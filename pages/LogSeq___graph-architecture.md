@@ -1,5 +1,5 @@
 - descrive organizzazione dei metadati
-- # Proprietá utili e loro usi
+- # Proprietá o tags utili e loro usi
 	- ## Comuni a vari tipi di oggetto legati al business
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
@@ -8,7 +8,9 @@
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
-			- sará possibile anche vedere le righe taggate in maniera
+			- sará possibile anche vedere le righe taggate in maniera tabellare
+		- é utile anche definire dei
+			-
 	-
 - # Gerarchia
 	- NodeClass
