@@ -10,6 +10,7 @@
 	- NodeClass
 		- Property
 		- Tags
-		- PageClass:
+		- Diversificare per page o
+		- PageClass
 		- BlockClass
 	-
