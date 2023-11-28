@@ -6,7 +6,9 @@
 		- Corriere: quale corriere
 		- Ambito spedizioni: #glossary/nazionale o #glossary/internazionale
 	- ## Journal
-		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal, in questo modo sará facile trovare tramite query i vari tas
+		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
+			- in questo modo sará facile trovare tramite query i vari task della GTD
+			- sará possibile anche vedere le righe taggate in maniera
 	-
 - # Gerarchia
 	- NodeClass
