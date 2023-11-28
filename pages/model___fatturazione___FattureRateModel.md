@@ -6,6 +6,7 @@ tags:: #[[Models/Object Model/Object]]
 		- la responsabilitá di scegliere quale client id utilizzare dovrebbe spettare al chiamate
 		- le tariffe non hanno relazione alcuna con il concetto di #model/Reseller
 	- `calcolaSingoloNoloAddebito` non é chiaro se riceva sempre `$sped['corriere']` #issue/code/array-shape
+	  ![image.png](../assets/image_1701177560694_0.png)
 -
 - # Metodi
 	- ## `private function calcolaTariffa(...)`
