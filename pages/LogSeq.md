@@ -1,4 +1,4 @@
-tags:: prefix/prefix2/tagvalue
+tags:: prefix/prefix2
 
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
@@ -68,6 +68,7 @@ tags:: prefix/prefix2/tagvalue
 	- come reagiscono i namespace nei valori delle properties ?
 		- come si comportano in particolare per la prop tags?
 		  tags:: prefix/prefix2/tagvalue, prefix/prefix2
+			- mi sembra di vedere che
 - # Templates utili
 	- Possono contenere sostanzialmente dei blocchi
 	- Esiste un modo di interpolare variabili
