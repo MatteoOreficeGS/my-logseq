@@ -1,6 +1,6 @@
 - descrive organizzazione dei metadati
 - # Proprietá o tags utili e loro usi
-	- ## Comuni a vari tipi di oggetto legati al business
+	- ## Legate al business
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
