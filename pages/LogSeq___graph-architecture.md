@@ -22,9 +22,9 @@
 			- Jira
 			- Issue
 			- Model
-				- repository
-				- Layer C4
-				- tipo di model
+				- Classe C4
+				- Repository di archiviazione
+				- Dove é deployato
 		- Fare un test per uso namespace nelle properties
 	- ## Altre cose che vengono in mente
 		- Topic: una discussione in un forum
