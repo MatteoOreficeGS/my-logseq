@@ -5,6 +5,7 @@
 - # #improvements
 	- creare un tool da riga di comando per fare analisi del log con semplici parametri, non sarebbe male usare un binario GO oppure uno shell script ancore meglio
 - # #troubleshooting
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
@@ -25,3 +26,6 @@
 		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \
 		      > 15829.txt
 		  ```
+- # Riferimenti utili
+	- [Dizionario dati del motore di fatturazione](https://docs.google.com/spreadsheets/d/1wdo_0-dpdy3BL9HnUQAManeSG5NExVXqzynDyqBSkW4/edit?pli=1#gid=0)
+	-
