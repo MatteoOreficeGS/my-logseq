@@ -63,7 +63,9 @@
 		-
 - # Open Issues #question
 	- capire come usare i tags e le properties sulle pagine e i blocchi
-	- come reagist
+	- come reagiscono i namespace nei valori delle properties ?
+		- come si comportano in particolare per la prop #tags
+		  tags:: test
 - # Templates utili
 	- Possono contenere sostanzialmente dei blocchi
 	- Esiste un modo di interpolare variabili
