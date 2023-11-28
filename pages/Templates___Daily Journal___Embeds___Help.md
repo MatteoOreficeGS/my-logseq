@@ -1,4 +1,5 @@
-## Esempio di Attivitá
+- Questa pagina viene inclusa
+- # Esempio di Attivitá
 	- ### Intestazione attivitá
 		- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
 		- alla fine utilizzare dei tag per indicare
@@ -12,3 +13,9 @@
 		- oggetto della richiesta come il nome del progetto o della codebase
 		- la sequenzialitá indica cosa fatto prima o dopo
 		- valutare uso di block properties
+- # Tags e journal
+	- Vedere #[[Templates/Daily Journal]] per il template
+	- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
+	  query-properties:: [:page :updated-at :created-at :description]
+- # Riferimenti utili
+	- Vai alla guida del processo [[Process/GTD/MyDailyPlanning]] per vederlo o modificarlo
