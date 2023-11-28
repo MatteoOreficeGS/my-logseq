@@ -5,7 +5,7 @@
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
-		- Ambito spedizioni: #glossary/nazionale o #glossary/internazionale
+			- Ambito spedizioni: #glossary/nazionale o #glossary/internazionale
 		- Processo business:
 			- di quale macro processo fa parte ?
 			- processo interno o esterno
