@@ -1,0 +1,1 @@
+- Un qualsiasi oggetto nell'object model
