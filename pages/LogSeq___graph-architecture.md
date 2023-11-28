@@ -22,6 +22,9 @@
 			- Jira
 			- Issue
 			- Model
+				- inteso come il modello complessivo che contiene le singole entities
+				- tipo:
+			- Model Entity
 				- Tipo di entity: Data, Domain, Object
 				- Classe C4
 				- Repository di archiviazione
