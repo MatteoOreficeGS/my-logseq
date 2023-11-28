@@ -1,4 +1,4 @@
-filters:: {"2023*" false}
+filters:: {"2023.*" false}
 
 - # Da analizzare e definire
 	- Usare anche delle block properties
