@@ -13,6 +13,7 @@
 			- tipo di attivitá
 			- continuo attivitá esistente
 			-
+			-
 	-
 - # Gerarchia
 	- NodeClass
