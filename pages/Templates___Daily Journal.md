@@ -12,10 +12,5 @@
 			- attivitá log statement 2
 			- attivitá log statement ...
 			- attivitá log statement N
-	- ## {{embed [[Templates/Daily Journal/Embeds/Help]]}}
-	- ## Tags e journal
-		- Vedere #[[Templates/Daily Journal]] per il template
-		- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
-		  query-properties:: [:page :updated-at :created-at :description]
-	- ## Riferimenti utili
-		- Vai alla guida del processo [[Process/GTD/MyDailyPlanning]] per vederlo o modificarlo
+	- # Help
+	  {{embed [[Templates/Daily Journal/Embeds/Help]]}}
