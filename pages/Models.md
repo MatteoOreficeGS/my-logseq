@@ -3,6 +3,5 @@
   query-sort-by:: page
   query-sort-desc:: true
   query-properties:: [:page :description]
-- [[Service Object]]
 - ## Riferimenti
 	- https://www.codewithjason.com/difference-domains-domain-models-object-models-domain-objects/
