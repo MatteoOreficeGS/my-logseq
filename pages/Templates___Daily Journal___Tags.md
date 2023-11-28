@@ -1,1 +1,2 @@
 - I seguenti tag sono quelli consigliati
+- Una volta creato un tipo vero e proprio in #LogSeq/graph-architecture per i tags
