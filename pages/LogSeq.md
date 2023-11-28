@@ -7,7 +7,9 @@
 - # Definizioni
 	- **LogSeq** chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria e non sono inter-collegabili, per esempio:
 		- KB Gsped Privata
-		- KB
+		- Progetto di studio sul Trading
+		- Gestione del mio orto
+		- ... e molto altro
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
