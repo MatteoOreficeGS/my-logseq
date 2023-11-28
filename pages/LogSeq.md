@@ -7,12 +7,12 @@
 - # Definizioni
 	- ## Grafo
 	- **LogSeq** chiama la **rete interconnessa di note**  **"grafo"** ( **graph** in inglese )
-		- é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
-			- KB Gsped Privata
-			- Progetto di studio sul Trading
-			- Gestione del mio orto
-			- ... e molto altro
-		- non sono inter-collegabili
+	- é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
+		- KB Gsped Privata
+		- Progetto di studio sul Trading
+		- Gestione del mio orto
+		- ... e molto altro
+	- non sono inter-collegabili a livello di blocco o pagina, se non usando i link esterni
 	- ## Blocco
 	- ## Pagina
 - # Vantaggi
