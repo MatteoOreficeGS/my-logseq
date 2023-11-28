@@ -13,9 +13,9 @@
 			- tipo di attivitá
 			- continuo attivitá esistente
 		- i tags possono poi essere riepilogati sul template del #[[Templates/Daily Journal]] magari con una query
-			-
 	-
-- # Gerarchia
+	-
+- # Gerarchia [draft]
 	- NodeClass
 		- Property
 		- Tags
