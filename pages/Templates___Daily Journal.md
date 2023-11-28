@@ -12,5 +12,4 @@
 			- attivitá log statement 2
 			- attivitá log statement ...
 			- attivitá log statement N
-	- # Help
-	  {{embed [[Templates/Daily Journal/Embeds/Help]]}}
+	- {{embed ((6565cd78-c9a4-4b1e-8cd5-4b20d4dba1c6))}}

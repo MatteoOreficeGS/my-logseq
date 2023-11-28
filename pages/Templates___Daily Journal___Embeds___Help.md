@@ -1,5 +1,6 @@
 - Questa pagina viene inclusa dal #[[Templates/Daily Journal]] come deduplica
 - # Aiuto compilazione
+  id:: 6565cd78-c9a4-4b1e-8cd5-4b20d4dba1c6
 	- ## Esempio di Attivitá
 		- ### Intestazione attivitá
 			- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
