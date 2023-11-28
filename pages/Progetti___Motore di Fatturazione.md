@@ -27,5 +27,7 @@
 		      > 15829.txt
 		  ```
 - # Riferimenti utili
-	- [Dizionario dati del motore di fatturazione](https://docs.google.com/spreadsheets/d/1wdo_0-dpdy3BL9HnUQAManeSG5NExVXqzynDyqBSkW4/edit?pli=1#gid=0)
+	- [Dizionario dati del motore di fatturazione](https://docs.google.com/spreadsheets/d/1wdo_0-dpdy3BL9HnUQAManeSG5NExVXqzynDyqBSkW4/edit?pli=1#gid=0) su google spreadsheet, utile per nuove mappature e documentare campi consentiti
+	- [Censimento di tutti gli opener per unificazione](https://docs.google.com/spreadsheets/d/1bvUE3HTSPNIgVh0FO4kRRrFdZMW8cQjr/edit?pli=1#gid=877752362)
+	-
 	-
