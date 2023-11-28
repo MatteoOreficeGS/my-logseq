@@ -12,7 +12,7 @@
 		- é utile anche definire dei #Templates per possibili usi nel journal
 			- tipo di attivitá
 			- continuo attivitá esistente
-			-
+		- i tags possono poi essere riepilogati sul template del #[[Templates/Daily Journal]] magari con una query
 			-
 	-
 - # Gerarchia
