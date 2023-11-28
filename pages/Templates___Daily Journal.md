@@ -12,4 +12,4 @@
 			- attivitá log statement 2
 			- attivitá log statement ...
 			- attivitá log statement N
-	- {{embed ((6565cd78-c9a4-4b1e-8cd5-4b20d4dba1c6))}}
+- {{embed ((6565cd78-c9a4-4b1e-8cd5-4b20d4dba1c6))}}
