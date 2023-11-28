@@ -16,6 +16,7 @@
 	- ## Tipi per i namespace
 		- In generale i prefissi dei namespace diventano candidati per dei tipi specifici
 			- Glossary
+				- una proprietá per disambiguare
 			- Instrument: potrebbe avere diverse sottoclassi
 			- Actions
 		- Fare un test per uso namespace nelle properties
