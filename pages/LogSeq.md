@@ -6,15 +6,17 @@
 - Per aiutarvi a capire quali sono i flussi di lavoro che fanno al caso vostro, vi illustreremo tutte le funzioni principali di Logseq. Vedetele come strumenti nella vostra cassetta degli attrezzi; singolarmente uno strumento fa poco, ma una volta imparato a usarli in combinazione potete diventare un artista. **Puntate a diventare un artista della conoscenza.**
 - # Definizioni
 	- ## Grafo
-	- **LogSeq** chiama la **rete interconnessa di note**  **"grafo"** ( **graph** in inglese )
-	- é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
-		- KB Gsped Privata
-		- Progetto di studio sul Trading
-		- Gestione del mio orto
-		- ... e molto altro
-	- non sono inter-collegabili a livello di blocco o pagina, se non usando i link esterni
+		- **LogSeq** chiama la **rete interconnessa di note**  **"grafo"** ( **graph** in inglese )
+		- É possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
+			- KB Gsped Privata
+			- Progetto di studio sul Trading
+			- Gestione del mio orto
+			- ... e molto altro
+		- Non sono inter-collegabili a livello di blocco o pagina, se non usando i link esterni
 	- ## Blocco
+		-
 	- ## Pagina
+		- La pagina non é altro che un blocco particolare che del tipo piú specifico **pagina**
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
