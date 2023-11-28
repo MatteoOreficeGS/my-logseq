@@ -23,7 +23,7 @@
 			- Issue
 			- Model
 				- inteso come il modello complessivo che contiene le singole entities
-				- tipo:
+				- tipo: Data, Domain, Object
 			- Model Entity
 				- Tipo di entity: Data, Domain, Object
 				- Classe C4
