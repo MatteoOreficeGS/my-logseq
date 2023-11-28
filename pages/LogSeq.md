@@ -1,9 +1,12 @@
 # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
+- # Introduzione
+	- Logseq looks simple on the surface and is extremely powerful under the hood. Much like the famed Microsoft Excel, Logseq aims to be an environment for thinking. Excel's fuel are blocks of numbers, **Logseq's fuel are blocks of words**.
+	- It takes time to master this tool, as Logseq doesn't impose a way of working. But once you figure out how to get your desired end results, **Logseq will help you become a much more effective thinker.**
+	- To help you get started figuring out the workflows that work for you, we will take you through all of Logseq's core features. See them as tools in your toolbox; individually a tool will do little, but once you learn to use them in combination you can become an artist. **Aim to be a knowledge artist.**
+	- Before we dive into the overview of Logseq's functionality, let's first dig a bit deeper into what makes Logseq special. As we said before; Logseq looks simple on the surface. But looks can be deceptive.
 - # Definizioni
-	- @@html: <iframe src="https://docs.logseq.com/#/page/start%20here" height=500></iframe>@@
-	-
-	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
+	- @@html: <iframe src="https://docs.logseq.com/#/page/contents" height=500></iframe>@@LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
