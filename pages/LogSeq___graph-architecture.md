@@ -22,7 +22,7 @@
 			- Jira
 			- Issue
 		- Fare un test per uso namespace nelle properties
-	-
+	- ## A
 - # Gerarchia [draft]
 	- NodeClass
 		- Property
