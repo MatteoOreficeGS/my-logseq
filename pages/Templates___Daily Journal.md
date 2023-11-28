@@ -1,6 +1,7 @@
 - root node
   template:: Daily Journal
   template-including-parent:: false
+  collapsed:: true
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
 		  client:: fill
