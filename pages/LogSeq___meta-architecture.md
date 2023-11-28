@@ -7,7 +7,7 @@
 	- ## Journal
 		- trovare un sistema basato su tag oppure props per elencare i tags utilizzabili nelle righe del journal
 - # Gerarchia
-	- Meta
+	- NodeClass
 		- Property
 		- Tags
 	-
