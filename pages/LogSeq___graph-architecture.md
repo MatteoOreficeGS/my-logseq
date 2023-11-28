@@ -44,6 +44,7 @@
 			- PageClass
 			- BlockClass
 		- Pagina di prefisso gerarchia
+			- pagina usata come prefisso per contenere altre pagine
 			- in questa maniera si possono trovare tutte le pagine che  rappresentano una gerarchia
 			-
 	-
