@@ -2,7 +2,8 @@
 - # Proprietá o tags utili e loro usi
 	- Sulla questa pagina si possono poi inserire delle query per ogni classe al fine di trovare i vari tipi di pagina
 	-
-	- ## Prop Legate al business
+	-
+	- ## #idee
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
