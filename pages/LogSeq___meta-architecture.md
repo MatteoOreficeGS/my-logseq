@@ -1,5 +1,5 @@
 - descrive organizzazione dei metadati
-- # Proprietá utili
+- # Proprietá utili e loro usi
 	- ## Comuni a vari tipi di oggetto legati al business
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
@@ -10,7 +10,7 @@
 	- NodeClass
 		- Property
 		- Tags
-		- Diversificare per page o
-		- PageClass
-		- BlockClass
+		- Diversificare per page o block ? minore confusione su cosa usare
+			- PageClass
+			- BlockClass
 	-
