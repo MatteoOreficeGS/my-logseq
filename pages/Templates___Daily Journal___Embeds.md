@@ -1,4 +1,4 @@
-- I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] al fine di non duplicare ogni volta
+- I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] al fine di non duplicare ogni volta, possono essere inclusi singolarmente
 - ### Esempio di Attivitá
   id:: 6565c304-9cba-4238-91e6-36a5a4b45930
 	- #### Intestazione attivitá
