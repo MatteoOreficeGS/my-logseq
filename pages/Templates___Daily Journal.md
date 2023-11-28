@@ -12,7 +12,7 @@
 			- attivitá log statement 2
 			- attivitá log statement ...
 			- attivitá log statement N
-	-
+	- ## {{embed [[Templates/Daily Journal/Embeds/Help]]}}
 	- ## Tags e journal
 		- Vedere #[[Templates/Daily Journal]] per il template
 		- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
