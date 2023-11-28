@@ -1,2 +1,5 @@
-- {{query (namespace [[process]])(namespace [[process]])}}
-  query-properties:: [:page]
+## Macro processi
+query-properties:: [:page]
+query-sort-by:: page
+query-sort-desc:: true
+{{query (namespace [[process]])(namespace [[process]])}}
