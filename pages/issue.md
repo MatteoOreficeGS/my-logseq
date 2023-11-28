@@ -1,4 +1,4 @@
-- {{query (all-page-tags)(page [[issue]])}}
+- {{query (namespace [[issue]])(sample 3)}}
 - # Definizione
 	- Una **issue** rappresenta un problema che si é manifestato ed é da risolvere #INFO
 		- Si rivolve di solito solo quando si manifesta
