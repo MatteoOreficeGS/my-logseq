@@ -68,7 +68,7 @@ tags:: prefix/prefix2
 	- come reagiscono i namespace nei valori delle properties ?
 		- come si comportano in particolare per la prop tags?
 		  tags:: prefix/prefix2/tagvalue, prefix/prefix2
-			- mi sembra di vedere che
+			- mi sembra di vedere che la sezione "pagine taggate con questo tag" si popola solo se il tag é presente esattamente nella property, quindi se il valore tag é organizzato con un namespace non viene menzionato sulla pagina del prefisso.
 - # Templates utili
 	- Possono contenere sostanzialmente dei blocchi
 	- Esiste un modo di interpolare variabili
