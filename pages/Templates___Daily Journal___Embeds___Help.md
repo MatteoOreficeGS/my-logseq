@@ -1,5 +1,5 @@
 - Questa pagina viene inclusa dal #[[Templates/Daily Journal]] come deduplica
-- # container
+- ## container
   id:: 6565cd78-c9a4-4b1e-8cd5-4b20d4dba1c6
 	- ## Esempio di Attivitá
 		- ### Intestazione attivitá
