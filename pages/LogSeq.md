@@ -1,7 +1,7 @@
 # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
 - # Definizioni
-	- @@html: https://docs.logseq.com/#ls-block-5-6543c20d-07e5-4ea4-a717-65c4de49334f@@
+	- {{embed [[https://docs.logseq.com/#ls-block-5-6543c20d-07e5-4ea4-a717-65c4de49334f]]}}
 	- LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
