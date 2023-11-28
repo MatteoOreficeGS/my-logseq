@@ -13,7 +13,11 @@
 			- tipo di attivitá
 			- continuo attivitá esistente
 		- i tags possono poi essere riepilogati sul template del #[[Templates/Daily Journal]] magari con una query
-	-
+	- ## Tipi per i namespace
+		- In generale i prefissi dei namespace diventano candidati per dei tipi specifici
+			- Glossary
+			- Instrument: potrebbe avere diverse sottoclassi
+			-
 	-
 - # Gerarchia [draft]
 	- NodeClass
