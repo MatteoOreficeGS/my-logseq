@@ -5,7 +5,9 @@
 - Ci vuole tempo per padroneggiare questo strumento, poiché Logseq non impone un modo di lavorare. Ma una volta capito come ottenere i risultati finali desiderati, **Logseq vi aiuterà a diventare un pensatore molto più efficace**.
 - Per aiutarvi a capire quali sono i flussi di lavoro che fanno al caso vostro, vi illustreremo tutte le funzioni principali di Logseq. Vedetele come strumenti nella vostra cassetta degli attrezzi; singolarmente uno strumento fa poco, ma una volta imparato a usarli in combinazione potete diventare un artista. **Puntate a diventare un artista della conoscenza.**
 - # Definizioni
-	- @@html: <iframe src="https://docs.logseq.com/#/page/contents" height=500></iframe>@@LogSeq chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria.
+	- **LogSeq** chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria e non sono inter-collegabili, per esempio:
+		- KB Gsped Privata
+		- KB
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
