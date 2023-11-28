@@ -6,7 +6,9 @@
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
 		- Ambito spedizioni: #glossary/nazionale o #glossary/internazionale
-		- Processo business: di quale macro processo fa parte ?
+		- Processo business:
+			- di quale macro processo fa parte ?
+			-
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
