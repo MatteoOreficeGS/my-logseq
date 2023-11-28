@@ -66,12 +66,13 @@ tags:: prefix/prefix2/tagvalue
 - # Open Issues #question
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- come reagiscono i namespace nei valori delle properties ?
-		- come si comportano in particolare per la prop tags?
+		- come si comportano in particolare per la prop tags? alcuni tag di test
 		  tags:: prefix/prefix2/tagvalue, prefix/prefix2
-			- mi sembra di vedere che la sezione "pagine taggate con questo tag" si popola solo se il tag é presente esattamente nella property, quindi se il valore tag é organizzato con un namespace non viene menzionato sulla pagina del prefisso.
+			- mi sembra di vedere che la sezione "pagine taggate con questo tag" si popola solo se il tag é presente esattamente nella property, quindi se il valore tag é organizzato con un namespace non viene menzionato sulla pagina del prefisso, questa
 			- thread che parla di questo
 				- https://discuss.logseq.com/t/the-most-legit-use-of-namespaces/17685/13
-			- in generale potrebbe essere utile migliorare la visualizzazione con una query specifica
+			- in generale potrebbe essere utile migliorare la visualizzazione con una query specifica anziché utilizzare questa vista di default
+				- verificare anche se si possa disattivare
 - # Templates utili
 	- Possono contenere sostanzialmente dei blocchi
 	- Esiste un modo di interpolare variabili
