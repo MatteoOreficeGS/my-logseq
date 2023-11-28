@@ -6,6 +6,7 @@
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
 		- Ambito spedizioni: #glossary/nazionale o #glossary/internazionale
+		- Processo business: di quale macro processo fa parte ?
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
@@ -35,7 +36,7 @@
 		- Topic: una discussione in un forum
 			- il topic appartiene ad Forum per esempio
 		- Troubleshooting page
-		-
+		- Informazioni di configurazione
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
 - # Gerarchia [draft]
