@@ -1,4 +1,4 @@
-tags:: prefix/prefix2
+tags:: prefix/prefix2/tagvalue
 
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
