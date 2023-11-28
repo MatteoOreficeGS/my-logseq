@@ -16,7 +16,7 @@
 	- ## Blocco
 		-
 	- ## Pagina
-		- La pagina non é altro che un blocco particolare che del tipo piú specifico **pagina**
+		- La pagina non é altro che un blocco particolare del tipo piú specifico **pagina** a cui corrisponde anche in maniera **1:1** un artefatto di archiviazione sul disco , ovvero un file `.md`
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
