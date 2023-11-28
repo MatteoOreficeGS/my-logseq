@@ -1,4 +1,6 @@
-# Scopo
+tags:: prefix/prefix2/tagvalue
+
+- # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
 - # Introduzione
 - Logseq sembra semplice all'apparenza, ma è estremamente potente sotto il cofano. Proprio come il famoso Microsoft Excel, Logseq vuole essere un ambiente per pensare. Il carburante di Excel sono blocchi di numeri, quello di Logseq sono **blocchi di parole**.
@@ -64,7 +66,7 @@
 - # Open Issues #question
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- come reagiscono i namespace nei valori delle properties ?
-		- come si comportano in particolare per la pro
+		- come si comportano in particolare per la prop tags?
 		  tags:: prefix/prefix2/tagvalue, prefix/prefix2
 - # Templates utili
 	- Possono contenere sostanzialmente dei blocchi
