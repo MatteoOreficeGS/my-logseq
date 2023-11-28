@@ -69,7 +69,8 @@ tags:: prefix/prefix2/tagvalue
 		- come si comportano in particolare per la prop tags? alcuni tag di test
 		  tags:: prefix/prefix2/tagvalue, prefix/prefix2
 			- mi sembra di vedere che la sezione "pagine taggate con questo tag" si popola solo se il tag é presente esattamente nella property, quindi se il valore tag é organizzato con un namespace non viene menzionato sulla pagina del prefisso, questa pagina é taggata con #prefix/prefix2/tagvalue ma se si va su #prefix/prefix2 si vede questo
-				-
+				- ![image.png](../assets/image_1701167921486_0.png)
+				- ![image.png](../assets/image_1701167933539_0.png)
 			- thread che parla di questo
 				- https://discuss.logseq.com/t/the-most-legit-use-of-namespaces/17685/13
 			- in generale potrebbe essere utile migliorare la visualizzazione con una query specifica anziché utilizzare questa vista di default
