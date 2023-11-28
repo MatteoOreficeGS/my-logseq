@@ -21,6 +21,10 @@
 			- Actions
 			- Jira
 			- Issue
+			- Model
+				- posizione fisica
+				- Layer C4
+				-
 		- Fare un test per uso namespace nelle properties
 	- ## Altre cose che vengono in mente
 		- Topic: una discussione in un forum
