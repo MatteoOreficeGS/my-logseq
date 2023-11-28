@@ -1,6 +1,6 @@
 - I seguenti tag sono quelli consigliati
-- Una volta creato un tipo vero e proprio in #LogSeq/graph-architecture per i tags
-	- impostando percorso di questa pagina come alias sulla pagina che definisce la classe Tags
+- LATER Una volta creato un tipo vero e proprio in #LogSeq/graph-architecture per i tags :
+	- importare percorso di questa pagina come alias sulla pagina che definisce la classe Tags specifica per il journal
 	  logseq.order-list-type:: number
 	- cancellare questa pagina
 	  logseq.order-list-type:: number
