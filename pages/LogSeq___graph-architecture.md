@@ -22,7 +22,10 @@
 			- Jira
 			- Issue
 		- Fare un test per uso namespace nelle properties
-	- ## A
+	- ## Altre cose che vengono in mente
+		- Topic: una discussione in un forum
+			- il topic appartiene ad Forum per esempio
+		-
 - # Gerarchia [draft]
 	- NodeClass
 		- Property
