@@ -4,8 +4,10 @@
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
+		- Ambito spedizioni: #glossary/nazionale o #glossary/internazionale
 	- ## Journal
-		- trovare un sistema basato su tag oppure props per elencare i tags utilizzabili nelle righe del journal
+		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal, in questo modo sará facile trovare tramite query i vari tas
+	-
 - # Gerarchia
 	- NodeClass
 		- Property
