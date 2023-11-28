@@ -22,7 +22,7 @@
 			- Jira
 			- Issue
 			- Model
-				- Tipo #Models
+				- Tipo di entity: Data, Domain, Object
 				- Classe C4
 				- Repository di archiviazione
 				- Dove é deployato
