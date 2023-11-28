@@ -12,5 +12,6 @@
 			- attivitá log statement 2
 			- attivitá log statement ...
 			- attivitá log statement N
-	- Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili
-	  ## Riferimenti
+	- # Aiuto compilazione
+	  Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili
+		-

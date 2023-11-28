@@ -1,4 +1,4 @@
-- I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] come deduplica
+- I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] al fine di non duplicare ogni volta
 - ### Esempio di Attivitá
 	- #### Intestazione attivitá
 		- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
