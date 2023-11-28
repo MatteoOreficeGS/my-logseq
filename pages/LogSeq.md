@@ -6,11 +6,13 @@
 - Per aiutarvi a capire quali sono i flussi di lavoro che fanno al caso vostro, vi illustreremo tutte le funzioni principali di Logseq. Vedetele come strumenti nella vostra cassetta degli attrezzi; singolarmente uno strumento fa poco, ma una volta imparato a usarli in combinazione potete diventare un artista. **Puntate a diventare un artista della conoscenza.**
 - # Definizioni
 	- ## Grafo
-	- **LogSeq** chiama la rete interconnessa di note **graph** o **grafo**, é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria e non sono inter-collegabili, per esempio:
-		- KB Gsped Privata
-		- Progetto di studio sul Trading
-		- Gestione del mio orto
-		- ... e molto altro
+	- **LogSeq** chiama la **rete interconnessa di note**  **"grafo"** ( **graph** in inglese )
+		- é possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
+			- KB Gsped Privata
+			- Progetto di studio sul Trading
+			- Gestione del mio orto
+			- ... e molto altro
+		- non sono inter-collegabili
 	- ## Blocco
 	- ## Pagina
 - # Vantaggi
