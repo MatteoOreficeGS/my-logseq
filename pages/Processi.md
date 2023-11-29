@@ -1,2 +1,2 @@
 - Fare distinzione tra processi interni ed esterni
-- Analizzare chi sono gli attori e come iniziano tali flussi #issue/missing/doc, manca completamente la documentazione, si potrebbe fare un diagramma #Instrument/DFD o un #Instrument/BPM #idea
+- Analizzare chi sono gli attori e come iniziano tali flussi #issue/doc/missing, manca completamente la documentazione, si potrebbe fare un diagramma #Instrument/DFD o un #Instrument/BPM #idea

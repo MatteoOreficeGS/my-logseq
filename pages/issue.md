@@ -1,7 +1,7 @@
 - {{query (namespace [[issue]])(sample 3)}}
   query-properties:: [:page :description]
   query-sort-by:: page
-  query-sort-desc:: true
+  query-sort-desc:: false
 - # Definizione
 	- Una **issue** rappresenta un problema che si é manifestato ed é da risolvere #INFO
 		- Si rivolve di solito solo quando si manifesta
