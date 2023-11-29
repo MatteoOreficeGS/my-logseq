@@ -240,25 +240,6 @@
     :inputs [:today :7d-after]
     :group-by-page? false
     :collapsed? false}
-     { :title [:b "🔨 *TASKS"]
-        :query [:find (pull ?block [*])
-          :where
-            [?block :block/content ?blockcontent]
-            [?block :block/page ?page]
-            [?page :block/name ?pagename]
-            [?block :block/marker ?marker]
-            [?page :block/journal? true]
-            [?page :block/journal-day ?d]
-            ( or
-              [(contains? #{"LATER"} ?marker)]
-              [(contains? #{"NEXT"} ?marker)]
-              [(contains? #{"NOW"} ?marker)]
-            )
-        ]
-        :group-by-page? false
-        :collapsed? false
-        :result-transform :sort-by-priority
-     }
    ]}
 
  ;; Add custom commands to the command palette
@@ -302,7 +283,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 50
+ :ref/linked-references-collapsed-threshold 3
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -313,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:

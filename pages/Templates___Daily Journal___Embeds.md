@@ -10,7 +10,7 @@
 			  logseq.order-list-type:: number
 	- #### Sotto blocchi
 		- fornire un link ad una #jira/issue é fondamentale da subito perché evita di scrivere in logseq informazioni condivise
-		- nei sottoblocchi é lecito avere degli statement che migliorino la rete di conoscenza ma **non devono sostituire o replicare** le informazioni fondamentali in #jira che vanno condivise #Process/Sharing #Process/GTD
+		- nei sottoblocchi é lecito avere degli statement che migliorino la rete di conoscenza ma **non devono sostituire o replicare** le informazioni fondamentali in #jira che vanno condivise #[[Process/Knowledge Sharing]] #Process/GTD
 		- oggetto della richiesta come il nome del progetto o della codebase
 		- la sequenzialitá indica cosa fatto prima o dopo
 		- valutare uso di block properties

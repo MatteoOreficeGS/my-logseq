@@ -43,7 +43,7 @@
 	  logseq.order-list-type:: number
 		- ricordati di **annotare sempre** le card #jira in maniera che tutti leggano l'avanzamento delle attivitá
 		  logseq.order-list-type:: number
-		- ricorda di non inserire in #LogSeq informazioni che devono essere condivise in #jira #Process/Sharing
+		- ricorda di non inserire in #LogSeq informazioni che devono essere condivise in #jira #[[Process/Knowledge Sharing]]
 		  logseq.order-list-type:: number
 		- in #LogSeq puoi ad esempio inserire
 		  logseq.order-list-type:: number
