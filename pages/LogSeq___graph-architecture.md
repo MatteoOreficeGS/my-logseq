@@ -35,6 +35,7 @@
 				- Classe C4
 				- Repository di archiviazione
 				- Dove é deployato
+			- Business Rules
 		- LATER Fare un test per uso namespace nelle properties
 	- ## Altre cose che vengono in mente
 		- Topic: una discussione in un forum
