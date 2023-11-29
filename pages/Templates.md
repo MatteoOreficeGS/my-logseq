@@ -33,7 +33,7 @@ filters:: {"2023.*" false}
 		- Ragionare su proprietá comuni a tutti i **tasks**
 		  id:: 654d0c7c-b44b-4a3c-b69e-fb443eee047e
 			- tutti i task devono riferire una Issue in Jira
-		- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/Tasks Management/My GTD]]
+		- Un grande problema é il modo con cui viene descritto un task da fare, é assolutamente necessario definire un #Templates per i vari task che mi forzi a fare certe operazioni #[[Process/Tasks Management/GTD/My]]
 		  id:: 654d06e4-98c0-44f7-81e9-5a999d3bea1d
 		  :LOGBOOK:
 		  CLOCK: [2023-11-09 Thu 19:10:16]

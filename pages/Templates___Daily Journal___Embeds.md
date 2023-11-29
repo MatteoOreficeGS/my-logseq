@@ -21,4 +21,4 @@
 	  query-properties:: [:page :updated-at :created-at :description]
 - ### Riferimenti utili
   id:: 6565c304-fbc2-4931-ab16-96384d8543be
-	- Vai alla guida del processo [[Process/Tasks Management/My GTD]] per vederlo o modificarlo
+	- Vai alla guida del processo [[Process/Tasks Management/GTD/My]] per vederlo o modificarlo
