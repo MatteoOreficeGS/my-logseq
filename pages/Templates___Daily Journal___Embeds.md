@@ -10,7 +10,7 @@
 			  logseq.order-list-type:: number
 	- #### Sotto blocchi
 		- fornire un link ad una #jira/issue é fondamentale da subito perché evita di scrivere in logseq informazioni condivise
-		- nei sottoblocchi é lecito avere degli statement che migliorino la rete di conoscenza ma **non devono sostituire o replicare** le informazioni fondamentali in #jira che vanno condivise #[[Process/Knowledge Sharing]] #Process/GTD
+		- nei sottoblocchi é lecito avere degli statement che migliorino la rete di conoscenza ma **non devono sostituire o replicare** le informazioni fondamentali in #jira che vanno condivise #[[Process/Knowledge Sharing]] #[[Process/Tasks Management/GTD]]
 		- oggetto della richiesta come il nome del progetto o della codebase
 		- la sequenzialitá indica cosa fatto prima o dopo
 		- valutare uso di block properties
@@ -21,4 +21,4 @@
 	  query-properties:: [:page :updated-at :created-at :description]
 - ### Riferimenti utili
   id:: 6565c304-fbc2-4931-ab16-96384d8543be
-	- Vai alla guida del processo [[Process/GTD/MyDailyPlanning]] per vederlo o modificarlo
+	- Vai alla guida del processo [[Process/Tasks Management/My GTD]] per vederlo o modificarlo
