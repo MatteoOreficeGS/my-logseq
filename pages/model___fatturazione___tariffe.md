@@ -34,4 +34,5 @@ tags:: [[Models/Data Model/Entity]]
 	      codice_tariffa_brt    varchar(3)                                      null comment 'codice tariffa brt'
 	  );
 	  ```
-	-
+	- Considerare che alcune colonne hanno senso solo in alcuni casi #CAUTION
+	- ## `tariffa.tariffa`
