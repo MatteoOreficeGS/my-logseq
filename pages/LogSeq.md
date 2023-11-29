@@ -30,8 +30,8 @@ tags:: prefix/prefix2/tagvalue
 	- Ricerca superveloce **full text** e **tag based**
 	- Lascia molta libertá nell'organizzare le informazioni: albero, directory, grafo, blog, etc
 	- Puó essere utilizzato per diversi scopi, dal creare documentazione pubblica o personale, al registro delle attivitá giornaliera, alla gestione di task legati o meno allo spazio di lavoro.
-	- Invoglia a creare **note atomiche** quindi ad usare processi mentali in cui la sintesi é fondamentale per delimitare e collegare tra loro concetti in una rete di conosceza. #[[Process/Note Taking]] #[[glossary/Network Thinking]] #Instrument/Zettelkasten
-	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #glossary/mindmap
+	- Invoglia a creare **note atomiche** quindi ad usare processi mentali in cui la sintesi é fondamentale per delimitare e collegare tra loro concetti in una rete di conosceza. #[[Process/Note Taking]] #[[topic/Network Thinking]] #Instrument/Zettelkasten
+	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
 		-
@@ -46,7 +46,7 @@ tags:: prefix/prefix2/tagvalue
 	- Tutto é un albero o meglio un grafo
 		- Puoi linkare non solo le pagine ma persino i blocchi
 		- In realtá le pagina non sono altro che blocchi con un metadato che le fa risultare come pagine, quindi visibili nella sezione **All Pages** dal menú di sinistra, ma di fatto nel grafo sono semplicemente dei nodi.
-		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[glossary/Network Thinking]]
+		- Si ispira ad alcuni concetti dello #[[Instrument/Zettelkasten]] e del #[[topic/Network Thinking]]
 		- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Ogni nodo é un file markdown, eventualmente con il front-matter
 	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link
@@ -57,7 +57,7 @@ tags:: prefix/prefix2/tagvalue
 - # Pubblicazione
 	- ## On-premise
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
-		- Si puó pubblicare anche su proprio server https://devops.bike/publish-your-notes-as-site #glossary/on-premise
+		- Si puó pubblicare anche su proprio server https://devops.bike/publish-your-notes-as-site #topic/on-premise
 	- ## Documenti
 		- Export in vari formati
 	- ## GitHub Pages
