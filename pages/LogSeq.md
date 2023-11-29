@@ -26,7 +26,7 @@ tags:: prefix/prefix2/tagvalue
 	- Fa risparmiare tempo e aiuta a **concentrarsi esclusivamente sul contenuto** e la struttura dimenticandosi del livello di presentazione ( che potrá comunque essere gestito in un ipotetico processo di pubblicazione )
 	- **Embedded editing**:  potente funzione che permette di modificare una pagina collegata direttamete dal punto in cui viene riferita / puntata.
 	- Mostra facilmente l'**utilizzo delle pagine** e **blocchi** da parte di altre pagine in termini quantitativi
-	- Niente piú **link rotti**  nella tua documentazione: aggiornare il titolo di una pagina non rompe le references che la puntano nonostante i nodi siano prima di tutto files sul proprio filesystem #doc #glossary/broken-link
+	- Niente piú **link rotti**  nella tua documentazione: aggiornare il titolo di una pagina non rompe le references che la puntano nonostante i nodi siano prima di tutto files sul proprio filesystem #doc #topic/broken-link
 	- Ricerca superveloce **full text** e **tag based**
 	- Lascia molta libertá nell'organizzare le informazioni: albero, directory, grafo, blog, etc
 	- Puó essere utilizzato per diversi scopi, dal creare documentazione pubblica o personale, al registro delle attivitá giornaliera, alla gestione di task legati o meno allo spazio di lavoro.
