@@ -35,4 +35,5 @@ tags:: [[Models/Data Model/Entity]]
 	  );
 	  ```
 	- Considerare che alcune colonne hanno senso solo in alcuni casi #CAUTION
-	- ## `tariffa.tariffa`
+	- ## `tariffa.tariffa_import`
+		- Vale solo per spedizioni internazionali, quindi indica
