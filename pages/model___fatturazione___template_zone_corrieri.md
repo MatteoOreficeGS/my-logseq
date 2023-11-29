@@ -1,0 +1,1 @@
+- solo per internazionale mappa i codici iso country sulle zone del corriere ( e poi varie )
