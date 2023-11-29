@@ -1,0 +1,2 @@
+- Fare distinzione tra processi interni ed esterni
+- Analizzare chi sono gli attori e come iniziano tali flussi
