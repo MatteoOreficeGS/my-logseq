@@ -1,3 +1,3 @@
-alias:: issue/lack-of-documentation, issue/nodoc
+alias:: issue/lack-of-documentation
 
 -
