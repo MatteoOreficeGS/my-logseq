@@ -1,2 +1,3 @@
-# #action/question
+- Le business rules sono quelle regole esistenti a prescindere dall'implementazione
+- # #action/question
 	- quali sono le business rule fondamentali ?
