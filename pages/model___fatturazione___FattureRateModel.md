@@ -1,6 +1,6 @@
 tags:: #[[Models/Object Model/Object]]
 
-- Deputato al #business-rules/calcolo-tariffario a partire dai dati di una fattura
+- Deputato al #business-rule/calcolo-tariffario a partire dai dati di una fattura
 - ## Problemi ricontrati #issue
 	- il metodo checkReseller non dovrebbe decidere se utilizzare un client id ( invoiced o normale ) indicato sulla `$sped`, questo dovrebbe essere passato da fuori e fine #issue/design
 		- la responsabilitá di scegliere quale client id utilizzare dovrebbe spettare al chiamate
