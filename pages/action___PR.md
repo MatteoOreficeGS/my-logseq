@@ -1,2 +1,2 @@
-- Effettuare una Pull Request
-  type:: [[LS/Tag/Action]]
+type:: [[LS/Tag/Action]]
+description:: Effettuare una #topic/pull-request

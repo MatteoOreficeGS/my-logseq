@@ -4,7 +4,7 @@ type:: [[LS/Class]]
   query-sort-by:: block
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:block :page :type]
+  query-properties:: [:block :page :type :description]
 - # Template
 	- Inserisci testo azione qui
 	  template:: Action
