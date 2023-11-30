@@ -42,8 +42,9 @@ tags:: prefix/prefix2/tagvalue
 		- Navigare insieme di argomenti correlati, indice
 		- ### Come usarli in #gsped
 	- ## Properties
-	- ## Query
-		- ![image.png](../assets/image_1701331213195_0.png)
+	- ## Queries
+		- ### Uso dell'header nelle queries
+		  ![image.png](../assets/image_1701331213195_0.png)
 - # Interni
 	- Tutto é un albero o meglio un grafo
 		- Puoi linkare non solo le pagine ma persino i blocchi
