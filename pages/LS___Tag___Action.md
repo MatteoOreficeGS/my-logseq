@@ -9,4 +9,5 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-properties:: [:block :page :description :created-at]
   {{query (page-property :type [[LS/Tag/Action]])}}
 - # Azioni
-  {{query }}
+  query-table:: true
+  {{query (property :type [[LS/Tag/Action]])}}
