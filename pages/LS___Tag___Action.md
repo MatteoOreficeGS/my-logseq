@@ -13,7 +13,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   type:: [[LS/Tag/Action]]
 - # Azioni
   query-table:: true
-- query-sort-by:: block
+- query-sort-by:: type
   query-table:: true
   query-sort-desc:: true
   query-properties:: [:type :description :block :page]
