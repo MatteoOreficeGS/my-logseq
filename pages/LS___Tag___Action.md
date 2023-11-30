@@ -1,7 +1,9 @@
 type:: [[LS/Class]]
 
-- {{query (and (property :type [[LS/Tag/Action]]) (not (page [[LS/Tag/Action]])))}}
+- {{query (page-property :type [[LS/Tag/Action]])}}
+  query-sort-by:: block
   query-table:: true
+  query-sort-desc:: false
   query-properties:: [:block :page :type]
 - # Template
 	- Inserisci testo azione qui
