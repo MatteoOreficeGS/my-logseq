@@ -18,7 +18,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   { :title "Current Members"
     :query [:find (pull ?b [*])
             :where
-            [?b :block/page ?p]
+            [?b :block/refs ?p]
             [?p :block/name "action"]]
   }
   #+END_QUERY
