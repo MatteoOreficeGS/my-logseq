@@ -1,4 +1,4 @@
-tags:: prefix/prefix2/tagvalue
+tags:: #[[Process/Information Capture]]
 
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
