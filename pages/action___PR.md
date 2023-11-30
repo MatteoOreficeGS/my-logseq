@@ -1,1 +1,2 @@
-type:: [[LS/Tag/Action]]
+- Effettuare una Pull Request
+  type:: [[LS/Tag/Action]]
