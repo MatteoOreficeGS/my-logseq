@@ -7,7 +7,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:block :page :description :created-at]
-  {{query (property :type [[LS/Tag/Action]])}}
+  {{query }}
 -
 - # Azioni
   query-table:: true
