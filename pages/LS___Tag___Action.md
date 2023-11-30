@@ -8,8 +8,3 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-sort-desc:: false
   query-properties:: [:block :page :description :created-at]
   {{query (page-property :type [[LS/Tag/Action]])}}
-- # Template
-	- template:: TagAction
-	  template-including-parent:: true
-	  type:: [[LS/Tag/Action]]
-	  description:: inserire la descrizione di questa azione
