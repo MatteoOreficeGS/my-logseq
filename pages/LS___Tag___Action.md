@@ -13,7 +13,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-table:: true
 - query-sort-by:: block
   query-table:: true
-  query-sort-desc:: true
+  query-sort-desc:: false
   query-properties:: [:block :page]
   #+BEGIN_QUERY
   { :title "Current Members"
@@ -21,7 +21,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/refs ?p]
             [?p :block/properties ?props]
-            [?props :type ]
+            [?props :description "o"]
     ]
   }
   #+END_QUERY
