@@ -7,4 +7,4 @@ type:: [[LS/Class]]
 	- Inserisci testo azione qui
 	  template:: Action
 	  template-including-parent:: true
-	  type:: [[LS/Action]]
+	  type:: [[LS/Tag/Action]]
