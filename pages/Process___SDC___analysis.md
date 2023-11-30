@@ -14,7 +14,7 @@
 - in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata? #jira/issue/meta
 - creare un filtro anche per vedere a coppie o gruppi i task in comune, ragionare per reparti
 	- https://gsped.atlassian.net/issues/?filter=10664
-	-
+	- ![image.png](../assets/image_1701338305597_0.png)
 - non sarebbe male avere uno stato adatto per mettere la card quando é in attesa di PR per non mettere completata comunque
 	- a quel punto dovrá essere ripescata quando quella da cui dipende é marcata come done #jira/automation
 - fondamentale sapere su cosa si sta lavorando #warning
