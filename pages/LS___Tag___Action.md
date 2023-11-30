@@ -13,12 +13,13 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-table:: true
 - query-table:: true
   #+BEGIN_QUERY
-  {:title "funcking example"
+  { :title "Current Members"
     :query [:find (pull ?b [*])
+            :in $ ?current-page
             :where
-            [?p :block/name "action"]
-            [?par :block/refs ?p]
-            [?b :block/parent ?par]
-    ]
-  }
+            [?b :block/page ?p]
+            [?p :block/name ?current-page]
+            [?b :block/parent ?parent]
+            [?parent :block/content "Members"]]
+    :inputs [:current-page] }
   #+END_QUERY
