@@ -10,7 +10,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   {{query (page-property :type [[LS/Tag/Action]])}}
 -
 - Provap
-  type:: test
+  type:: [[LS/Tag/Action]]
 - # Azioni
   query-table:: true
 - query-sort-by:: block
