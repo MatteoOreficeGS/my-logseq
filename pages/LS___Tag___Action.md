@@ -24,7 +24,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             [?b :block/properties ?prop]
   [(get ?prop :type) ?type]
   [(= ?type #{"LS/Tag/Action"})]
-  
+  (not [?b :page "templates"])
     ]
   }
   #+END_QUERY
