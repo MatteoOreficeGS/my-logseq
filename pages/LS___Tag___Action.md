@@ -9,20 +9,21 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-properties:: [:block :page :description :created-at]
   {{query (page-property :type [[LS/Tag/Action]])}}
 -
+- Provap
 - # Azioni
   query-table:: true
 - query-sort-by:: block
   query-table:: true
   query-sort-desc:: true
-  query-properties:: [:block :page :type]
+  query-properties:: [:block :page]
   #+BEGIN_QUERY
   { :title "Current Members"
     :query [:find (pull ?b [*])
             :where
             [?b :block/refs ?p]
             [?p :block/properties ?props]       
-  
-  
+            [(get ?props :type) ?type]   
+            [(contains? #{"TODO"} ?type)] 
     ]
   }
   #+END_QUERY
