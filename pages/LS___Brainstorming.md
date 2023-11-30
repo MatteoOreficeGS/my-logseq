@@ -1,1 +1,1 @@
-type::
+type:: #LS/Class
