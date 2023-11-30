@@ -37,3 +37,4 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/analysis
   tags:: #issue/failure, #issue/process
 	- {{query (and [[issue/failure]] [[issue/process]])[[issue/failure]]}}
 	  query-table:: true
+	  query-properties:: [:block :page]
