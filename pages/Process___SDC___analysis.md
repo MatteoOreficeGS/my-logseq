@@ -10,4 +10,5 @@
 - eh ma a me non piace molto e non lo uso molto
 - i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate
 - dove poter censire le richieste degli stackholder? fare un backlog dedicato dove la gente possa metterci qualcosa dentro separata dalle cose da fare altrimenti diventa un pandemonio a mio parere
-	- le attivitá che potrebbero finire da una parte o dall'altra
+	- le attivitá che potrebbero finire da una parte ( fare subito ) o dall'altra ( analizzare )
+- # Perché tutto funzioni
