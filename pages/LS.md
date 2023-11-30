@@ -3,7 +3,7 @@
 - # Gerarchia
   Nota: questa sezione mostra come le **classi** o i **tipi di pagine** sono collegati tra loro. Una **classe** raggruppa le pagine che condividono un **insieme comune di proprietà**. #LS/Class é la **classe** principale da cui vengono definite tutte le altre **classi**. Quando una **classe** è figlia di un'altra **classe**, di solito **eredita**  le **stesse proprietà** della **classe madre**.
 	- [[LS/Class]]
-		- [[LS/Tag]]
+		- [Tag]([[LS/Tag]])
 			- [[LS/JournalTag]]
 		- [[LS/Page]]
 			- [[LS/Action]]
