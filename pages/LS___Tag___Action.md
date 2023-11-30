@@ -18,8 +18,6 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :in $ ?current-page
             :where
             [?b :block/page ?p]
-            [?p :block/name ?current-page]
-            [?b :block/parent ?parent]
-            [?parent :block/content "Members"]]
+            [?p :block/name ?current-page]]
     :inputs [:current-page] }
   #+END_QUERY
