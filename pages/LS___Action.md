@@ -1,4 +1,4 @@
-type:: [[LS/Action]]
+type:: [[LS/Class]]
 
 - {{query (and (property :type [[LS/Action]]) (not (page [[LS/Action]])))(and (property :type [[LS/Action]]) (not))(property :type [[LS/Action]])}}
   query-table:: true
