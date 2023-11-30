@@ -4,5 +4,6 @@ type:: [[LS/Action]]
   query-table:: true
   query-properties:: [:block :page :type]
 - # Template
-- template:: Action
-  template-including-parent:: true
+	- Inserisci testo azione qui
+	  template:: Action
+	  template-including-parent:: true
