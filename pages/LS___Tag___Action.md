@@ -19,5 +19,5 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/page ?p]
             [?p :block/name ?current-page]]
-    :inputs [:current-page] }
+    :inputs ["action"] }
   #+END_QUERY
