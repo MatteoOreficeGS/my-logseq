@@ -5,3 +5,5 @@
 	- [[LS/Class]]
 		- [[LS/Brainstorming]]
 		- [[LS/Action]]
+		- [[LS/Analysis]]
+		-
