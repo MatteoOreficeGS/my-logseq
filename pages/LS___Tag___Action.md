@@ -13,14 +13,14 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-table:: true
 - query-sort-by:: block
   query-table:: true
-  query-sort-desc:: false
+  query-sort-desc:: true
   query-properties:: [:block :page]
   #+BEGIN_QUERY
   { :title "Current Members"
     :query [:find (pull ?b [*])
             :where
             [?b :block/refs ?p]
-            [?p :block/uuid #uuid "6568dfa6-e870-4f1e-a122-34b9ecda044a" ]
+            (property ?p :type "LS/Tag/Action")
             
     ]
   }
