@@ -33,7 +33,7 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/analysis
 - fondamentale sapere su cosa si sta lavorando #warning prima della pickup analisi dal backlog
 - fondamentale capire la soglia minima di effort per censire i task in analisi #WARNING
 - # Perché tutto funzioni
-- # Fallimenti di processo
+- # Casi di fallimento del processo
   tags:: #issue/failure, #issue/process
-	- casi storici di fallimento di processo
 	- {{query (and [[issue/failure]] [[issue/process]])[[issue/failure]]}}
+	  query-table:: true
