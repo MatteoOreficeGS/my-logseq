@@ -1,2 +1,2 @@
 type:: [[LS/Tag/Action]]
-description:: inserire la descrizione di questa azione
+description:: É richiesto un refactoring
