@@ -13,5 +13,6 @@
 	- le attivitá che potrebbero finire da una parte ( fare subito ) o dall'altra ( analizzare )
 - in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata?
 - non sarebbe male avere uno stato adatto per mettere la card quando é in attesa di PR per non mettere completata comunque
+	- a quel punto dovrá essere ripescata quando quella da cui dipende é marcata come done #jira/automation
 - fondamentale sapere su cosa si sta lavorando #warning
 - # Perché tutto funzioni
