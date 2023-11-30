@@ -10,6 +10,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   {{query (page-property :type [[LS/Tag/Action]])}}
 -
 - Provap
+  type:: TODO
 - # Azioni
   query-table:: true
 - query-sort-by:: block
@@ -22,8 +23,8 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/refs ?p]
             [?p :block/properties ?props]       
-            [(get ?props :type) ?type]   
-            [(contains? #{"TODO"} ?type)] 
+            [?props :type ?type]   
+            [ ?type "TODO" ] 
     ]
   }
   #+END_QUERY
