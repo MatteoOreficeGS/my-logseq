@@ -14,7 +14,7 @@
 - in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata? #jira/issue/meta
 - creare un filtro anche per vedere a coppie o gruppi i task in comune, ragionare per reparti
 	- https://gsped.atlassian.net/issues/?filter=10664
-	- Filtro per 
+	- Filtro utile per task condivisi con uno stakeholder in particolare
 	  ```
 	  # Jira JQL per filtro di coppia
 	  status != Pending and status != Waiting and  issuetype not in (subTaskIssueTypes()) AND 
