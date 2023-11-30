@@ -23,7 +23,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/properties ?prop]
   [(get ?prop :type) ?type]
-  [(= ?type #{"[[action/refactor]]"})]
+  [(= ?type "tess")]
   
     ]
   }
