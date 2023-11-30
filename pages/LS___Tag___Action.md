@@ -16,14 +16,14 @@ subject:: Soggetto opzionale che deve eseguire l'azione
 - query-sort-by:: block
   query-table:: true
   query-sort-desc:: true
-  query-properties:: [:block :page]
+  query-properties:: [:block :page :type :description]
   #+BEGIN_QUERY
   { :title "Current Members"
     :query [:find (pull ?b [ * ])
             :where
             [?b :block/properties ?prop]
   [(get ?prop :type) ?type]
-  [(= ?type "tess")]
+  [(= ?type #{"LS/Tag/Action"})]
   
     ]
   }
