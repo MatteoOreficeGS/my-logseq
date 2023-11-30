@@ -21,8 +21,8 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   { :title "Current Members"
     :query [:find (pull ?b [ * ])
             :where
-            [?b :block/properties ?prop]
-         [?b :block/properties ?prop]
+            [?b :block/refs ?page]
+         [?page :block/properties ?prop]
   [(get ?prop :type) ?type]
   [(= ?type #{"LS/Tag/Action"})]
   
