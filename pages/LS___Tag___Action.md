@@ -20,8 +20,8 @@ subject:: Soggetto opzionale che deve eseguire l'azione
     :query [:find (pull ?b [*])
             :where
             [?b :block/refs ?p]
-            [?p :block/property] 
-            
+            [?p :block/property ?prop] 
+            [(contains? #{"LS/Action"} ?prop)] 
     ]
   }
   #+END_QUERY
