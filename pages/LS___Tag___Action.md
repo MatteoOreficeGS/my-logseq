@@ -10,4 +10,4 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   {{query (page-property :type [[LS/Tag/Action]])}}
 - # Azioni
   query-table:: true
-  {{query (property :type [[LS/Tag/Action]])}}
+  {{query (and (property :type [[LS/Tag/Action]]) (not))(property :type [[LS/Tag/Action]])}}
