@@ -1,8 +1,7 @@
 type:: [[LS/Class]]
 
-- {{query }}
+- {{query (and (property :type [[LS/Tag/Action]]) (not))(property :type [[LS/Tag/Action]])}}
   query-table:: true
-  query-properties:: [:block :page :type]
 - # Template
 	- Inserisci testo azione qui
 	  template:: Action
