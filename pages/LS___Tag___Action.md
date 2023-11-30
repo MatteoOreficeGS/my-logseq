@@ -11,11 +11,14 @@ subject:: Soggetto opzionale che deve eseguire l'azione
 -
 - # Azioni
   query-table:: true
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title "funcking example"
     :query [:find (pull ?b [*])
             :where
             [?p :block/name "action"]
+            [?par :block/refs ?p]
+            [?b :block/parent ?par]
     ]
   }
   #+END_QUERY
