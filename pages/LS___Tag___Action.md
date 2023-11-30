@@ -1,4 +1,6 @@
 type:: [[LS/Class]]
+description:: Descrive una azione da eseguirsi
+subject:: soggetto opzionale che deve eseguire l'azione
 
 - # Azioni disponibili
   query-sort-by:: block
