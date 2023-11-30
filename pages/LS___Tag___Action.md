@@ -1,10 +1,11 @@
 type:: [[LS/Class]]
 
-- {{query (page-property :type [[LS/Tag/Action]])}}
+- # Azioni disponibili
   query-sort-by:: block
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:block :page :type :description]
+  query-properties:: [:block :page :description :created-at]
+  {{query (page-property :type [[LS/Tag/Action]])}}
 - # Template
 	- Inserisci testo azione qui
 	  template:: Action
