@@ -18,7 +18,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-sort-desc:: true
   query-properties:: [:type :description :block :page]
   #+BEGIN_QUERY
-  { :title "Current Members"
+  { :title :h2 "Current Members"
     :query [:find (pull ?b [ * ])
             :where
             [?b :block/refs ?page]
