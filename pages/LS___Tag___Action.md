@@ -11,14 +11,12 @@ subject:: Soggetto opzionale che deve eseguire l'azione
 -
 - Provap
   type:: [[LS/Tag/Action]]
-- # Azioni
-  query-table:: true
 - query-sort-by:: type
   query-table:: true
   query-sort-desc:: true
   query-properties:: [:type :description :block :page]
   #+BEGIN_QUERY
-  { :title :h2 "Current Members"
+  { :title [:h1 "Azioni"]
     :query [:find (pull ?b [ * ])
             :where
             [?b :block/refs ?page]
