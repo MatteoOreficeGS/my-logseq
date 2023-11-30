@@ -11,15 +11,14 @@ subject:: Soggetto opzionale che deve eseguire l'azione
 -
 - # Azioni
   query-table:: true
-- query-table:: true
-  query-sort-by:: block
+- query-sort-by:: block
+  query-table:: true
   query-sort-desc:: false
   #+BEGIN_QUERY
   { :title "Current Members"
     :query [:find (pull ?b [*])
-  
             :where
             [?b :block/page ?p]
-            [?p :block/name ?current-page]]
-    :inputs ["action"] }
+            [?p :block/name "action"]]
+  }
   #+END_QUERY
