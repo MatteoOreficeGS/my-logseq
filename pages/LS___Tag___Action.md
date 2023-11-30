@@ -20,7 +20,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
     :query [:find (pull ?b [*])
             :where
             [?b :block/refs ?p]
-            [?b :block/uuid] 
+            [?p :block/property] 
             
     ]
   }
