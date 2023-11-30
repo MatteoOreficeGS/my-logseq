@@ -1,1 +1,1 @@
--
+- Questa pagina descrive l'organizzazione del grafico e delle sue pagine. È destinata a coloro che sono alla ricerca di modi per gestire il proprio grafico e non è una guida per i primi utenti.. #INFO
