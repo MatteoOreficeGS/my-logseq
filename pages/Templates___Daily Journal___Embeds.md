@@ -17,11 +17,10 @@
 		- valutare uso di block properties
 - ### Tags e journal
   id:: 6565c304-72f1-40e2-b2ac-a2eab69b4998
-  collapsed:: true
 	- Vedere #[[Templates/Daily Journal]] per il template
 	- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
 	  query-properties:: [:page :updated-at :created-at :description]
+	- #action/task/new
 - ### Riferimenti utili
   id:: 6565c304-fbc2-4931-ab16-96384d8543be
-  collapsed:: true
 	- Vai alla guida del processo [[Process/Tasks Management/GTD/My]] per vederlo o modificarlo
