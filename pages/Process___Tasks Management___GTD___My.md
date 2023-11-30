@@ -13,7 +13,7 @@
 		  logseq.order-list-type:: number
 		- Le attivitá veloci non vanno trasferite in #jira
 		  logseq.order-list-type:: number
-			- Pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq, scegli un tag per esempio #jira/untracked
+			- Pensare ad un modo per marcare queste attivitá di veloce svolgimento nel Journal #improvements/logseq, scegli un tag per esempio #issue/jira/untracked
 			  logseq.order-list-type:: number
 		- Per le attivitá di sviluppo **devi sempre creare** le card nella board [Analisi](https://gsped.atlassian.net/jira/software/projects/AN/boards/37) , queste non possono andare subito in lavorazione ma vanno pianificate con il team
 		  logseq.order-list-type:: number
@@ -27,9 +27,9 @@
 		  logseq.order-list-type:: number
 		- ci possono essere anche task nello stato **NOW** dal giorno precedente che non sono stati terminati o dimenticati, hai due scelte
 		  logseq.order-list-type:: number
-			- se non sono #jira/untracked chiuderli con un commento
+			- se non sono #issue/jira/untracked chiuderli con un commento
 				- > in linea di massima questi task devono esistere in #jira quindi é inutile tenerli aperti
-			- diversamente se li trovi aperti il giorno successivo e sono #jira/untracked meglio farli diventare delle #jira/issue perché se scavallano il giorno non sono attivitá rapide e meritano di essere censite in #jira
+			- diversamente se li trovi aperti il giorno successivo e sono #issue/jira/untracked meglio farli diventare delle #jira/issue perché se scavallano il giorno non sono attivitá rapide e meritano di essere censite in #jira
 	- Scegli a questo punto le attivitá **da fare oggi** dall'elenco dalla cima delle attivitá master ordinaté per prioritá decrescente in #jira e creale nella TodoList del #[[Templates/Daily Journal]] con stato **NOW**
 	  logseq.order-list-type:: number
 	  > in questo modo restano visibili come i task su cui stai lavorando e li vedrai anche il giorno successivo per continuarli
