@@ -1,1 +1,1 @@
-ls/type:: [[LS/Property]]
+type:: [[LS/Property]]
