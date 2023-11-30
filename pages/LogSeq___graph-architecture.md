@@ -36,11 +36,13 @@
 				- Repository di archiviazione
 				- Dove é deployato
 			- Business Rules
+			- Processo
 		- LATER Fare un test per uso namespace nelle properties
 	- ## Altre cose che vengono in mente
 		- Topic: una discussione in un forum
 			- il topic appartiene ad Forum per esempio
 		- Troubleshooting page
+		- Pagina di braistorming generale
 		- Informazioni di configurazione
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
