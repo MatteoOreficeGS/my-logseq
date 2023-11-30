@@ -1,6 +1,6 @@
 type:: [[LS/Class]]
 
-- {{query (property :type [[LS/Tag/Action]])}}
+- {{query (and (property :type [[LS/Tag/Action]]) (not (page [[LS/Tag/Action]])))}}
   query-table:: true
   query-properties:: [:block :page :type]
 - # Template
