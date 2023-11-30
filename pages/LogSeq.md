@@ -35,7 +35,7 @@ tags:: prefix/prefix2/tagvalue
 	- Ricerca superveloce **full text** e **tag based**
 	- Lascia molta libertá nell'organizzare le informazioni: albero, directory, grafo, blog, etc
 	- Puó essere utilizzato per diversi scopi, dal creare documentazione pubblica o personale, al registro delle attivitá giornaliera, alla gestione di task legati o meno allo spazio di lavoro.
-	- Invoglia a creare **note atomiche** quindi ad usare processi mentali in cui la sintesi é fondamentale per delimitare e collegare tra loro concetti in una rete di conosceza. #[[Process/Note Taking]] #[[topic/Network Thinking]] #Instrument/Zettelkasten
+	- Invoglia a creare **note atomiche** quindi ad usare processi mentali in cui la sintesi é fondamentale per delimitare e collegare tra loro concetti in una rete di conosceza. #[[Process/Information Capture]] #[[topic/Network Thinking]] #Instrument/Zettelkasten
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
