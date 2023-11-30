@@ -65,7 +65,7 @@
 	- rilevamento di #improvements/ineffectiveness nei processi
 - # Considerazioni
 	- C'é una tendenza al procrastinare i task ed a lasciarli aperti per mesi senza arrivare alla fine, questo é un grande problema #issue/process #[[Process/Tasks Management/GTD]]  #[[Process/Tasks Management/GTD]] #issue/task/management
-	- le **attivitá per un certo cliente da lui richieste** vanno taggate in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che non sempre nelle #jira/issue viene indicato chiaramente se é stata una richiesta del cliente a farla aprire #improvements/ineffectiveness #[[Process/Customer Satisfaction]] #jira/issue/type #issue/process #issue/task/management
+	- le **attivitá per un certo cliente da lui richieste** vanno taggate in qualche maniera altrimenti potrei perderle di vista #jira/issue, intendo dire che non sempre nelle #jira/issue viene indicato chiaramente se é stata una richiesta del cliente a farla aprire #improvements/ineffectiveness #[[Process/Customer Satisfaction]] #jira/issue/type #issue/process #issue/task/management #issue/information/missing
 		- questo é un problema se ha fretta e non viene usata una data di scadenza poiché la richiesta va in concorrenza ad altre non espressamente richieste
 		- saperlo aiuta anche nel sceglierle come prioritarie in caso di numerose richieste
 		- diverso se sono per un cliente ma non sono richieste direttamente da lui, potrebbero non essere cosí urgenti
