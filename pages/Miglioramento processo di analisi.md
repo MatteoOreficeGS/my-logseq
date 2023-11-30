@@ -35,6 +35,7 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/analysis
 - # Perché tutto funzioni
 - # Casi di fallimento del processo
   tags:: #issue/failure, #issue/process
-	- {{query (and [[issue/failure]] [[issue/process]])[[issue/failure]]}}
+	- {{query (and [[issue/failure]] [[issue/process]] (not (page [[Miglioramento processo di analisi]])))}}
 	  query-table:: true
 	  query-properties:: [:block :page]
+	-
