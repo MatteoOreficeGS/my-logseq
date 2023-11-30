@@ -6,3 +6,4 @@
 - bisogna capire quali attivitá possono sfuggire a questo meccanismo ed essere fatte subito, quindi diventa fondamentale capire il criterio di urgenza per tutti e va condiviso
 - eh ma a me non piace molto e non lo uso molto
 - i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate
+- dove poter censire le richieste del backlog
