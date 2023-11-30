@@ -1,5 +1,5 @@
-# Miglioramento del processo
-tags:: Process/Process Improvement
+- Miglioramento del processo 
+  tags:: Process/Process Improvement
 	- NOW Analizzare e provare a creare una presentazione
 	  :LOGBOOK:
 	  CLOCK: [2023-11-30 Thu 10:27:48]
