@@ -1,8 +1,8 @@
+# #[[Process/Process Improvement]]
 - NOW Analizzare e provare a creare una presentazione
   :LOGBOOK:
   CLOCK: [2023-11-30 Thu 10:27:48]
   :END:
-- # Miglioramento processo
 - ascolatare audio `2023-11-30 09-49-53.mkv` e trascrivere
 - la cosa importante da capire e che spero verrá trasmessa a tutti in gsped é che :
 - gli sprint sono mensili, quindi se a qualcuno viene in mente qualcosa e vuole sia fatto in tempo umano deve sapere che se la grande idea avviene il 30 del mese, deve censirla in analisi a tutti i costi e non un giorno di piu rispetto alla riunione in cui si prelevano i task dal backlog che é il 1mo del mese successivo
