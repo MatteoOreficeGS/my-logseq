@@ -12,7 +12,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
 - # Azioni
   query-table:: true
 - query-sort-by:: block
-  query-table:: false
+  query-table:: true
   query-sort-desc:: true
   query-properties:: [:block :page]
   #+BEGIN_QUERY
@@ -21,6 +21,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/refs ?p]
             [?p :block/properties ?props]
-            [?props :type "LS/Tag/Action"]]
+            [?props :type ]
+    ]
   }
   #+END_QUERY
