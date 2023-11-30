@@ -5,6 +5,6 @@
 	- [[LS/Class]]
 		- [[LS/Action]]
 		- [[LS/Analysis]]
-		- [[LS/Block]]
+		- [[LS/Tag]]
 		- [[LS/Page]]
 			- [[LS/Brainstorming]]
