@@ -5,8 +5,8 @@
 	- [[LS/Class]]
 		- [Tag]([[LS/Tag]])
 			- [JournalTag]([[LS/Tag/JournalTag]])
-		- [[LS/Page]]
-			- [[LS/Action]]
+		- [Page]([[LS/Page]])
+			- [Action]([[LS/Page/Action]])
 			- [[LS/Brainstorming]]
 			- [[LS/Analysis]]
 			- [[LS/Term]]
