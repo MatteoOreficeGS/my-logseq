@@ -1,5 +1,5 @@
-- root node
-  type:: [[LS/Page/Journal]]
+type:: [[LS/Page/Journal]]
+
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
 		  client:: fill
