@@ -21,8 +21,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/refs ?p]
             [?p :block/properties ?props]       
-            [(get ?props :type) ?type]
-            [?type #{"LS/Action"}]
+  
   
     ]
   }
