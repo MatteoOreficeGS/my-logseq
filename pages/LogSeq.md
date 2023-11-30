@@ -21,7 +21,7 @@ tags:: prefix/prefix2/tagvalue
 		- La pagina non é altro che un blocco particolare del tipo piú specifico **pagina** a cui corrisponde anche in maniera **1:1** un artefatto di archiviazione sul disco , ovvero un file `.md`
 - # Uso quotidiano
 	- Mantenimento di un giornale delle attivitá o log
-	-
+	- Gestione di un proprio workflow per il Getting Things Done
 	- Salvataggio delle informazioni secondo un proprio schema mentale
 	- Mantenere appunti in maniera altamente organizzata e navigabile
 - # Vantaggi
@@ -39,7 +39,6 @@ tags:: prefix/prefix2/tagvalue
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
-		-
 	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
