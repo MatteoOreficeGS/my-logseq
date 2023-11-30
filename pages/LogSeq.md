@@ -19,6 +19,11 @@ tags:: prefix/prefix2/tagvalue
 		- Un blocco é l'unitá atomica in cui é possibile scrivere qualcosa
 	- ## Pagina
 		- La pagina non é altro che un blocco particolare del tipo piú specifico **pagina** a cui corrisponde anche in maniera **1:1** un artefatto di archiviazione sul disco , ovvero un file `.md`
+- # Uso quotidiano
+	- Mantenimento di un giornale delle attivitá o log
+	-
+	- Salvataggio delle informazioni secondo un proprio schema mentale
+	- Mantenere appunti in maniera altamente organizzata e navigabile
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
@@ -53,10 +58,6 @@ tags:: prefix/prefix2/tagvalue
 		- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Ogni nodo é un file markdown, eventualmente con il front-matter
 	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link
-- # Uso quotidiano
-	- Mantenimento di un giornale delle attivitá o log
-	- Salvataggio delle informazioni secondo un proprio schema mentale
-	- Mantenere appunti in maniera altamente organizzata e navigabile
 - # Pubblicazione
 	- ## On-premise
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
