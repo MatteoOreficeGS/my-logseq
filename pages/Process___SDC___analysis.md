@@ -12,5 +12,5 @@
 - dove poter censire le richieste degli stackholder? fare un backlog dedicato dove la gente possa metterci qualcosa dentro separata dalle cose da fare altrimenti diventa un pandemonio a mio parere
 	- le attivitá che potrebbero finire da una parte ( fare subito ) o dall'altra ( analizzare )
 - in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata?
--
+- fondamentale sapere su cosa si sta lavorando #warning
 - # Perché tutto funzioni
