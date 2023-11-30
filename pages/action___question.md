@@ -1,1 +1,1 @@
--
+alias:: action/ask-question
