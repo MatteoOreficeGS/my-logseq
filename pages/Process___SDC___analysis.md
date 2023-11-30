@@ -11,4 +11,6 @@
 - i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate
 - dove poter censire le richieste degli stackholder? fare un backlog dedicato dove la gente possa metterci qualcosa dentro separata dalle cose da fare altrimenti diventa un pandemonio a mio parere
 	- le attivitá che potrebbero finire da una parte ( fare subito ) o dall'altra ( analizzare )
+- in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata?
+-
 - # Perché tutto funzioni
