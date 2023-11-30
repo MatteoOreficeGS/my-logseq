@@ -29,5 +29,5 @@
 - non sarebbe male avere uno stato adatto per mettere la card quando é in attesa di PR per non mettere completata comunque
 	- a quel punto dovrá essere ripescata quando quella da cui dipende é marcata come done #jira/automation
 - fondamentale sapere su cosa si sta lavorando #warning prima della pickup analisi dal backlog
-- /warnin
+- fondamentale capire la soglia minima di effort per censire i task in analisi #WARNING
 - # Perché tutto funzioni
