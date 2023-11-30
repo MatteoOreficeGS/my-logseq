@@ -5,5 +5,7 @@
 	- [[LS/Class]]
 		- [[LS/Tag]]
 		- [[LS/Page]]
+			- [[LS/Action]]
 			- [[LS/Brainstorming]]
 			- [[LS/Analysis]]
+			- [[LS/Term]]
