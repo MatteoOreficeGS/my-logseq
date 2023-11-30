@@ -7,7 +7,7 @@ type:: [[LS/Class]]
   query-properties:: [:block :page :description :created-at]
   {{query (page-property :type [[LS/Tag/Action]])}}
 - # Template
-	- Inserisci testo azione qui
-	  template:: Action
+	- template:: Action
 	  template-including-parent:: true
 	  type:: [[LS/Tag/Action]]
+	  description:: inserire la descrizione di questa azione
