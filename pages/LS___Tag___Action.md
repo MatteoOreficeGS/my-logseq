@@ -10,7 +10,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   {{query (page-property :type [[LS/Tag/Action]])}}
 -
 - Provap
-  type:: TODO
+  type:: test
 - # Azioni
   query-table:: true
 - query-sort-by:: block
@@ -19,7 +19,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-properties:: [:block :page]
   #+BEGIN_QUERY
   { :title "Current Members"
-    :query [:find (pull ?b [ :db/id  ])
+    :query [:find (pull ?b [ *  ])
             :where
             [?b :block/refs ?p]
   
