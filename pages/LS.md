@@ -8,5 +8,5 @@
 		- [Page]([[LS/Page]])
 			- [Action]([[LS/Page/Action]])
 			- [[LS/Brainstorming]]
-			- [[LS/Analysis]]
+			- [[LS/Page/Analysis]]
 			- [[LS/Term]]
