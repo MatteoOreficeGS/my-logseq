@@ -11,5 +11,4 @@ subject:: Soggetto opzionale che deve eseguire l'azione
 -
 - # Azioni
   query-table:: true
-- {{query }}
-  query-table:: true
+-
