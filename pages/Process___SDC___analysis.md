@@ -3,3 +3,4 @@
 - gli sprint sono mensili, quindi se a qualcuno viene in mente qualcosa e vuole sia fatto in tempo umano deve sapere che se la grande idea avviene il 30 del mese, deve censirla in analisi a tutti i costi e non un giorno di piu rispetto alla riunione in cui si prelevano i task dal backlog che é il 1mo del mese successivo
 - si deve avere bene in mente che se un'attivitá che necessitá di un po' di giornate di sviluppo e va analizzata da tutto il gruppo direi che sia realistico pensare che dal momento dell'inserimento nelal lista di analisi fino a vederla da qualche parte implementata difficilmente passino meno di 45 giorni, 45 giorni sarei proprio ottimista
 - bisogna capire quali attivitá possono sfuggire a questo meccanismo ed essere fatte subito, quindi diventa fondamentale capire il criterio di urgenza per tutti e va condiviso
+- eh ma a me non piace molto e non lo uso molto
