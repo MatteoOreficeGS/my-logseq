@@ -1,2 +1,1 @@
-- Inserisci testo azione qui
-  type:: [[LS/Tag/Action]]
+type:: [[LS/Tag/Action]]
