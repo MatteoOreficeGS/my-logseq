@@ -4,4 +4,4 @@
 - si deve avere bene in mente che se un'attivitá che necessitá di un po' di giornate di sviluppo e va analizzata da tutto il gruppo direi che sia realistico pensare che dal momento dell'inserimento nelal lista di analisi fino a vederla da qualche parte implementata difficilmente passino meno di 45 giorni, 45 giorni sarei proprio ottimista
 - bisogna capire quali attivitá possono sfuggire a questo meccanismo ed essere fatte subito, quindi diventa fondamentale capire il criterio di urgenza per tutti e va condiviso
 - eh ma a me non piace molto e non lo uso molto
-- i non sviluppatori devono diventare parte attiva  del flusso delle code
+- i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate
