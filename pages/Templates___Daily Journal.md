@@ -1,6 +1,7 @@
 - root node
   template:: Daily Journal
   template-including-parent:: false
+  type:: [[LS/Page/Journal]]
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
 		  client:: fill
