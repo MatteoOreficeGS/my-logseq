@@ -1,3 +1,5 @@
+tags:: #[[Process/Process Improvement]] , #Process/SDC/analysis
+
 - NOW Analizzare e provare a creare una presentazione
   :LOGBOOK:
   CLOCK: [2023-11-30 Thu 10:27:48]
