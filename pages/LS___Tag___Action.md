@@ -19,9 +19,11 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-properties:: [:block :page]
   #+BEGIN_QUERY
   { :title "Current Members"
-    :query [:find (pull ?b [ *  ])
+    :query [:find (pull ?block [ * ])
             :where
-            [?b :block/refs ?p]
+            [?block :block/content ?blockcontent]
+  [?block :block/page ?page]
+  [?page :block/name ?pagename]
   
     ]
   }
