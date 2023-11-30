@@ -15,7 +15,7 @@
 		- oggetto della richiesta come il nome del progetto o della codebase
 		- la sequenzialitá indica cosa fatto prima o dopo
 		- valutare uso di block properties
-- ### Tags e journal
+- ### Template journal e tags utilizzabili
   id:: 6565c304-72f1-40e2-b2ac-a2eab69b4998
 	- Vedere #[[Templates/Daily Journal]] per il template
 	- Vedere #[[Templates/Daily Journal/Tags]] per i tag consigliati
