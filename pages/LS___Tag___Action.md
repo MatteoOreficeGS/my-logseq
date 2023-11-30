@@ -20,8 +20,8 @@ subject:: Soggetto opzionale che deve eseguire l'azione
     :query [:find (pull ?b [*])
             :where
             [?b :block/refs ?p]
-            [?p :block/properties-text-values ?props]
-            [?props :type "[[LS/Tag/Action]]"]
+            [?p :block/uuid #uuid "6568dfa6-e870-4f1e-a122-34b9ecda044a" ]
+            
     ]
   }
   #+END_QUERY
