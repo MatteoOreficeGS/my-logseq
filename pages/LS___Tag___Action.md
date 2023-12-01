@@ -10,7 +10,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   {{query (page-property :type [[LS/Tag/Action]])}}
 - query-sort-by:: type
   query-table:: true
-  query-sort-desc:: true
+  query-sort-desc:: false
   query-properties:: [:type :description :block :page]
   #+BEGIN_QUERY
   { :title [:h1 "Azioni"]
@@ -18,10 +18,11 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?b :block/refs ?page]
          [?page :block/properties ?props]
-         [?b :block/properties ?blockprops]
-  
   [(get ?props :type) ?type]
   [(= ?type #{"LS/Tag/Action"})]
+  
+         [?b :block/properties ?b_props]
+  
   
     ]
   }
