@@ -10,6 +10,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   {{query (page-property :type [[LS/Tag/Action]])}}
 - BLOCCO
   mioapro:: valore
+  mioapro2:: test3
 	- nodofigi
 - query-sort-by:: type
   query-table:: true
