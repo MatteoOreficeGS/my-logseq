@@ -23,7 +23,7 @@ tags:: #[[Process/Information Capture]]
 	- Mantenimento di un giornale delle attivitá o log
 	- Mantenimento di un glossario
 	- Gestione di un proprio workflow per il Getting Things Done
-	- Salvataggio delle informazioni secondo diversi pattern
+	- Accesso ad informazioni organizzate secondo diverse view
 	- Mantenere appunti in maniera altamente organizzata e navigabile
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
