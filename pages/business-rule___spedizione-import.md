@@ -5,6 +5,7 @@ tags:: #topic/import, #topic/export, #topic/courier-logic
 	- la spedizione deve essere #topic/internazionale #business-rule/determinazione-ambito-internazionale
 		- #action/ask-question #people/fabio-alessio é corretto dire cosi ? #question
 			- questa decisione potrebbe essere diversa per corriere ?
-	- quali altri dati potrebbero servire per determinare se una spedizione é di tipo import ?
+	- quali altri dati potrebbero servire per determinare se una spedizione é di tipo import in generale ?
+		- oltrepassare confini nazionali per
 	- `codice_cliente_dhl_expimp` é una funzione che solo per DHL sceglie quale contratto utilizzare per fatturazione o bollettazione, i contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`
 -
