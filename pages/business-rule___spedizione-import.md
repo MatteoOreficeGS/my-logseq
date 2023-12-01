@@ -1,3 +1,4 @@
 tags:: #topic/import, #topic/export
 
-- La determinazioneSoltanto le spedizioni che sono #topic/internazionale
+- Per poter determinare se una spedizione é di tipo import sono necessarie queste condizioni :
+- -
