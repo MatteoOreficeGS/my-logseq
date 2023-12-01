@@ -1,7 +1,7 @@
 type:: [[LS/Tag/Action]]
 description:: É richiesto un refactoring
 
-- ### Refactoring di X ( descrizione sisten )
+- ### Refactoring di X ( titolo del blocco )
   template:: DoRefactoring
   template-including-parent:: true
   subject:: insert your subject here
