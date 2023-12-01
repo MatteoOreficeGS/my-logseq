@@ -17,9 +17,9 @@ subject:: Soggetto opzionale che deve eseguire l'azione
     :query [:find (pull ?b [ * ])
             :where
             [?b :block/refs ?page]
-         [?page :block/properties ?prop]
-       [property ?b :template ?t] (not ?t)
-  [(get ?prop :type) ?type]
+         [?page :block/properties ?props]
+        (not [(get ?props :template)])
+  [(get ?props :type) ?type]
   [(= ?type #{"LS/Tag/Action"})]
   
     ]
