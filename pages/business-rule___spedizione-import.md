@@ -7,7 +7,4 @@ tags:: #topic/import, #topic/export, #topic/courier-logic
 	- questa decisione potrebbe essere diversa per corriere ?
 	- quali altri dati potrebbero servire per determinare se una spedizione é di tipo import ?
 	- `codice_cliente_dhl_expimp` é una funzione che solo per DHL sceglie quale contratto utilizzare per fatturazione o bollettazione, i contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`
-- Blocco test
-  tags:: #issue/time-waste
-- {{query [[issue/time-waste]]}}
-  query-table:: true
+-
