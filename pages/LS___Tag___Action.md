@@ -19,7 +19,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             [?b :block/refs ?page]
          [?page :block/properties ?props]
          [?b :block/properties ?blockprops]
-        ( [(get ?props :template)])
+  
   [(get ?props :type) ?type]
   [(= ?type #{"LS/Tag/Action"})]
   
