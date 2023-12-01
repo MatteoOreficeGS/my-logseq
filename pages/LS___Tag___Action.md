@@ -20,6 +20,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
          [?page :block/properties ?prop]
   [(get ?prop :type) ?type]
   [(= ?type #{"LS/Tag/Action"})]
+  [property ?b :class ?q] (not ?q "Question")
     ]
   }
   #+END_QUERY
