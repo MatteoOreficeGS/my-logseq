@@ -8,7 +8,9 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-sort-desc:: false
   query-properties:: [:block :page :description :created-at :updated-at :type]
   {{query (page-property :type [[LS/Tag/Action]])}}
--
+- BLOCCO
+  mioapro:: valore
+	- nodofigi
 - query-sort-by:: type
   query-table:: true
   query-sort-desc:: true
