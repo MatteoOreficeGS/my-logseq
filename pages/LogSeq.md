@@ -21,6 +21,7 @@ tags:: #[[Process/Information Capture]]
 		- La pagina non é altro che un blocco particolare del tipo piú specifico **pagina** a cui corrisponde anche in maniera **1:1** un artefatto di archiviazione sul disco , ovvero un file `.md`
 - # Uso quotidiano
 	- Mantenimento di un giornale delle attivitá o log
+	- Mantenimento di un glossario
 	- Gestione di un proprio workflow per il Getting Things Done
 	- Salvataggio delle informazioni secondo un proprio schema mentale
 	- Mantenere appunti in maniera altamente organizzata e navigabile
