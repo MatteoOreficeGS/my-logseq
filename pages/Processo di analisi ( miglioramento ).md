@@ -38,3 +38,5 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/Analisi
 	- {{query (and [[issue/failure]] [[issue/process]] (not (page [[Miglioramento processo di analisi]])))}}
 	  query-table:: true
 	  query-properties:: [:block :page]
+	  query-sort-by:: page
+	  query-sort-desc:: false
