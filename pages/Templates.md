@@ -38,9 +38,6 @@ filters:: {"2023.*" false}
 		  :LOGBOOK:
 		  CLOCK: [2023-11-09 Thu 19:10:16]
 		  :END:
-		- :LOGBOOK:
-		  CLOCK: [2023-11-09 Thu 19:38:00]--[2023-11-10 Fri 20:12:45] =>  24:34:45
-		  :END:
 	- **Task di configurazione**
 		- non prevede modifiche al codice
 		- es: aggiunta #[[Progetti/Motore di Fatturazione/Mappature]]
