@@ -2,6 +2,8 @@
 	- {{query [[meeting]]}}
 	  query-table:: true
 	  query-properties:: [:block :page]
+	  query-sort-by:: page
+	  query-sort-desc:: true
 - # Organizzazione grafo
 	- Vedere #LogSeq/graph-architecture per architettura di questo grafo
 - # Journal
