@@ -46,13 +46,13 @@ filters:: {"2023.*" false}
 	- **Task di configurazione**
 		- non prevede modifiche al codice
 		- es: aggiunta #[[Progetti/Motore di Fatturazione/Mappature]]
-	- **Task di Analisi** #Process/SDC/analysis
+	- **Task di Analisi** #Process/SDC/Analisi
 		- ((6551eae3-8770-4e22-86d8-c6e784a349c2))
 	- **Meeting Task** #meeting
 		- contemplare le azioni finali del  meeting
 		- leggere qualche articolo su come tenere un meeting
 		- LATER Fare un #[[doc/howtos]] su come tenere un meeting #improvements
-			- spesso nelle riunioni non viene traschitto nulla #issue #meeting #Process/SDC/analysis
+			- spesso nelle riunioni non viene traschitto nulla #issue #meeting #Process/SDC/Analisi
 	- **Bugfixes Task** #bug/fix
 		- creare un template con delle props in maniera da censire subito il bug
 		- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
