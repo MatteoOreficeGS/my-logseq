@@ -69,8 +69,8 @@
 		- questo é un problema se ha fretta e non viene usata una data di scadenza poiché la richiesta va in concorrenza ad altre non espressamente richieste
 		- saperlo aiuta anche nel sceglierle come prioritarie in caso di numerose richieste
 		- diverso se sono per un cliente ma non sono richieste direttamente da lui, potrebbero non essere cosí urgenti
-	- Altra questione fondamentale é l'**attribuzione di una prioritá** ad una attivitá, ad oggi é molto difficile, si potrebbe calcolare uno score basandosi su una serie di parametri in una tabella #[[Process/SDC/issue-tracking/risk-assesment]] #issue/process #REMEDY
-	- quali attivitá che richiedono #Process/SDC/Analisi devono finire nella board dell'Analisi?  Anche qui é fondamentale la #[[Process/SDC/issue-tracking/risk-assesment]] e ad oggi é un problema #issue/process  #question ?
+	- Altra questione fondamentale é l'**attribuzione di una prioritá** ad una attivitá, ad oggi é molto difficile, si potrebbe calcolare uno score basandosi su una serie di parametri in una tabella #[[Process/SDC/Issue Tracking/risk-assesment]] #issue/process #REMEDY
+	- quali attivitá che richiedono #Process/SDC/Analisi devono finire nella board dell'Analisi?  Anche qui é fondamentale la #[[Process/SDC/Issue Tracking/risk-assesment]] e ad oggi é un problema #issue/process  #question ?
 		- esiste una soglia di effort minima ?
 		  id:: 6551eae3-8770-4e22-86d8-c6e784a349c2
-	- Un altro problema grave oggi é non avere la data di scadenza per i task in Jira, talvolta non é nemmeno possibile settarla ! #issue/jira #issue/process #[[Process/Customer Satisfaction]] #[[Process/Tasks Management/GTD]] #[[Process/SDC/issue-tracking/risk-assesment]] #REMEDY
+	- Un altro problema grave oggi é non avere la data di scadenza per i task in Jira, talvolta non é nemmeno possibile settarla ! #issue/jira #issue/process #[[Process/Customer Satisfaction]] #[[Process/Tasks Management/GTD]] #[[Process/SDC/Issue Tracking/risk-assesment]] #REMEDY
