@@ -51,8 +51,8 @@ filters:: {"2023.*" false}
 	- **Meeting Task** #meeting
 		- contemplare le azioni finali del  meeting
 		- leggere qualche articolo su come tenere un meeting
-		- LATER Fare un #[[doc/howtos]] su come tenere un meeting #improvements
-			- spesso nelle riunioni non viene traschitto nulla #issue #meeting #Process/SDC/Analisi
+		- Fare un #[[doc/howtos]] su come tenere un meeting
+			- spesso nelle riunioni non viene traschitto nulla
 	- **Bugfixes Task** #bug/fix
 		- creare un template con delle props in maniera da censire subito il bug
 		- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
