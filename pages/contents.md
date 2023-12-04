@@ -1,5 +1,5 @@
 # Meeting recenti 🧑‍🤝‍🧑
-	- {{query [[meeting]]}}
+	- {{query (and [[meeting]] (not (page [[Process/Collaboration/Meeting]])))}}
 	  query-table:: true
 	  query-properties:: [:block :page]
 	  query-sort-by:: page
