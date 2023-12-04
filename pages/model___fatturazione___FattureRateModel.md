@@ -16,7 +16,7 @@ tags:: #[[Models/Object Model/Object]]
 			- fa alcuni controlli che potrebbero interrompere il calcolo della tariffa
 				- ie: se il tipo listino non é conforme al listino per la quale la tariffa é specificata
 			- controllo sulle zone incluse se `zone_incluse` diverso da `MONDO`
-		- nella prima parte
+		- nella prima parte c'é un un if 👿 che lascia sfuggire alcune
 		- LATER proseguire a documentare
 -
 - ### #troubleshooting
