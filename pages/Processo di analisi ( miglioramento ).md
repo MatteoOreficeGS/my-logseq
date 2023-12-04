@@ -10,10 +10,9 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/Analisi
 	- ~~si deve avere bene in mente che se un'attivitá che necessitá di un po' di giornate di sviluppo e va analizzata da tutto il gruppo direi che sia realistico pensare che dal momento dell'inserimento nelal lista di analisi fino a vederla da qualche parte implementata difficilmente passino meno di 45 giorni, 45 giorni sarei proprio ottimista~~
 		- analisi di gruppo non é fattibile troppo lunga #FACTS
 	- bisogna capire quali attivitá possono sfuggire a questo meccanismo ed essere fatte subito, quindi diventa fondamentale capire il criterio di urgenza per tutti e va condiviso
-		- provare attivitá superate le due ore va in
+		- provare attivitá superate le due ore va in backlog analisi #business-rule
 - eh ma a me non piace molto e non lo uso molto
-- perdonate ma
-- i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate
+- i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate #issue/task/management
 - dove poter censire le richieste degli stackholder? fare un backlog dedicato dove la gente possa metterci qualcosa dentro separata dalle cose da fare altrimenti diventa un pandemonio a mio parere
 	- le attivitá che potrebbero finire da una parte ( fare subito ) o dall'altra ( analizzare )
 - in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata? #issue/jira/meta
