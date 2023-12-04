@@ -54,7 +54,7 @@ filters:: {"2023.*" false}
 		- LATER Fare un howto su [[Come tenere un meeting]]
 		  tags::  #improvements, #issue, #meeting, #Process/SDC/Analisi, #doc/howtos, #action/share
 			- spesso nelle riunioni non viene traschitto nulla
-	- **Bugfixes Task** #issue/bug/fix
+	- **Bugfixes Task** #action/bugfix
 		- creare un template con delle props in maniera da censire subito il bug
 		- a seconda del bug che si crea potrebbe essere diversa la sequenza di code da fare
 	- **Pull Request Review Task** #PR/review
