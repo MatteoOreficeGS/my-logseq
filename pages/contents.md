@@ -11,6 +11,8 @@
 	  query-properties:: [:block :page]
 	  query-sort-by:: page
 	  query-sort-desc:: true
+- # Miglioramento processi
+	- Vedi #[[Process/Process Improvement]]
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
 - # Guida uso
