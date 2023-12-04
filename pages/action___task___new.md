@@ -1,4 +1,4 @@
-filters:: {"process/gtd/mydailyplanning" false}
+filters:: {"process/gtd/mydailyplanning" false, "process/tasks management/gtd/my" false}
 
 -
 -
