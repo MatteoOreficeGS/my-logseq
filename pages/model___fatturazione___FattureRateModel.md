@@ -17,6 +17,7 @@ tags:: #[[Models/Object Model/Object]]
 				- ie: se il tipo listino non é conforme al listino per la quale la tariffa é specificata
 			- controllo sulle zone incluse se `zone_incluse` diverso da `MONDO`
 		- nella prima parte c'é un un if 👿 che lascia sfuggire alcune condizioni #issue/code #issue/bug
+		- gli esuberi potrebbero essere calcolati meglio e in maniera piú flessibile ((6555222a-3562-4770-b8ba-f64a070f7cc7))
 		- LATER proseguire a documentare
 -
 - ### #troubleshooting
