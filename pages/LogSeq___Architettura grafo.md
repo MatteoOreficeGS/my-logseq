@@ -26,7 +26,8 @@
 			- Actions
 			- Jira
 			- Issue
-				-
+				- Fallimento di sistema
+				- Fallimento di processo
 			- Model
 				- inteso come il modello complessivo che contiene le singole entities
 				- tipo: Data, Domain, Object
