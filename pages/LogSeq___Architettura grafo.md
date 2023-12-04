@@ -36,7 +36,7 @@
 				- Dove é deployato
 			- Business Rules
 			- Processo
-			- Meeting o riunione
+			- Meeting o riunione, call
 				- argomento principale
 				- tags: meeting
 				- riferimento a lista argomenti
