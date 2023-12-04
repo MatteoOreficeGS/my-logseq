@@ -26,6 +26,7 @@
 			- Actions
 			- Jira
 			- Issue
+				-
 			- Model
 				- inteso come il modello complessivo che contiene le singole entities
 				- tipo: Data, Domain, Object
