@@ -1,4 +1,4 @@
-filters:: {"issue" false}
+filters:: {}
 alias:: idea💡
 
 - # Definizione

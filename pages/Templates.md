@@ -51,7 +51,7 @@ filters:: {"2023.*" false}
 	- **Meeting Task**
 		- contemplare le azioni finali del  meeting
 		- leggere qualche articolo su come tenere un meeting
-		- Fare un #[[doc/howtos]] su [[Come tenere un meeting]]
+		- LATER Fare un howto su [[Come tenere un meeting]]
 		  tags::  #improvements, #issue, #meeting, #Process/SDC/Analisi, #doc/howtos, #action/share
 			- spesso nelle riunioni non viene traschitto nulla
 	- **Bugfixes Task** #bug/fix
