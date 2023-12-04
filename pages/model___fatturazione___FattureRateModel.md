@@ -19,7 +19,7 @@ tags:: #[[Models/Object Model/Object]]
 			- controllo sulle zone incluse se `zone_incluse` diverso da `MONDO`
 		- nella prima parte c'é un un if 👿 che lascia sfuggire alcune condizioni #issue/code #issue/bug
 		- gli esuberi potrebbero essere calcolati meglio e in maniera piú flessibile ((6555222a-3562-4770-b8ba-f64a070f7cc7))
-		- LATER proseguire a documentare
+		- proseguire a documentare #action/doc
 -
 - ### #troubleshooting
 	- ## Esaminare log chiamata FattureRate 
