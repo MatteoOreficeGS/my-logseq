@@ -15,7 +15,7 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/Analisi
 - i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate #issue/task/management
 - dove poter censire le richieste degli stackholder? fare un backlog dedicato dove la gente possa metterci qualcosa dentro separata dalle cose da fare altrimenti diventa un pandemonio a mio parere
 	- le attivitá che potrebbero finire da una parte ( fare subito ) o dall'altra ( analizzare )
-- in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata? #issue/jira/meta
+- in che stato metto le card che possono essere riprese, unlocked, dopo che la feature da cui dipendono é stata implementata?
 - creare un filtro anche per vedere a coppie o gruppi i task in comune, ragionare per reparti
 	- https://gsped.atlassian.net/issues/?filter=10664
 	- Filtro utile per task condivisi con uno stakeholder in particolare
