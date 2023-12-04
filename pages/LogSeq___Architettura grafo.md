@@ -18,6 +18,8 @@
 			- tipo di attivitá
 			- continuo attivitá esistente
 		- i tags possono poi essere riepilogati sul template del #[[Templates/Daily Journal]] magari con una query
+		- Status update tag: es aggiornato in data X la card jira Y
+			- una volta che fossero create delle action con le card sarâ poi facile monitorare lo svolgimento delle card
 	- ## Tipi per i namespace
 		- In generale i prefissi dei namespace diventano candidati per dei tipi specifici
 			- Glossary
@@ -52,7 +54,6 @@
 		- Troubleshooting page
 		- Pagina di braistorming generale
 		- Informazioni di configurazione
-		- Status update tag: es aggiornato in data X lo
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
 - # Gerarchia [draft]
