@@ -10,6 +10,7 @@ tags:: #[[Models/Object Model/Object]]
 -
 - # Metodi
 	- ## `private function calcolaTariffa(...)`
+	  tags:: #business-rule/calcolo-tariffario
 		- Calcola il valore finale
 		- Ritorna `false` in caso non ci siano le condizioni per calcolare la tariffa
 		- ### Sequenza
