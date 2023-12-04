@@ -52,6 +52,7 @@
 		- Troubleshooting page
 		- Pagina di braistorming generale
 		- Informazioni di configurazione
+		- Status update tag: es aggiornato in data X lo
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
 - # Gerarchia [draft]
