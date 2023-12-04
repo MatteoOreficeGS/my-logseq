@@ -1,4 +1,6 @@
-# Organizzazione grafo
+# Meeting recenti
+	- {{query }}
+- # Organizzazione grafo
 	- Vedere #LogSeq/graph-architecture per architettura di questo grafo
 - # Journal
 - Il journal viene creato a partire da #[[Templates/Daily Journal]]
