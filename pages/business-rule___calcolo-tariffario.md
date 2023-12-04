@@ -1,5 +1,7 @@
-# Definizione
-Il calcolo tariffarrio é il processo attraverso il quale viene determinato il prezzo di una spedizione
+filters:: {"done" false}
+
+- # Definizione
+  Il calcolo tariffarrio é il processo attraverso il quale viene determinato il prezzo di una spedizione
 - # Attuale implementazione
   collapsed:: true
 	- ## DFD
