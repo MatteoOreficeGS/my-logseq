@@ -283,7 +283,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 50
+ :ref/linked-references-collapsed-threshold 3
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -294,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
