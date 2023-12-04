@@ -1,4 +1,4 @@
-filters:: {}
+filters:: {"done" false}
 alias:: idea💡
 
 - # Definizione
