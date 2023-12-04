@@ -1,7 +1,7 @@
 # Meeting recenti 🧑‍🤝‍🧑
-collapsed:: true
 	- {{query [[meeting]]}}
 	  query-table:: true
+	  query-properties:: [:block :page]
 - # Organizzazione grafo
 	- Vedere #LogSeq/graph-architecture per architettura di questo grafo
 - # Journal
