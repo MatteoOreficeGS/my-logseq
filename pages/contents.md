@@ -5,7 +5,7 @@
 	- Tutte le pagine con il tag #[[Templates/Daily Journal/Tags]] possono essere utilizzare come tag nel journal
 	- Alcune parti del #[[Templates/Daily Journal]] vendono embeddate per evitare ripetizioni #[[Templates/Daily Journal/Embeds]]
 - # Meeting recenti 🧑‍🤝‍🧑
-	- {{query (and [[meeting]] (not (page [[Process/Collaboration/Meeting]])) (not (page [[Templates]])))}}
+	- {{query (and [[meeting]] (not (page [[Process/Collaboration/Meeting]])) (not (page [[Templates]]) (page [[meeting]])))}}
 	  query-table:: true
 	  query-properties:: [:block :page]
 	  query-sort-by:: page
