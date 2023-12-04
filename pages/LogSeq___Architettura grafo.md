@@ -36,6 +36,12 @@
 				- Dove é deployato
 			- Business Rules
 			- Processo
+			- Meeting o riunione
+				- argomento principale
+				- tags: meeting
+				- riferimento a lista argomenti
+				- actions finali
+				- data
 		- LATER Fare un test per uso namespace nelle properties
 	- ## Altre cose che vengono in mente
 		- Topic: una discussione in un forum
