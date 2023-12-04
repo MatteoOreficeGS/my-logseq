@@ -6,10 +6,11 @@ tags:: #[[Process/Process Improvement]] , #Process/SDC/Analisi
   :END:
 - ascolatare audio `2023-11-30 09-49-53.mkv` e trascrivere
 - la cosa importante da capire e che spero verrá trasmessa a tutti in gsped é che :
-	- gli sprint sono mensili, quindi se a qualcuno viene in mente qualcosa e vuole sia fatto in tempo umano deve sapere che se la grande idea avviene il 30 del mese, deve censirla in analisi a tutti i costi e non un giorno di piu rispetto alla riunione in cui si prelevano i task dal backlog che é il 1mo del mese successivo
+	- gli sprint sono 2-3 settimane, quindi se a qualcuno viene in mente qualcosa e vuole sia fatto in tempo umano deve sapere che se la grande idea avviene il 30 del mese, deve censirla in analisi a tutti i costi e non un giorno di piu rispetto alla riunione in cui si prelevano i task dal backlog che é il 1mo del mese successivo
 	- ~~si deve avere bene in mente che se un'attivitá che necessitá di un po' di giornate di sviluppo e va analizzata da tutto il gruppo direi che sia realistico pensare che dal momento dell'inserimento nelal lista di analisi fino a vederla da qualche parte implementata difficilmente passino meno di 45 giorni, 45 giorni sarei proprio ottimista~~
-		-
+		- analisi di gruppo non é fattibile troppo lunga #FACTS
 	- bisogna capire quali attivitá possono sfuggire a questo meccanismo ed essere fatte subito, quindi diventa fondamentale capire il criterio di urgenza per tutti e va condiviso
+		- provare attivitá superate le due ore va in
 - eh ma a me non piace molto e non lo uso molto
 - perdonate ma
 - i non sviluppatori devono diventare parte attiva  del flusso delle code, magari con board a loro riservate
