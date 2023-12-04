@@ -52,6 +52,7 @@ filters:: {"2023.*" false}
 		- contemplare le azioni finali del  meeting
 		- leggere qualche articolo su come tenere un meeting
 		- Fare un #[[doc/howtos]] su come tenere un meeting
+		  tags::  #improvements, #issue, #meeting, #Process/SDC/Analisi, #doc/howtos, #action/share
 			- spesso nelle riunioni non viene traschitto nulla
 	- **Bugfixes Task** #bug/fix
 		- creare un template con delle props in maniera da censire subito il bug
