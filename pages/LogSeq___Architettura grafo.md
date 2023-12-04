@@ -42,7 +42,8 @@
 				- riferimento a lista argomenti
 				- actions finali
 				- data
-		- LATER Fare un test per uso namespace nelle properties
+		- DONE Fare un test per uso namespace nelle properties
+			- ~~i nomi delle properties non possono usare i namespace~~
 	- ## Altre cose che vengono in mente
 		- Topic: una discussione in un forum
 			- il topic appartiene ad Forum per esempio
