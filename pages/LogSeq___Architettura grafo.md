@@ -1,4 +1,18 @@
 - descrive organizzazione dei metadati
+- # Radice gerarchia
+	- Questa pagina contiene il #LogSeg/namespace nel quale
+- # Gerarchia [draft]
+	- NodeClass
+		- Property
+		- Tags
+		- Diversificare per page o block ? minore confusione su cosa usare
+			- PageClass
+			- BlockClass
+		- Pagina di prefisso gerarchia
+			- pagina usata come prefisso per contenere altre pagine
+			- in questa maniera si possono trovare tutte le pagine che  rappresentano una gerarchia
+			-
+	-
 - # Proprietá o tags utili e loro usi
 	- Sulla questa pagina si possono poi inserire delle query per ogni classe al fine di trovare i vari tipi di pagina
 	- ## #improvements
@@ -56,15 +70,3 @@
 		- Informazioni di configurazione
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
-- # Gerarchia [draft]
-	- NodeClass
-		- Property
-		- Tags
-		- Diversificare per page o block ? minore confusione su cosa usare
-			- PageClass
-			- BlockClass
-		- Pagina di prefisso gerarchia
-			- pagina usata come prefisso per contenere altre pagine
-			- in questa maniera si possono trovare tutte le pagine che  rappresentano una gerarchia
-			-
-	-
