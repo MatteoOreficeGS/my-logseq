@@ -1,6 +1,6 @@
 - descrive organizzazione dei metadati
 - # Radice gerarchia
-	- Questa pagina contiene il #LogSeg/namespace nel quale
+	- [Questa pagina]([[LS]]) contiene il #LogSeg/namespace nel quale sono posizionate tutte le classi per taggare blocchi e pagine.
 - # Gerarchia [draft]
 	- NodeClass
 		- Property
