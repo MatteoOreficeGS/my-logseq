@@ -5,7 +5,6 @@
 - # #improvements
 	- creare un tool da riga di comando per fare analisi del log con semplici parametri, non sarebbe male usare un binario GO oppure uno shell script ancore meglio
 - # #troubleshooting
-  collapsed:: true
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
