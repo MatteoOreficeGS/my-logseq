@@ -1,2 +1,3 @@
 description:: una classe di base nativa non direttamente istanziabile
-parent:: [[LS/AbstractClass]]
+parent:: [[LS/AbstractRootClass]]
+title:: LS/AbstractRootClass
