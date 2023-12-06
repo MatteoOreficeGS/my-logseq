@@ -41,12 +41,12 @@ tags:: #[[Process/Information Capture]]
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
-		- Esistono due modi per fare un link ad una pagina :
+		- Esistono due modi per fare un link ad una pagina esistente :
 			- `[[Questa pagina contiene degli spazi nel nome]]` : in questo caso se la vostra pagina contiene spazi nel nome usate questa sintassi
 			  logseq.order-list-type:: number
 			- `#TagWord` : se avete fretta e non volete inserire spazi usate la notazione tag based
 			  logseq.order-list-type:: number
-		- Per creare un link ad una pagina non ancora esistente
+		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú !
 	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
