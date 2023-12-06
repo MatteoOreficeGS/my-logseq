@@ -1,16 +1,16 @@
+# Log
 template:: Daily Journal
-template-including-parent:: true
+template-including-parent:: false
 type:: [[LS/Page/Journal]]
-
 	- # Stand-Up Topics
 		- topic 1
 		- topic 1
 		- topic 3
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
-		  tags:: topic
+		  tags:: topic, topic, topic
 	- # Aiuto compilazione
 	  Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili, questi blocchi sono inclusi con embed per evitare duplicazioni
-	- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
-	- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
-	- {{embed ((6565c304-fbc2-4931-ab16-96384d8543be))}}
+		- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
+		- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
+		- {{embed ((6565c304-fbc2-4931-ab16-96384d8543be))}}
