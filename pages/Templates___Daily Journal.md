@@ -20,5 +20,5 @@ collapsed:: true
 	  template:: resume-task
 	  template-including-parent:: false
 		- ### Riprendo Task <%setInput: descrizione%> ⏩️
-		  tags:: topic, topic
+		  tags:: <%setInput: topicsCommaSeparated%>
 		  {{embed (())}}
