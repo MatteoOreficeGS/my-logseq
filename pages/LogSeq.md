@@ -48,7 +48,7 @@ tags:: #[[Process/Information Capture]]
 			  logseq.order-list-type:: number
 		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú ! #SUCCESS
 		- Altra differenza nelle due sintassi precedenti é la maniera in cui si visualizzano i link, ad esempio: [[topic]] e #topic
-		-
+		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi `#[[Process/SDC/Continuous Integration]]`
 	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
