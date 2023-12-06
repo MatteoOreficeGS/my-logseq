@@ -19,6 +19,6 @@ collapsed:: true
 	- ## Continuare un Task includendo il blocco ⏩️
 	  template:: resume-task
 	  template-including-parent:: false
-		- ### Riprendo Task <% setInput: descrizione %> <% getInput: descrizione %> ⏩️
+		- ### Riprendo Task <%setInput: descrizione%> ⏩️
 		  tags:: topic, topic
 		  {{embed (())}}
