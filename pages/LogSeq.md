@@ -31,6 +31,7 @@ tags:: #[[Process/Information Capture]]
 	- **Creazione di nuove pagine** in maniera **top-down** . Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione **bottom-up**.
 	- Fa risparmiare tempo e aiuta a **concentrarsi esclusivamente sul contenuto** e la struttura dimenticandosi del livello di presentazione ( che potrá comunque essere gestito in un ipotetico processo di pubblicazione )
 	- Dualismo **Tag 🔁 Pagina**: provate a pensare una pagina come ad un tag, il contenuto delle vostra pagina / tag a quel punto é la descrizione del tag.
+	  id:: 656f5a7f-61a8-4d27-9861-fcd202981f28
 	- **Embedded editing**:  potente funzione che permette di modificare una pagina collegata direttamete dal punto in cui viene riferita / puntata.
 	- Mostra facilmente l'**utilizzo delle pagine** e **blocchi** da parte di altre pagine in termini quantitativi
 	- Niente piú **link rotti**  nella tua documentazione: aggiornare il titolo di una pagina non rompe le references che la puntano nonostante i nodi siano prima di tutto files sul proprio filesystem #doc #topic/broken-link
@@ -41,14 +42,17 @@ tags:: #[[Process/Information Capture]]
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
+		- Ricorda
 		- Esistono due modi per fare un link ad una pagina esistente :
 			- `[[Questa pagina contiene degli spazi nel nome]]` : in questo caso se la vostra pagina contiene spazi nel nome usate questa sintassi
 			  logseq.order-list-type:: number
 			- `#TagWord` : se avete fretta e non volete inserire spazi usate la notazione tag based
 			  logseq.order-list-type:: number
 		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú ! #SUCCESS
-		- Altra differenza nelle due sintassi precedenti é la maniera in cui si visualizzano i link, ad esempio: [[topic]] e #topic
-		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi `#[[Process/SDC/Continuous Integration]]`
+		- Altra differenza nelle due sintassi precedenti é la maniera in cui si visualizzano i link
+		  ad esempio: [[topic]] non mostra il cancelletto e #topic lo mostra
+		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi 
+		  `#[[Process/SDC/Continuous Integration]]`
 	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
