@@ -42,7 +42,7 @@ tags:: #[[Process/Information Capture]]
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
-		- Ricorda
+		- **Ricordati del**  ((656f5a7f-61a8-4d27-9861-fcd202981f28))
 		- Esistono due modi per fare un link ad una pagina esistente :
 			- `[[Questa pagina contiene degli spazi nel nome]]` : in questo caso se la vostra pagina contiene spazi nel nome usate questa sintassi
 			  logseq.order-list-type:: number
@@ -54,6 +54,8 @@ tags:: #[[Process/Information Capture]]
 		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi 
 		  `#[[Process/SDC/Continuous Integration]]`
 	- ## Tags
+		- Ogni pagina puó essere vista come un tag
+		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
 		- Organizzare insieme di argomenti correlati
