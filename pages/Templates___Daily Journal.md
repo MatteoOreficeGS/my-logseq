@@ -8,8 +8,6 @@ type:: [[LS/Page/Journal]]
 		- topic 3
 	- # Attivitá
 	  {{renderer :smartblock, resume-task, Resume Task ⏩️, false}} {{renderer :smartblock, new-task, New Task ➕, false}}
-		- ### Testo descrittivo attivitá 1
-		  tags:: topic, topic, topic
 	- # Aiuto compilazione
 	  Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili, questi blocchi sono inclusi con embed per evitare duplicazioni
 		- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
