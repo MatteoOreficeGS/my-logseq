@@ -21,4 +21,4 @@ collapsed:: true
 	  template-including-parent:: false
 		- ### Riprendo Task <%setInput: descrizione%> ⏩️
 		  tags:: <%setInput: topicsCommaSeparated%>
-		  {{embed (())}}
+		  {{embed ((blockId))}}
