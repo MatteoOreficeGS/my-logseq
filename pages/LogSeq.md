@@ -57,6 +57,7 @@ tags:: #[[Process/Information Capture]]
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
 		  ![image.png](../assets/image_1701886728412_0.png)
+			- in questa immagine vediamo
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
 		- Organizzare insieme di argomenti correlati
