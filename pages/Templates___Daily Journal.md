@@ -24,5 +24,7 @@ collapsed:: true
 	- ## Creare un nuovo Task
 	  template:: new-task
 	  template-including-parent:: false
-		- <%setInput: intestazione
+		- ### <%setInput: intestazioneTask%>
+		  tags:: topic, topic, topic
+			- Descrizione task
 -
