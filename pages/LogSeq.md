@@ -44,7 +44,7 @@ tags:: #[[Process/Information Capture]]
 		- Esistono due modi per fare un link ad una pagina :
 			- `[[Questa pagina contiene degli spazi nel nome]]` : in questo caso se la vostra pagina contiene spazi nel nome usate questa sintassi
 			  logseq.order-list-type:: number
-			- `#TagWord` : se avete fretta e non volev
+			- `#TagWord` : se avete fretta e non volete inserire spazi usate la notazione tag based
 			  logseq.order-list-type:: number
 		- Per creare un link ad una pagina non ancora esistente
 	- ## Tags
