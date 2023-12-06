@@ -11,6 +11,7 @@ tags:: #issue
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
+  descrizione:
 	- ## Elencare tutti i client id per cui non esiste una tariffa
 		- ```shell
 		  grep 'Risposta.*Rate.*15386' /tmp/CtrFatGsped.log | \
