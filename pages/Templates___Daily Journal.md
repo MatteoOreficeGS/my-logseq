@@ -2,7 +2,7 @@ template:: Daily Journal
 template-including-parent:: true
 type:: [[LS/Page/Journal]]
 
-	- #
+	- # Stand-Up Topics
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
 		  client:: fill
