@@ -42,7 +42,9 @@ tags:: #[[Process/Information Capture]]
 - # Funzioni utili
 	- ## Links building
 		- Esistono due modi per fare un link ad una pagina :
-			- `[[adasd]]`
+			- `[[Questa pagina contiene degli spazi nel nome]]` : in questo caso se la vostra pagina contiene spazi nel nome usate questa sintassi
+			  logseq.order-list-type:: number
+			- `#TagWord` : se avete fretta e non volev
 			  logseq.order-list-type:: number
 		- Per creare un link ad una pagina non ancora esistente
 	- ## Tags
