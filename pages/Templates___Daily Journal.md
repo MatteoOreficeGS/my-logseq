@@ -21,4 +21,8 @@ collapsed:: true
 	  template-including-parent:: false
 		- ### Riprendo Task <%setInput: descrizione%> ⏩️
 		  /
+	- ## Creare un nuovo Task
+	  template:: new-task
+	  template-including-parent:: false
+		- <%setInput: intestazione
 -
