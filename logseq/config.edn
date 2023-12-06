@@ -419,5 +419,5 @@
  :ui/show-brackets? true
  :graph/settings {:builtin-pages? true
  :orphan-pages? false
- :excluded-pages? true
+ :excluded-pages? false
  :journal? false}}
