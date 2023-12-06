@@ -16,9 +16,8 @@ collapsed:: true
 		- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
 		- {{embed ((6565c304-fbc2-4931-ab16-96384d8543be))}}
 - # Task shortcuts
-	- ## Continuazione
+	- ## Continuare un Task includendo il blocco ⏩️
+	  template:: resume-task
+	  template-including-parent:: false
+	  {{embed (())}}
 		- ### Riprendo ⏩️
-		  template:: resume-task
-		  template-including-parent:: false
-		  {{embed (())}}
-			- Content
