@@ -1,4 +1,4 @@
-# Log
+# Daily Log
 template:: Daily Journal
 template-including-parent:: false
 type:: [[LS/Page/Journal]]
