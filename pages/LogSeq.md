@@ -3,6 +3,7 @@ tags:: #[[Process/Information Capture]]
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
 - # Introduzione
+  Una veloce introduzione dopo 20 giorni di utilizzo
 - Logseq sembra semplice all'apparenza, ma è estremamente potente sotto il cofano. Proprio come il famoso Microsoft Excel, Logseq vuole essere un ambiente per pensare. Il carburante di Excel sono blocchi di numeri, quello di Logseq sono **blocchi di parole**.
 - Ci vuole tempo per padroneggiare questo strumento, poiché Logseq non impone un modo di lavorare. Ma una volta capito come ottenere i risultati finali desiderati, **Logseq vi aiuterà a diventare un pensatore molto più efficace**.
 - Per aiutarvi a capire quali sono i flussi di lavoro che fanno al caso vostro, vi illustreremo tutte le funzioni principali di Logseq. Vedetele come strumenti nella vostra cassetta degli attrezzi; singolarmente uno strumento fa poco, ma una volta imparato a usarli in combinazione potete diventare un artista. **Puntate a diventare un artista della conoscenza.**
