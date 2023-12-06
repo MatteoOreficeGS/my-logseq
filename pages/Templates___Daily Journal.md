@@ -3,17 +3,12 @@ template-including-parent:: true
 type:: [[LS/Page/Journal]]
 
 	- # Stand-Up Topics
+		- topic 1
+		- topic 1
+		- topic 3
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
-		  client:: fill
-		  courier:: fill
-		  requester:: fill
-		  channel:: fill
-		  tracking:: fill
-			- attivitá log statement 1
-			- attivitá log statement 2
-			- attivitá log statement ...
-			- attivitá log statement N
+		  tags:: topic
 	- # Aiuto compilazione
 	  Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili, questi blocchi sono inclusi con embed per evitare duplicazioni
 	- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
