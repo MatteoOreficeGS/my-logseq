@@ -17,12 +17,12 @@ type:: [[LS/Page/Journal]]
 	- ## Continuare un Task includendo il blocco ⏩️
 	  template:: resume-task
 	  template-including-parent:: false
-		- ### Riprendo Task <%setInput: suffisso %> ⏩️
+		- ### Riprendo Task <%setInput: suffisso%> ⏩️
 		  /
 	- ## Creare un nuovo Task
 	  template:: new-task
 	  template-including-parent:: false
-		- ### <%setInput: intestazioneTask%>
+		- ### <%setInput: intestazione_nuovo_task%>
 		  tags:: topic, topic, topic
 			- TODO Descrizione task
 -
