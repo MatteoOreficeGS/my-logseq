@@ -41,6 +41,10 @@ tags:: #[[Process/Information Capture]]
 	- Dal momento che ci si sforza nel descrivere le informazioni nella maniera a noi piú congeniale si facilita anche la memorizzazione a lungo termine. #information-architecture #topic/mindmap
 - # Funzioni utili
 	- ## Links building
+		- Esistono due modi per fare un link ad una pagina :
+			- `[[adasd]]`
+			  logseq.order-list-type:: number
+		- Per creare un link ad una pagina non ancora esistente
 	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
