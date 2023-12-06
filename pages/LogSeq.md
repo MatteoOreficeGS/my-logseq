@@ -26,6 +26,7 @@ tags:: #[[Process/Information Capture]]
 	- Gestione di un proprio workflow per il Getting Things Done
 	- Accesso ad informazioni organizzate secondo diverse view
 	- Mantenere appunti in maniera altamente organizzata e navigabile
+	-
 - # Vantaggi
   id:: 654baa92-a7e7-46c5-816e-42bc25765463
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
