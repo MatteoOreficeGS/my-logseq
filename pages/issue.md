@@ -1,3 +1,5 @@
+filters:: {"done" false}
+
 - {{query (namespace [[issue]])(sample 3)}}
   query-properties:: [:page :description]
   query-sort-by:: page
