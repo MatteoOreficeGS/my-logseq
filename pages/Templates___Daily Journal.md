@@ -18,4 +18,5 @@ collapsed:: true
 - # Task shortcuts
 	- ## Continuazione
 		- ### Riprendo ⏩️
-		  template:: resume
+		  template:: resume-task
+		  {{embed (())}}
