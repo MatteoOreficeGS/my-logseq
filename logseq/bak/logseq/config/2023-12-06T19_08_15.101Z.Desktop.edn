@@ -89,7 +89,7 @@
  ;; Available options:
  ;;  - integer from 0 to 6 (Monday to Sunday)
  ;; Default value: 6 (Sunday)
- :start-of-week 6
+ :start-of-week 0
 
  ;; Specify a custom CSS import.
  ;; This option takes precedence over the local `logseq/custom.css` file.
@@ -294,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -416,4 +416,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/preferred-pasting-file? true
- :ui/show-brackets? true}
+ :ui/show-brackets? true
+ :graph/settings {:builtin-pages? true
+ :orphan-pages? false
+ :excluded-pages? false}}
