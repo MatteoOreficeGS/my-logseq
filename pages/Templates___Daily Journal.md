@@ -1,7 +1,8 @@
-# Daily Log
+# Daily Log Template
 template:: Daily Journal
 template-including-parent:: false
 type:: [[LS/Page/Journal]]
+collapsed:: true
 	- # Stand-Up Topics
 		- topic 1
 		- topic 1
