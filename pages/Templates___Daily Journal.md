@@ -20,4 +20,4 @@ collapsed:: true
 	  template:: resume-task
 	  template-including-parent:: false
 		- ### Riprendo ⏩️ <%Yesterday%>
-		  {{embed (())}}
+		  {{embed ((<getInput: blockId%>))}}
