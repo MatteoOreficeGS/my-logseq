@@ -2,12 +2,12 @@
 template:: Daily Journal
 template-including-parent:: false
 type:: [[LS/Page/Journal]]
-collapsed:: true
 	- # Stand-Up Topics
 		- topic 1
 		- topic 1
 		- topic 3
 	- # Attivitá
+	  {{renderer :smartblock, resume-task, Resume Task ⏩️, false}} {{renderer :smartblock, new-task, New Task ➕, false}}
 		- ### Testo descrittivo attivitá 1
 		  tags:: topic, topic, topic
 	- # Aiuto compilazione
