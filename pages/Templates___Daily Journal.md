@@ -2,6 +2,7 @@ template:: Daily Journal
 template-including-parent:: true
 type:: [[LS/Page/Journal]]
 
+	- #
 	- # Attivitá
 		- ### Testo descrittivo attivitá 1
 		  client:: fill

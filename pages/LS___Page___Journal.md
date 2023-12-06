@@ -1,0 +1,1 @@
+- Una pagina del #[[Templates/Daily Journal]]
