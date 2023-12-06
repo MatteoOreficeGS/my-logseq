@@ -46,7 +46,8 @@ tags:: #[[Process/Information Capture]]
 			  logseq.order-list-type:: number
 			- `#TagWord` : se avete fretta e non volete inserire spazi usate la notazione tag based
 			  logseq.order-list-type:: number
-		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú !
+		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú ! #SUCCESS
+		- > un altra cosa che cambia dalle due sintassi precedenti é la maniera in cui si visualizzano i link, ad esempio:
 	- ## Tags
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
