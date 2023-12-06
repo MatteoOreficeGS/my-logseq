@@ -16,5 +16,6 @@ collapsed:: true
 		- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
 		- {{embed ((6565c304-fbc2-4931-ab16-96384d8543be))}}
 - # Task shortcuts
-- ## Continuazione
-- ###
+	- ## Continuazione
+		- ### Riprendo ⏩️
+		  template:: resume
