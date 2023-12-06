@@ -1,4 +1,4 @@
-filters:: {"done" false}
+filters:: {"done" false, "ls/page/journal" false}
 
 - {{query (namespace [[issue]])(sample 3)}}
   query-properties:: [:page :description]
