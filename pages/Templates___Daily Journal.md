@@ -19,4 +19,6 @@ collapsed:: true
 	- ## Continuazione
 		- ### Riprendo ⏩️
 		  template:: resume-task
+		  template-including-parent:: false
 		  {{embed (())}}
+		-
