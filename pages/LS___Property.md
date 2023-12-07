@@ -1,1 +1,3 @@
 type:: [[LS/Class]]
+
+-
