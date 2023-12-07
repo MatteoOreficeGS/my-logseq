@@ -2,7 +2,8 @@
 - # Scopo
 - Questo prefisso serve anche come raccoglitore per tutti i tipi usati nelle pagine
 - Le pagine incluse come figlie sono da intendersi sono utilizzabili in questi modi:
--
+	- **Classi**: al fine di assegnare un tipo ad ogni pagina di #LogSeq
+	-
 - # Gerarchia
   Nota: questa sezione mostra come le **classi** o i **tipi di pagine** sono collegati tra loro. Una **classe** raggruppa le pagine che condividono un **insieme comune di proprietà**. #LS/Class é la **classe** principale da cui vengono definite tutte le altre **classi**. Quando una **classe** è figlia di un'altra **classe**, di solito **eredita**  le **stesse proprietà** della **classe madre**.
 - # Gerarchia [draft]
