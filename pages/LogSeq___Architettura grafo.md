@@ -60,5 +60,6 @@
 			- parametro di configurazione corriere
 			- contesto a cui si applica, ovvero vale per etc
 			- a quel punto capire come mostrare la granularitá
+			- ragionare su
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
