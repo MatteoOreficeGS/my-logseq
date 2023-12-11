@@ -58,7 +58,10 @@
 		- Informazioni di configurazione
 			- parametro di configurazione gsped
 			- parametro di configurazione corriere
-			- contesto a cui si applica, ovvero vale per: istanza, cliente, utente, corriere X,Y, Z
+			- contesto a cui si applica, ovvero vale per: istanza, cliente, utente, corriere X,Y, Z 
+			  #+BEGIN_CAUTION
+			  
+			  #+END_CAUTION
 			- a quel punto capire come mostrare la granularitá
 			- ragionare su come filtrare tali configurazioni tramite query standard e template al fine di mostrarne un estratto nei punti opportuni, es
 				- tutte le configurazioni di un corriere
