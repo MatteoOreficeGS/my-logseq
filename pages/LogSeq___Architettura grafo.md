@@ -60,6 +60,7 @@
 			- parametro di configurazione corriere
 			- contesto a cui si applica, ovvero vale per etc
 			- a quel punto capire come mostrare la granularitá
-			- ragionare su
+			- ragionare su come filtrare tali configurazioni tramite query standard e template al fine di mostrarne un estratto nei punti opportuni, es
+				- tutte le configurazioni di un corriere
 	- ## Analizza esistente
 		- LATER analizzare le pagine in all pages per capire cosa si crea
