@@ -86,7 +86,7 @@ tags:: #[[Process/Information Capture]]
 	- ## GitHub Pages
 		- https://github.com/logseq/publish-spa
 		-
-- # Open Issues #question
+- # Open Issues
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- come reagiscono i namespace nei valori delle properties ?
 		- come si comportano in particolare per la prop tags? alcuni tag di test
