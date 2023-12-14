@@ -1,11 +1,13 @@
 - I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] al fine di non duplicare ogni volta, possono essere inclusi singolarmente
 - ### Task ricorrenti
-	- Analizzare le PR degli altri per approvarle
+	- Analizzare le #topic/pull-request  degli altri per approvarle
 	  :LOGBOOK:
 	  CLOCK: [2023-12-14 Thu 12:41:17]
 	  CLOCK: [2023-12-14 Thu 12:41:19]
 	  :END:
-	- Rispondere alle richieste di integrazione per le tue PR
+	- Rispondere alle richieste di integrazione per le tue #topic/pull-request
+	- Esaminare la mail per richieste ricevute via mail
+	- Esaminare i task in LogSeq
 - ### Esempio di Attivitá
   id:: 6565c304-9cba-4238-91e6-36a5a4b45930
 	- #### Intestazione attivitá
