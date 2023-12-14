@@ -19,6 +19,7 @@ collapsed:: true
 	  template:: resume-task
 	  template-including-parent:: false
 		- ### Riprendo Task <%setInput: suffisso%> ⏩️
+		  tags:: #resume-task 
 		  /
 	- ## Creare un nuovo Task
 	  template:: new-task
