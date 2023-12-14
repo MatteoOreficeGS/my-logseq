@@ -1,15 +1,18 @@
 - I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] al fine di non duplicare ogni volta, possono essere inclusi singolarmente
 - ### Task ricorrenti
-  Questi task sono ricorrenti e quindi vengono visti sempre al fondo del
+  Questi task sono ricorrenti e quindi vengono visti sempre al fondo del journal
 	- LATER Analizzare le #topic/pull-request  degli altri per approvarle
 	  SCHEDULED: <2023-12-14 Thu .+1d>
 	  :LOGBOOK:
 	  CLOCK: [2023-12-14 Thu 12:41:17]
 	  CLOCK: [2023-12-14 Thu 12:41:19]
 	  :END:
-	- Rispondere alle richieste di integrazione per le tue #topic/pull-request
-	- Esaminare la mail per richieste ricevute via mail
-	- Esaminare i task in LogSeq
+	- LATER Rispondere alle richieste di integrazione per le tue #topic/pull-request
+	  SCHEDULED: <2023-12-14 Thu .+1d>
+	- LATER Esaminare la mail per richieste ricevute via mail
+	  SCHEDULED: <2023-12-14 Thu .+1d>
+	- LATER Esaminare i task in LogSeq
+	  SCHEDULED: <2023-12-14 Thu .+1d>
 - ### Esempio di Attivitá
   id:: 6565c304-9cba-4238-91e6-36a5a4b45930
 	- #### Intestazione attivitá
