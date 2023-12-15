@@ -2,6 +2,7 @@
 template:: Daily Journal
 template-including-parent:: false
 type:: [[LS/Page/Journal]]
+id:: 65771538-f0d1-490b-b3ab-65696d353761
 	- # Stand-Up Topics
 		- topic 1
 		- topic 1
@@ -25,6 +26,7 @@ type:: [[LS/Page/Journal]]
 	- ## Creare un nuovo Task
 	  template:: new-task
 	  template-including-parent:: false
+	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 		- ### <%setInput: intestazione_nuovo_task%>
 		  tags:: topic, topic, topic
