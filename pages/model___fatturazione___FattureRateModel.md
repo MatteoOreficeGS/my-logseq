@@ -15,7 +15,7 @@ tags:: #[[Models/Object Model/Object]]
 		- gli esuberi potrebbero essere calcolati meglio e in maniera piú flessibile ((6555222a-3562-4770-b8ba-f64a070f7cc7))
 		- proseguire a documentare #action/doc
 - # Soluzione ai problemi comuni
-  
+  tags:: #troubleshooting
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## Filtrare log `api-yyyy-mm-dd.txt` per la selezione di una fascia
 	  tags:: [[troubleshooting/solution]]
