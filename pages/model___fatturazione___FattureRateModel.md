@@ -18,7 +18,8 @@ tags:: #[[Models/Object Model/Object]]
   tags:: #troubleshooting
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## Filtra flusso selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
-	  tags:: [[troubleshooting/solution]]
+	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia
+		-
 	- ## Esaminare log chiamata FattureRate su #env/staging 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
 	  tags:: #[[model/fatturazione/FattureRateModel]], #troubleshooting/solution
