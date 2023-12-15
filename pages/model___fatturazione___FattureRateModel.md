@@ -22,7 +22,7 @@ tags:: #[[Models/Object Model/Object]]
 		- step 1
 		- step 2
 		- step 3
-	- ## Esaminare log chiamata FattureRate 
+	- ## Esaminare log chiamata FattureRate su staging
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
 	  tags:: #[[model/fatturazione/FattureRateModel]], #troubleshooting/solution
 	  collapsed:: true
