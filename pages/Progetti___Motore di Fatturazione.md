@@ -7,22 +7,25 @@ tags:: #issue
   tags:: #improvements, #issue/feature, #issue/tools
 	- creare un tool da riga di comando per fare analisi del log con semplici parametri, non sarebbe male usare un binario GO oppure uno shell script ancore meglio
 - # Problemi comuni
-  tags:: #doc/howtos, #[[Progetti/Motore di Fatturazione]]
+  tags:: #doc/howtos, #[[Progetti/Motore di Fatturazione]], #troubleshooting
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
 	- ## Elencare tutti i client id per cui non esiste una tariffa
+	  tags:: troubleshooting/solution
 		- ```shell
 		  grep 'Risposta.*Rate.*15386' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
 	- ## Mostrare risposte #[[model/fatturazione/FattureRateModel]]  dal log `CtrFatt.log`
+	  tags:: troubleshooting/solution
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 		  ```
 	- ## Estrarre dal log `CtrFatt.log` solo un'elaborazione
+	  tags:: troubleshooting/solution
 		- ```shell
 		  zcat /tmp/CtrFatGsped.log | \
 		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \

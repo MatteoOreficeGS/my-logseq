@@ -6,6 +6,7 @@ filters:: {"model/fatturazione/fattureratemodel" true}
 	- ## Esempio di risoluzione
 	  template:: trouble-solution
 	  template-including-parent:: false
+	  Que
 		- ## Risolvere il problema XXX
 		  tags:: #troubleshooting/solution
 			- step 1
