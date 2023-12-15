@@ -24,6 +24,7 @@ type:: [[LS/Page/Journal]]
 	- ## Creare un nuovo Task
 	  template:: new-task
 	  template-including-parent:: false
+	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 		- ### <%setInput: intestazione_nuovo_task%>
 		  tags:: topic, topic, topic
 			- TODO Descrizione task
