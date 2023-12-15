@@ -4,3 +4,4 @@ filters:: {"model/fatturazione/fattureratemodel" true}
 -
 - # Templates
 	- ## Esempio di risoluzione
+	  template:
