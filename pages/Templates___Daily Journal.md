@@ -28,6 +28,7 @@ id:: 65771538-f0d1-490b-b3ab-65696d353761
 	  template-including-parent:: false
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
+	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 		- ### <%setInput: intestazione_nuovo_task%>
 		  tags:: topic, topic, topic
 			- TODO Descrizione task
