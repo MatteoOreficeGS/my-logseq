@@ -7,7 +7,7 @@ filters:: {"model/fatturazione/fattureratemodel" true}
 	  template:: trouble-solution
 	  template-including-parent:: false
 		- ## Risolvere il problema XXX
-		  tags:: #troubleshooting
+		  tags:: #troubleshooting/solution
 			- step 1
 			- step 2
 			- step 3

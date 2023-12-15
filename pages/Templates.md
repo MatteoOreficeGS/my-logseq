@@ -16,7 +16,7 @@ filters:: {"2023.*" false}
 	- Tipi di richiesta per la sezione del Daily Journal
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
-	- Template per il #troubleshooting
+	- Template per il #troubleshooting/solution
 		- Al fine di circoscrivere il formato di domanda e risposta
 		- dettagli di codice
 		- azioni manuali da intraprendere
