@@ -23,7 +23,7 @@ tags:: #[[Models/Object Model/Object]]
 		- Installare il plugin ((657c6627-98d6-4e6b-8ec0-22e7d97a015f))
 		- Aprire il file di log `.txt`
 		- `CTRL+SHIFT+A` e digitare grep
-		- Inserire questa regexp `(\[nome\] =>|Numero tariffe recuperate|Nessuna fascia|Query scelta tariffe|controllo corriere 2|applica tariffa|MAX tra PESO|VOLUME|RPV|controllo servizio.*(E|1))`
+		- Inserire questa regexp `(\[nome\] =>|\[id\] =>|Numero tariffe recuperate|Nessuna fascia|Query scelta tariffe|controllo corriere 2|applica tariffa|MAX tra PESO|VOLUME|RPV|controllo servizio.*(E|1))`
 		- Marcare spunta regexp e case sensitive
 		- ![image.png](../assets/image_1702651042535_0.png)
 	- ## Esaminare log chiamata FattureRate su #env/staging 
