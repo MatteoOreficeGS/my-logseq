@@ -23,7 +23,8 @@ tags:: #[[Models/Object Model/Object]]
 		- step 3
 	- ## Esaminare log chiamata FattureRate 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
-	  #[[model/fatturazione/FattureRateModel]], #troubleshooting
+	  tags:: #[[model/fatturazione/FattureRateModel]], #troubleshooting
+	  collapsed:: true
 		- Per poter esaminare il log dobbiamo usare la macchina di staging
 		- effettuare una chiamata come la seguente
 		- ```
@@ -56,6 +57,7 @@ tags:: #[[Models/Object Model/Object]]
 		- Inoltre andrebbero #[[model/fatturazione/FattureRateModel]]
 	- ## Risolvere il problema XXX
 	  tags:: #troubleshooting
+	  collapsed:: true
 		- step 1
 		- step 2
 		- step 3
