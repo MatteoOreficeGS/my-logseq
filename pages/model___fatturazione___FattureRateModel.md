@@ -53,6 +53,7 @@ tags:: #[[Models/Object Model/Object]]
 		      fuel_int=0&
 		      fuel_air=0
 		  ```
+		  id:: 65771539-8ce5-4d8c-bac9-bafbe2757805
 		- Quindi esaminare il log
 		- ```bash
 		  docker exec  api cat '/tmp/api-2023-10-11.txt' | less

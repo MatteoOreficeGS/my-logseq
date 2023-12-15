@@ -3,9 +3,10 @@ filters:: {}
 - Permette di trovare facilmente tutti i blocchi che parlano di risoluzione problematiche #issue
 -
 - # Templates
-	- ## Esempio di risoluzione
+	- ## Soluzione di un problema
 	  template:: trouble-solution
 	  template-including-parent:: false
+	  collapsed:: true
 	  Questo template si puó usare per inserire una soluzione ad un problema, include con shortcup template oppure smartblocks
 		- ## Risolvere il problema XXX
 		  tags:: #troubleshooting/solution
