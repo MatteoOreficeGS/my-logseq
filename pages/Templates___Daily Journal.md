@@ -18,6 +18,7 @@ type:: [[LS/Page/Journal]]
 	- ## Continuare un Task includendo il blocco ⏩️
 	  template:: resume-task
 	  template-including-parent:: false
+	  id:: 65771538-7dd3-4f9b-a39b-6925aedef47c
 		- ### Riprendo Task <%setInput: suffisso%> ⏩️
 		  tags:: #resume-task 
 		  /
