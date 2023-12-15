@@ -1,5 +1,4 @@
-- {{renderer :smartsearch}}
-- # Organizzazione grafo
+# Organizzazione grafo
 	- Vedere #[[LogSeq/Architettura grafo]] per architettura di questo grafo
 - # Journal
 - Il journal viene creato a partire da #[[Templates/Daily Journal]]

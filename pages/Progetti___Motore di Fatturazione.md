@@ -7,7 +7,7 @@ tags:: #issue
   tags:: #improvements, #issue/feature, #issue/tools
 	- creare un tool da riga di comando per fare analisi del log con semplici parametri, non sarebbe male usare un binario GO oppure uno shell script ancore meglio
 - # Problemi comuni
-  tags:: #troubleshooting, #doc/howtos, #[[Progetti/Motore di Fatturazione]]
+  tags:: #doc/howtos, #[[Progetti/Motore di Fatturazione]]
   :LOGBOOK:
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
