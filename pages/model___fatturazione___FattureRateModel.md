@@ -16,7 +16,7 @@ tags:: #[[Models/Object Model/Object]]
 		- proseguire a documentare #action/doc
 - # Soluzione ai problemi comuni
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
-	- ## Filtrare 
+	- ## Filtrare log `api-yyyy-mm-dd.txt` per la selezione di una fascia
 	  tags:: [[troubleshooting]]
 		- step 1
 		- step 2
