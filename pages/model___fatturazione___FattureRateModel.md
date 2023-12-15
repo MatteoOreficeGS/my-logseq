@@ -15,6 +15,7 @@ tags:: #[[Models/Object Model/Object]]
 		- gli esuberi potrebbero essere calcolati meglio e in maniera piú flessibile ((6555222a-3562-4770-b8ba-f64a070f7cc7))
 		- proseguire a documentare #action/doc
 - # Soluzione ai problemi comuni
+  {{renderer :smartblock, new-task, New Solution ➕, false}}
 	- ## Esaminare log chiamata FattureRate 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
 	  #[[model/fatturazione/FattureRateModel]], #troubleshooting
