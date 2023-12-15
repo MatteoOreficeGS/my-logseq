@@ -19,7 +19,8 @@ tags:: #[[Models/Object Model/Object]]
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## Filtra flusso selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
 	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario
-		- Installare il plugin ....
+		- Installare il plugin **String Manipulation** #Instrument/IDE/PHPStorm 
+		  ![image.png](../assets/image_1702651071585_0.png)
 		- Aprire il file di log `.txt`
 		- `CTRL+SHIFT+A` e selezionare grep
 		- Inserire questa regexp `(controllo corriere 2|applica tariffa|MAX tra PESO|controllo servizio 1)`
