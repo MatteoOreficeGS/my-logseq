@@ -61,7 +61,7 @@ tags:: #[[Models/Object Model/Object]]
 		- Conviene creare documentazione di alto livello per i componenti di GSped, ad esempio il modello #[[Instrument/C4]] puó essere usato per descrivere ad alto livello un sistema
 		- Inoltre andrebbero #[[model/fatturazione/FattureRateModel]]
 - # Problemi noti
-	- il metodo checkReseller non dovrebbe decidere se utilizzare un client id ( invoiced o normale ) indicato sulla `$sped`, questo dovrebbe essere passato da fuori e fine #issue/design
+	- Il metodo checkReseller non dovrebbe decidere se utilizzare un client id ( invoiced o normale ) indicato sulla `$sped`, questo dovrebbe essere passato da fuori e fine #issue/design
 		- la responsabilitá di scegliere quale client id utilizzare dovrebbe spettare al chiamate
 		- le tariffe non hanno relazione alcuna con il concetto di #model/core/reseller
 	- `calcolaSingoloNoloAddebito` non é chiaro se riceva sempre `$sped['corriere']` #issue/code/array-shape
