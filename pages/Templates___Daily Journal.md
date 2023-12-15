@@ -14,7 +14,7 @@ type:: [[LS/Page/Journal]]
 		- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
 		- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
 		- {{embed ((6565c304-fbc2-4931-ab16-96384d8543be))}}
-- # Task shortcuts
+- # Task shortcuts templates
 	- ## Continuare un Task includendo il blocco ⏩️
 	  template:: resume-task
 	  template-including-parent:: false
