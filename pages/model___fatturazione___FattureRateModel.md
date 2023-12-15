@@ -19,10 +19,9 @@ tags:: #[[Models/Object Model/Object]]
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## Filtra flusso selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
 	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario
-		- Installare il plugin ((657c6627-98d6-4e6b-8ec0-22e7d97a015f)) 
-		  ![image.png](../assets/image_1702651071585_0.png)
+		- Installare il plugin ((657c6627-98d6-4e6b-8ec0-22e7d97a015f))
 		- Aprire il file di log `.txt`
-		- `CTRL+SHIFT+A` e selezionare grep
+		- `CTRL+SHIFT+A` e digitare grep
 		- Inserire questa regexp `(controllo corriere 2|applica tariffa|MAX tra PESO|controllo servizio 1)`
 		- Marcare spunta regexp e case sensitive
 		- ![image.png](../assets/image_1702651042535_0.png)
