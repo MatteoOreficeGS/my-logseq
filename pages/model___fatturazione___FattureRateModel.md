@@ -19,6 +19,7 @@ tags:: #[[Models/Object Model/Object]]
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## Filtra flusso selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
 	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario
+		- Installare il plugin ....
 		-
 	- ## Esaminare log chiamata FattureRate su #env/staging 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
