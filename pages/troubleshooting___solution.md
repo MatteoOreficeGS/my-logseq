@@ -1,4 +1,4 @@
-filters:: {"model/fatturazione/fattureratemodel" true}
+filters:: {}
 
 - Permette di trovare facilmente tutti i blocchi che parlano di risoluzione problematiche #issue
 -
@@ -6,7 +6,7 @@ filters:: {"model/fatturazione/fattureratemodel" true}
 	- ## Esempio di risoluzione
 	  template:: trouble-solution
 	  template-including-parent:: false
-	  Que
+	  Questo template si puó usare per inserire una soluzione ad un problema, include con shortcup template oppure smartblocks
 		- ## Risolvere il problema XXX
 		  tags:: #troubleshooting/solution
 			- step 1
