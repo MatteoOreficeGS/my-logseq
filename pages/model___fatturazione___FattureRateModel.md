@@ -56,12 +56,6 @@ tags:: #[[Models/Object Model/Object]]
 		  ```
 		- Conviene creare documentazione di alto livello per i componenti di GSped, ad esempio il modello #[[Instrument/C4]] puó essere usato per descrivere ad alto livello un sistema
 		- Inoltre andrebbero #[[model/fatturazione/FattureRateModel]]
-	- ## Risolvere il problema XXX
-	  tags:: #troubleshooting/solution
-	  collapsed:: true
-		- step 1
-		- step 2
-		- step 3
 - # Problemi noti
 	- il metodo checkReseller non dovrebbe decidere se utilizzare un client id ( invoiced o normale ) indicato sulla `$sped`, questo dovrebbe essere passato da fuori e fine #issue/design
 		- la responsabilitá di scegliere quale client id utilizzare dovrebbe spettare al chiamate
