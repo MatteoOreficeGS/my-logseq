@@ -79,7 +79,7 @@ tags:: #[[Process/Information Capture]]
 		- Organizzare insieme di argomenti correlati
 		- Navigare insieme di argomenti correlati, indice
 		- ### Esempi pratici di utilizzo
-			- Io per esempio ho creato un namespace #topic dove ogni sotto termine
+			- un namespace #topic equivalente ad un glossario dove ogni sotto termine rappresenta un concetto o un termine degno di nota in #gsped, es: #[[topic/esubero multiplo]]
 	- ## Properties
 	- ## Queries
 		- ### Uso dell'header nelle queries
