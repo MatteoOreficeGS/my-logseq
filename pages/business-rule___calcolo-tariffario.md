@@ -3,7 +3,8 @@ filters:: {"done" false}
 - # Definizione
   Il calcolo tariffarrio é il processo attraverso il quale viene determinato il prezzo di una spedizione
 - # Attuale implementazione
-	- ## DFD
+	- ## Selezione tariffa e fascia
+	  tags:: #topic/fascia, #model/fatturazione/tariffe_fasce, #model/fatturazione/tariffe
 		- Rappresenta il flusso attuale delle informazioni
 		- [[draws/2023-11-15-15-30-57.excalidraw]]
 		  #Instrument/DFD che fornisce una semplice rappresentazione del processo di calcolo tariffario
