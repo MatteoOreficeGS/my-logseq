@@ -70,7 +70,8 @@ tags:: #[[Process/Information Capture]]
 		-
 	- ## Tags
 		- Cosa é un tag in #logseq ?
-			- un modo per classificare un blocco o pagina identificando delle parole
+			- un modo per classificare un blocco o pagina identificando apponendo degli identificatori testuali
+			- un meccanismo fondam
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
 		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #LogSeq crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
