@@ -5,8 +5,6 @@ type:: [[LS/Page/Journal]]
 id:: 65771538-f0d1-490b-b3ab-65696d353761
 	- # Stand-Up Topics
 		- topic 1
-		- topic 1
-		- topic 3
 	- # Attivitá
 	  {{renderer :smartblock, resume-task, Resume Task ⏩️, false}} {{renderer :smartblock, new-task, New Task ➕, false}}
 	- # Aiuto compilazione
