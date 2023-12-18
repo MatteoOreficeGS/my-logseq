@@ -57,8 +57,7 @@ tags:: #[[Process/Information Capture]]
 		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú ! #SUCCESS
 		- Altra differenza nelle due sintassi precedenti é la maniera in cui si visualizzano i link
 		  ad esempio: [[topic]] non mostra il cancelletto e #topic lo mostra
-		- Nel caso volessi visualizzare come il cancelletto un link ad una pagina con spazi nel nome usa questa sintassi 
-		  `#[[Process/SDC/Continuous Integration]]`
+		- Nel caso volessi visualizzare il cancelletto su un link ad una pagina con spazi nel nome usa questa sintassi  `#[[Process/SDC/Continuous Integration]]`
 	- ## Inline block editing
 		- Forse una delle funzioni piú scenografiche di #LogSeq, che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
 		- Similmente alla funzione **include / page embed**  di #jira , #logseq permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
