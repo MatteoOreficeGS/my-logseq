@@ -80,7 +80,7 @@ tags:: #[[Process/Information Capture]]
 		- Navigare insieme di argomenti correlati, indice
 		- ### Esempi pratici di utilizzo
 			- un namespace #topic equivalente ad un glossario dove ogni sotto termine rappresenta un concetto o un termine degno di nota in #gsped, es: #[[topic/esubero multiplo]]
-			-
+			- un namespace #issue per censire le classi di issue che si presentano:
 	- ## Properties
 	- ## Queries
 		- ### Uso dell'header nelle queries
