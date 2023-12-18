@@ -19,7 +19,6 @@
 		- **descrive l'attivitá da svolgere** iniziando con un **verbo**, che implica lo svolgimento di una certa azione,
 		- alla fine utilizzare dei tag per indicare
 			- la sorgente della richiesta, mail, slack etc
-			  logseq.order-list-type:: number
 			- richiedente, cliente ed eventualmente il corriere
 			  logseq.order-list-type:: number
 	- #### Sotto blocchi
