@@ -59,6 +59,8 @@ tags:: #[[Process/Information Capture]]
 		  ad esempio: [[topic]] non mostra il cancelletto e #topic lo mostra
 		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi 
 		  `#[[Process/SDC/Continuous Integration]]`
+	- ## Inline block editing
+		- Forse una delle funzioni piú scenografiche di #LogSeq, che
 	- ## Tags
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
