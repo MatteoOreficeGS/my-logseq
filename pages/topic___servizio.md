@@ -1,0 +1,2 @@
+- Definire cosa sia un servizio
+- ![image.png](../assets/image_1702892635075_0.png)
