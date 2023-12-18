@@ -12,8 +12,8 @@ tags:: #[[Process/Information Capture]]
 		- **LogSeq** chiama la **rete interconnessa di note**  **"grafo"** ( **graph** in inglese )
 		- É possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
 			- KB Gsped Privata
-			- Progetto di studio sul Trading
-			- Gestione del mio orto
+			- Progetto di studio personale
+			- Pianificazione del mio orto
 			- ... e molto altro
 		- Non sono inter-collegabili a livello di blocco o pagina, se non usando i link esterni
 	- ## Blocco
