@@ -60,7 +60,9 @@ tags:: #[[Process/Information Capture]]
 		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi 
 		  `#[[Process/SDC/Continuous Integration]]`
 	- ## Inline block editing
-		- Forse una delle funzioni piú scenografiche di #LogSeq, che
+		- Forse una delle funzioni piú scenografiche di #LogSeq, che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
+		- Similmente alla funzione **include / page embed**  di #jira , #logseg
+		-
 	- ## Tags
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
