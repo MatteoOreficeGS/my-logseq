@@ -27,6 +27,7 @@ tags:: #[[Models/Object Model/Object]]
 		- Marcare spunta regexp e case sensitive
 		- ![image.png](../assets/image_1702651042535_0.png)
 		- Ricordare questa mappatura per i servizi: i servizi vengono ricavati con questo filtro e poi tradocci in codici letterali
+		  tags:: #business-rule, #business-rule/selezione
 		  ![image.png](../assets/image_1702892298434_0.png)
 		  ![image.png](../assets/image_1702899029029_0.png)
 	- ## Esaminare log chiamata FattureRate su #env/staging 
