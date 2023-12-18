@@ -72,16 +72,20 @@ tags:: #[[Process/Information Capture]]
 		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #LogSeq crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
 		  ![image.png](../assets/image_1701886728412_0.png)
 		- #+BEGIN_TIP
-		  Ll'elenco dei referenti é anche filtrabile !
+		  L'elenco dei referenti é anche filtrabile !
 		  #+END_TIP
+		- #+BEGIN_WARNING
+		  
+		  #+END_WARNING
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
 		- Organizzare insieme di argomenti correlati
 		- Navigare insieme di argomenti correlati, indice
 		- ### Esempi pratici di utilizzo
 			- un namespace #topic equivalente ad un glossario dove ogni sotto termine rappresenta un concetto o un termine degno di nota in #gsped, es: #[[topic/esubero multiplo]]
-			- un namespace #issue per censire le classi di issue che si presentano:
+			- un namespace #issue per censire le classi di issue che si presentano, es: #issue/design, #issue/process, #issue/code, ...
 	- ## Properties
+		- a che servono le properties ? evoluzione del tags
 	- ## Queries
 		- ### Uso dell'header nelle queries
 		  ![image.png](../assets/image_1701331213195_0.png)
