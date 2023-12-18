@@ -1,2 +1,3 @@
 - Definire cosa sia un servizio
-- ![image.png](../assets/image_1702892635075_0.png)
+- Nel calcolo ATTIVO i servizi TIME DEFINITE per DHL potrebbero essere direttamente servizi da listino invece che costi accessori
+  tags:: #business-rule/calcolo-tariffario, #topic/courier-logic
