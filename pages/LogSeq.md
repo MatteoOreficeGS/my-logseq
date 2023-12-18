@@ -24,10 +24,10 @@ tags:: #[[Process/Information Capture]]
 	- Mantenimento di un giornale delle attivitá o log
 	- Mantenimento di un glossario
 	- Gestione di un proprio workflow per il Getting Things Done
-	- Generalmente
-	- Tenere un archivio personale di soluzione comuni ai problemi
-	- Tenere un archivio personale di azioni da intraprendere
-	- Censire problematiche ricorrenti
+	- Vari scenari dove voglio catalogare una certa classe di informazioni per poi ripescarla
+		- Tenere un archivio personale di soluzione comuni ai problemi #troubleshooting
+		- Tenere un archivio personale di azioni da intraprendere #action
+		- Censire problematiche ricorrenti #issue
 	- Accesso ad informazioni organizzate secondo diverse view
 	- Mantenere appunti in maniera altamente organizzata e navigabile
 	- Fare  una presentazione come questa che state vedendo in 5 minuti !
