@@ -36,7 +36,7 @@ tags:: #[[Process/Information Capture]]
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
 	- **Creazione di nuove pagine** in maniera **top-down** . Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione **bottom-up**.
 	- Fa risparmiare tempo e aiuta a **concentrarsi esclusivamente sul contenuto** e la struttura dimenticandosi del livello di presentazione ( che potrá comunque essere gestito in un ipotetico processo di pubblicazione )
-	- Dualismo **Tag 🔁 Pagina**: provate a pensare ad una pagina come ad un tag. Il contenuto delle vostra pagina / tag a quel punto é la descrizione del tag, ovvero il metadato utilizzato per taggare un contenuto, nel caso di #logseq un blocco o una pagina.
+	- Dualismo **Tag 🔁 Pagina**: provate a pensare ad una pagina come ad un tag. Il contenuto delle vostra pagina ( o tag appunto quando conferite ad una pagina questo significato  ) potrá essere la descrizione del tag, ovvero il metadato utilizzato per taggare un contenuto, nel caso di #logseq un blocco o una pagina.
 	  id:: 656f5a7f-61a8-4d27-9861-fcd202981f28
 	- **Embedded editing**:  potente funzione che permette di modificare una pagina collegata direttamete dal punto in cui viene riferita / puntata.
 	- Mostra facilmente l'**utilizzo delle pagine** e **blocchi** da parte di altre pagine in termini quantitativi
