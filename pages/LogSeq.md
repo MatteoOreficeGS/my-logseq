@@ -61,7 +61,8 @@ tags:: #[[Process/Information Capture]]
 		  `#[[Process/SDC/Continuous Integration]]`
 	- ## Inline block editing
 		- Forse una delle funzioni piú scenografiche di #LogSeq, che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
-		- Similmente alla funzione **include / page embed**  di #jira , #logseg
+		- Similmente alla funzione **include / page embed**  di #jira , #logseq permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
+		-
 		-
 	- ## Tags
 		- Ogni pagina puó essere vista come un tag
