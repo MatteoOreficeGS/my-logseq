@@ -26,6 +26,8 @@ tags:: #[[Models/Object Model/Object]]
 		- Inserire questa regexp `(\[nome\] =>|\[id\] =>|Numero tariffe recuperate|Nessuna fascia|Query scelta tariffe|controllo corriere 2|applica tariffa|MAX tra PESO|VOLUME|RPV|controllo servizio.*(E|1))`
 		- Marcare spunta regexp e case sensitive
 		- ![image.png](../assets/image_1702651042535_0.png)
+		- Ricordare questa mappatura per i servizi
+		  ![image.png](../assets/image_1702892298434_0.png)
 	- ## Esaminare log chiamata FattureRate su #env/staging 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
 	  tags:: #[[model/fatturazione/FattureRateModel]], #troubleshooting/solution
