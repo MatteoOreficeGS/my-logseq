@@ -17,9 +17,9 @@ tags:: #[[Models/Object Model/Object]]
 - # Soluzione ai problemi comuni
   tags:: #troubleshooting
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
-	- ## Filtrare flusso selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
+	- ## Filtrare log selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
 	  id:: fb99f650-ffad-4b58-bd10-4dec0dc86850
-	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario, #Instrument/IDE/PHPStorm
+	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario, #Instrument/IDE/PHPStorm, #model/fatturazione/tariffe, #Instrument/grep
 		- Installare il plugin ((657c6627-98d6-4e6b-8ec0-22e7d97a015f))
 		- Aprire il file di log `.txt`
 		- `CTRL+SHIFT+A` e digitare grep
