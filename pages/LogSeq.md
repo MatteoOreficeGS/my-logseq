@@ -13,7 +13,7 @@ tags:: #[[Process/Information Capture]]
 		- É possibile avere piú grafi separati che poi corrispondono a delle cartelle sul proprio filesystem che vivono di vita propria, per esempio:
 			- KB Gsped Privata
 			- Progetto di studio personale
-			- Pianificazione del mio orto
+			- Pianificazione semine mio orto
 			- ... e molto altro
 		- Non sono inter-collegabili a livello di blocco o pagina, se non usando i link esterni
 	- ## Blocco
@@ -24,6 +24,10 @@ tags:: #[[Process/Information Capture]]
 	- Mantenimento di un giornale delle attivitá o log
 	- Mantenimento di un glossario
 	- Gestione di un proprio workflow per il Getting Things Done
+	- Generalmente
+	- Tenere un archivio personale di soluzione comuni ai problemi
+	- Tenere un archivio personale di azioni da intraprendere
+	- Censire problematiche ricorrenti
 	- Accesso ad informazioni organizzate secondo diverse view
 	- Mantenere appunti in maniera altamente organizzata e navigabile
 	- Fare  una presentazione come questa che state vedendo in 5 minuti !
