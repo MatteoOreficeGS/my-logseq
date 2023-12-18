@@ -106,6 +106,7 @@ tags:: #[[Process/Information Capture]]
 		- Internamente usa degli id univoci per identificare .... i blocchi (  #Instrument/Zettelkasten )
 	- Ogni nodo é un file markdown, eventualmente con il front-matter
 	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link
+	- L'indice di ricerca viene creato in una cartella priva e non viene mescolato con quanto viene versionato eventualmente nella cartella principale
 - # Pubblicazione
 	- ## On-premise
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
