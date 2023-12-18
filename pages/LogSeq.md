@@ -77,7 +77,7 @@ tags:: #[[Process/Information Capture]]
 					- a livello interno di struttura dati #topic/datalog questi sono i `refs` che sono presenti su ogni blocco
 				- sulla pagina target viene mostrato in automatico l'elenco dei referenti.
 			- #+BEGIN_WARNING
-			  Non confondere il con
+			  Non confondere il **concetto** di tag con quella che piú avanti verrá definita una particolare **property** detta `tags`, spiegheremo piú avanti .
 			  #+END_WARNING
 		- Quindi ogni pagina puó essere vista come un tag se conferiamo a questa tale significato e se é nostra intenzione riutilizzarlo piú volte
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che lo riferiscono
