@@ -20,7 +20,7 @@ id:: 65771538-f0d1-490b-b3ab-65696d353761
 	  id:: 65771538-7dd3-4f9b-a39b-6925aedef47c
 		- ### Riprendo Task <%setInput: suffisso%> ⏩️
 		  tags:: #resume-task 
-		  /
+		  /e
 	- ## Creare un nuovo Task
 	  template:: new-task
 	  template-including-parent:: false
