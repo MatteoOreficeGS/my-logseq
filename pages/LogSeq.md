@@ -39,7 +39,7 @@ tags:: #[[Process/Information Capture]]
 	- Dualismo **Tag 🔁 Pagina**: provate a pensare ad una pagina come ad un tag. Il contenuto delle vostra pagina ( o tag appunto quando conferite ad una pagina questo significato  ) potrá essere la descrizione del tag, quindi il nome di tale pagina sará il metadato utilizzato per taggare un contenuto, nel caso di #logseq un blocco o una pagina.
 	  id:: 656f5a7f-61a8-4d27-9861-fcd202981f28
 		- #+BEGIN_TIP
-		  Non esiste alcun meccanismo particolare per eleggere una pagina a tag, semplicemente dipende dal significato che voi attribuite a quel tag: nel caso abbiate bisogno di un particolare tag per raccogliere tutti i blocchi che citano un certo argomento non farete altro che taggare tali blocchi con un tag il 
+		  **Non esiste alcun meccanismo particolare per eleggere una pagina a tag**: semplicemente dipende dal significato che voi attribuirete a quel tag: nel caso abbiate bisogno di un particolare tag per raccogliere tutti i blocchi che citano un certo argomento non farete altro che taggare tali blocchi con un tag ( quindi in realtá una pagina ) che riutilizzerete per convezione. Questo é il concetto di flessibilitá di cui parlavamo all'inizio
 		  #+END_TIP
 	- **Embedded editing**:  potente funzione che permette di modificare una pagina collegata direttamete dal punto in cui viene riferita / puntata.
 	- Mostra facilmente l'**utilizzo delle pagine** e **blocchi** da parte di altre pagine in termini quantitativi
