@@ -73,7 +73,8 @@ tags:: #[[Process/Information Capture]]
 			- un modo per classificare un blocco o pagina identificando apponendo degli identificatori testuali
 			- un meccanismo che sta alla base del funzionamento di #logseq:
 				- alla creazione di un tag viene creata una pagina
-				- viene stabilita anche il link navigabile tra le la pagina riferita ( target ) e pagina referente
+				- viene stabilito anche il link bidirezionale navigabile tra le la pagina riferita ( target ) e pagina referente
+					- a livello interno di struttura dati #topic/datalog questi sono i `refs` che sono
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
 		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #LogSeq crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
