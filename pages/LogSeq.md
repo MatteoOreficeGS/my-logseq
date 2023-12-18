@@ -57,7 +57,7 @@ tags:: #[[Process/Information Capture]]
 		- La bella notizia é che per creare un link ad una **pagina non ancora esistente** non devi fare niente di piú ! #SUCCESS
 		- Altra differenza nelle due sintassi precedenti é la maniera in cui si visualizzano i link
 		  ad esempio: [[topic]] non mostra il cancelletto e #topic lo mostra
-		- Nel caso volessi visualizzare come tag un link ad una pagina con spazi nel nome usa questa sintassi 
+		- Nel caso volessi visualizzare come il cancelletto un link ad una pagina con spazi nel nome usa questa sintassi 
 		  `#[[Process/SDC/Continuous Integration]]`
 	- ## Inline block editing
 		- Forse una delle funzioni piú scenografiche di #LogSeq, che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
@@ -68,7 +68,7 @@ tags:: #[[Process/Information Capture]]
 		-
 	- ## Tags
 		- Cosa é un tag in #logseq ?
-			- un modo per
+			- un modo per classificare un blocco o pagina apponendo
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
 		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #LogSeq crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
