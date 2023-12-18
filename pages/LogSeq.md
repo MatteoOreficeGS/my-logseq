@@ -67,6 +67,8 @@ tags:: #[[Process/Information Capture]]
 		  #+END_IMPORTANT
 		-
 	- ## Tags
+		- Cosa é un tag in #logseq ?
+			- un modo per
 		- Ogni pagina puó essere vista come un tag
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che riferiscono un tag
 		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #LogSeq crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
@@ -74,9 +76,6 @@ tags:: #[[Process/Information Capture]]
 		- #+BEGIN_TIP
 		  L'elenco dei referenti é anche filtrabile !
 		  #+END_TIP
-		- #+BEGIN_WARNING
-		  
-		  #+END_WARNING
 	- ## Namespaces
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
 		- Organizzare insieme di argomenti correlati
