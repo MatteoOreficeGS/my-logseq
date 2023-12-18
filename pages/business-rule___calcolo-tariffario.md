@@ -13,7 +13,7 @@ filters:: {"done" false}
 		- Prima del calcolo vero e proprio viene determinata in sequenza la tariffa e poi la fascia prescelta.
 		- [[draws/2023-11-15-15-30-57.excalidraw]]
 		  #Instrument/DFD che fornisce una semplice rappresentazione del processo di calcolo tariffario
-	- ## Calcolo
+	- ## Calcolo costo spedizione
 -
 - ## Riferimenti
 	- ### GitBook
