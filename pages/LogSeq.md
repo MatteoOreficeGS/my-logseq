@@ -63,7 +63,7 @@ tags:: #[[Process/Information Capture]]
 		- Forse una delle funzioni piú scenografiche di #LogSeq, che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
 		- Similmente alla funzione **include / page embed**  di #jira , #logseq permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
 		- #+BEGIN_IMPORTANT
-		  Tuttavia l'embedding di un blocco o pagina in #logseq oltre alla visualizzazione del blocco permette anche l'editing, questo implica non spostarsi mai tra le pagine al solo scopo di modificare le informazioni collegate !
+		  Tuttavia l'embedding di un blocco o pagina in #logseq oltre alla visualizzazione del blocco permette anche l'editing, questo implica **non spostarsi** tra le pagine **intercollegate** al solo scopo di modificarne le informazioni!
 		  #+END_IMPORTANT
 		-
 	- ## Tags
@@ -78,7 +78,8 @@ tags:: #[[Process/Information Capture]]
 		- Uso principale é per disambiguare dei nomi, ad esempio #issue non é #jira/issue
 		- Organizzare insieme di argomenti correlati
 		- Navigare insieme di argomenti correlati, indice
-		- ### Come usarli in #gsped
+		- ### Esempi pratici di utilizzo
+			- Io per esempio ho creato un namespace #topic dove ogni sotto termine
 	- ## Properties
 	- ## Queries
 		- ### Uso dell'header nelle queries
