@@ -8,5 +8,5 @@ tags:: #model/fatturazione/Accessorio
 			- https://gsped.atlassian.net/browse/FT-137
 - # Nomi accessori
 	- #+BEGIN_CAUTION
-	  Notare che i nomi accessori a volte differiscono solo per il case, quindi il confronto deve avvernire 
+	  Notare che i nomi accessori a volte differiscono solo per il case, quindi il confronto deve avvenire in modalitá **case sensitive**
 	  #+END_CAUTION
