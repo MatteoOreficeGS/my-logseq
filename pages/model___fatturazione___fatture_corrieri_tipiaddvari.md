@@ -1,0 +1,3 @@
+- Vedi anche #model/fatturazione/costi_accessori_local
+- Vedi anche #model/fatturazione/costi_accessori_master
+- # Confronto
