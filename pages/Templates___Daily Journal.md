@@ -18,7 +18,7 @@ id:: 65771538-f0d1-490b-b3ab-65696d353761
 	  template:: resume-task
 	  template-including-parent:: false
 	  id:: 65771538-7dd3-4f9b-a39b-6925aedef47c
-		- ### Riprendo Task <%setInput: suffisso%> ⏩️
+		- ### LATER Riprendo Task <%setInput: suffisso%> ⏩️
 		  tags:: #event/task/resume , #daily-journal-task
 		  /e
 	- ## Creare un nuovo Task
@@ -27,7 +27,7 @@ id:: 65771538-f0d1-490b-b3ab-65696d353761
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
-		- ### <%setInput: intestazione_nuovo_task%>
+		- ### LATER <%setInput: intestazione_nuovo_task%>
 		  tags:: event/task/begin, #daily-journal-task
 			- TODO Descrizione task
 -
