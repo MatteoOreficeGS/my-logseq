@@ -1,5 +1,5 @@
 filters:: {"done" false}
-alias:: idea💡
+alias:: idea💡,💡
 
 - # Definizione
 - Un **improvement** rappresenta l'esigenza di aggiungere o cambiare il comportamento di un servizio, sistema, componente o processo #INFO
