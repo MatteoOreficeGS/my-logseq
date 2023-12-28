@@ -30,4 +30,15 @@ type:: [[LS/Page/Journal]]
 		- ### LATER <%setInput: intestazione_nuovo_task%>
 		  tags:: event/task/begin
 			- TODO Descrizione task
+			- query-table:: true
+			  collapsed:: true
+			  #+BEGIN_QUERY
+			  {:title "Riferimenti a questo task"
+			      :query [:find (pull ?h [*])
+			              :in $ ?current
+			              :where
+			              [?h :block/refs ?current]]
+			      :inputs [:current-block]
+			      :collapsed? true}
+			  #+END_QUERY
 -
