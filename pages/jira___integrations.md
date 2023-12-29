@@ -4,4 +4,4 @@
 		  tags:: [[Process/Tasks Management]], #[[Process/SDC/Issue Tracking/change-request]]
 		- **Non richiede alcune particolare permesso** per installare
 		- documentare con una miniguida per tutti in #[[doc/howtos]]
-			- possibilmente fruibile con le slide di #LogSeq #improvements
+			- possibilmente fruibile con le slide di #[[Guida d'uso LogSeq]] #improvements

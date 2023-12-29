@@ -1,5 +1,5 @@
 # Organizzazione grafo
-	- Vedere #[[LogSeq/Architettura grafo]] per architettura di questo grafo
+	- Vedere #[[Guida d'uso LogSeq/Architettura grafo]] per architettura di questo grafo
 - # Journal
 - Il journal viene creato a partire da #[[Templates/Daily Journal]]
 	- Tutte le pagine con il tag #[[Templates/Daily Journal/Tags]] possono essere utilizzare come tag nel journal
@@ -16,5 +16,5 @@
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
 	- Guida alla comprensione dei concetti fondamentali in #gsped
-	- Guida all'uso di #LogSeq si trova a [questa pagina]([[LogSeq]])
+	- Guida all'uso di #[[Guida d'uso LogSeq]] si trova a [questa pagina]([[Guida d'uso LogSeq]])
 	- Guida d'uso al framework #model/codeigniter

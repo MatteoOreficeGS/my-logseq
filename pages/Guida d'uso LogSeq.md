@@ -1,6 +1,7 @@
-tags:: #[[Process/Information Capture]], #[[Process/Process Improvement]] 
+tags:: #[[Process/Information Capture]], #[[Process/Process Improvement]]
 description:: funge sia da tag che da guida all'uso
 alias:: LogSeq
+title:: Guida d'uso LogSeq
 
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
@@ -22,7 +23,7 @@ alias:: LogSeq
 		- Un blocco é l'unitá atomica in cui é possibile scrivere qualcosa
 	- ## Pagina
 		- La pagina non é altro che un blocco particolare del tipo piú specifico **pagina** a cui corrisponde anche in maniera **1:1** un artefatto di archiviazione sul disco , ovvero un file `.md`
-- # Uso quotidiano
+- # Come usarlo nel quotidiano?
 	- Mantenimento di un giornale delle attivitá o log
 	- Mantenimento di un glossario
 	- Gestione di un proprio workflow per il Getting Things Done
@@ -38,7 +39,7 @@ alias:: LogSeq
 	- **Links bidirezionali senza sforzo**: dal momento che si crea un link da **Concetto 1** verso **Concetto 2** si ottiene anche il link inverso
 	- **Creazione di nuove pagine** in maniera **top-down** . Si evita quindi lo scenario classico adottato da molti tools che prevedono l'esistenza di una pagina prima di poter fare un link e quindi di dover concepire il percorso dell'informazione **bottom-up**.
 	- Fa risparmiare tempo e aiuta a **concentrarsi esclusivamente sul contenuto** e la struttura dimenticandosi del livello di presentazione ( che potrá comunque essere gestito in un ipotetico processo di pubblicazione )
-	- Dualismo **Tag 🔁 Pagina**: provate a pensare ad una pagina come ad un tag. Il contenuto delle vostra pagina ( o tag appunto quando conferite ad una pagina questo significato  ) potrá essere la descrizione del tag, quindi il nome di tale pagina sará il metadato utilizzato per taggare un contenuto, nel caso di #logseq un blocco o una pagina.
+	- Dualismo **Tag 🔁 Pagina**: provate a pensare ad una pagina come ad un tag. Il contenuto delle vostra pagina ( o tag appunto quando conferite ad una pagina questo significato  ) potrá essere la descrizione del tag, quindi il nome di tale pagina sará il metadato utilizzato per taggare un contenuto, nel caso di #[[Guida d'uso LogSeq]] un blocco o una pagina.
 	  id:: 656f5a7f-61a8-4d27-9861-fcd202981f28
 		- #+BEGIN_TIP
 		  **Non esiste alcun meccanismo particolare per eleggere una pagina a tag**: semplicemente dipende dal significato che voi attribuirete a quel tag: nel caso abbiate bisogno di un particolare tag per raccogliere tutti i blocchi che citano un certo argomento non farete altro che taggare tali blocchi con un tag ( quindi in realtá una pagina ) che riutilizzerete per convezione. Questo é il concetto di flessibilitá di cui parlavamo all'inizio
@@ -64,14 +65,13 @@ alias:: LogSeq
 		  ad esempio: [[topic]] non mostra il cancelletto e #topic lo mostra
 		- Nel caso volessi visualizzare il cancelletto su un link ad una pagina con spazi nel nome usa questa sintassi  `#[[Process/SDC/Continuous Integration]]`
 	- ## Inline block editing
-		- Forse una delle funzioni piú scenografiche di #LogSeq, che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
-		- Similmente alla funzione **include / page embed**  di #jira , #logseq permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
+		- Forse una delle funzioni piú scenografiche di #[[Guida d'uso LogSeq]], che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
+		- Similmente alla funzione **include / page embed**  di #jira , #[[Guida d'uso LogSeq]] permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
 		- #+BEGIN_IMPORTANT
-		  Tuttavia l'embedding di un blocco o pagina in #logseq oltre alla visualizzazione del blocco permette anche l'editing, questo implica **non spostarsi** tra le pagine **intercollegate** al solo scopo di modificarne le informazioni!
+		  Tuttavia l'embedding di un blocco o pagina in #[[Guida d'uso LogSeq]] oltre alla visualizzazione del blocco permette anche l'editing, questo implica **non spostarsi** tra le pagine **intercollegate** al solo scopo di modificarne le informazioni!
 		  #+END_IMPORTANT
-		-
 	- ## Tags
-		- Cosa é un tag in #logseq ?
+		- Cosa é un tag in #[[Guida d'uso LogSeq]] ?
 			- un modo per classificare un blocco o pagina identificando apponendo degli identificatori testuali
 			- un meccanismo che sta alla base del funzionamento di #logseq:
 				- alla creazione di un tag viene creata una pagina
@@ -83,7 +83,7 @@ alias:: LogSeq
 			  #+END_WARNING
 		- Quindi ogni pagina puó essere vista come un tag se conferiamo a questa tale significato e se é nostra intenzione riutilizzarlo piú volte
 		- Lo scopo di definire dei tag é quello di poter facilmente recuperare tutte le pagine che lo riferiscono
-		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #LogSeq crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
+		- In questa immagine vediamo che nella pagina usata come tag #[[topic/Network Thinking]] #[[Guida d'uso LogSeq]] crea un indice di tutte le altre pagine che la riferiscono, quindi dal momento che coniate un nuovo tag in automatico otterrete una pagina raccoglitore che elenca tutte le pagine che la riferiscono
 		  ![image.png](../assets/image_1701886728412_0.png)
 		- #+BEGIN_TIP
 		  L'elenco dei referenti é anche filtrabile !

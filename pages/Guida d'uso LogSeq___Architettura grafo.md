@@ -1,6 +1,6 @@
 - descrive organizzazione dei metadati
 - # Namespaced Hierarchy
-	- [Questa pagina]([[LS]]) contiene il #LogSeq/namespace nel quale sono posizionate tutte le classi per taggare blocchi e pagine.
+	- [Questa pagina]([[LS]]) contiene il #[[Guida d'uso LogSeq/namespace]] nel quale sono posizionate tutte le classi per taggare blocchi e pagine.
 - # Proprietá o tags utili e loro usi
 	- Sulla questa pagina si possono poi inserire delle query per ogni classe al fine di trovare i vari tipi di pagina
 	- ## #improvements

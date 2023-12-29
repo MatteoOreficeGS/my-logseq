@@ -43,15 +43,15 @@
 	  logseq.order-list-type:: number
 		- ricordati di **annotare sempre** le card #jira in maniera che tutti leggano l'avanzamento delle attivitá
 		  logseq.order-list-type:: number
-		- ricorda di non inserire in #LogSeq informazioni che devono essere condivise in #jira #[[Process/Knowledge Sharing]]
+		- ricorda di non inserire in #[[Guida d'uso LogSeq]] informazioni che devono essere condivise in #jira #[[Process/Knowledge Sharing]]
 		  logseq.order-list-type:: number
-		- in #LogSeq puoi ad esempio inserire
+		- in #[[Guida d'uso LogSeq]] puoi ad esempio inserire
 		  logseq.order-list-type:: number
 			- informazioni o riflessioni private che andrebbero perse
 			  logseq.order-list-type:: number
 			- tutto ció che aiuti ad estendere la rete di conoscenze di questa **knowledge base**
 			  logseq.order-list-type:: number
-		- aggiornare anche questa stessa pagina per meglio descrivere cosa  **debba** o **non debba** essere assolutamente scritto in #LogSeq
+		- aggiornare anche questa stessa pagina per meglio descrivere cosa  **debba** o **non debba** essere assolutamente scritto in #[[Guida d'uso LogSeq]]
 		  logseq.order-list-type:: number
 	- a fine giornata
 	  logseq.order-list-type:: number

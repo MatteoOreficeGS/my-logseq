@@ -12,7 +12,7 @@ filters:: {"2023.*" false}
 			- difficoltá nelle queries e filtri
 			- eventualmente creare un modello system wide per un tipo di #jira/issue dedicato #jira/admin-request #improvements/jira
 - # Proposte di templates
-	- DONE #[[Templates/Daily Journal]] da usarsi come default in #LogSeq
+	- DONE #[[Templates/Daily Journal]] da usarsi come default in #[[Guida d'uso LogSeq]]
 	- Tipi di richiesta per la sezione del Daily Journal
 	- Template per tag pages
 		- Classiche tag page, di solito contiene una spiegazione dello scopo della pagina
