@@ -19,7 +19,7 @@ type:: [[LS/Page/Journal]]
 	  template-including-parent:: false
 	  id:: 65771538-7dd3-4f9b-a39b-6925aedef47c
 		- ### LATER Riprendo Task <%setInput: suffisso%> ⏩️
-		  tags:: #event/task/resume , #daily-journal-task
+		  tags:: #event/task/resume, #topic/daily-journal-task 
 		  /e
 	- ## Creare un nuovo Task
 	  template:: new-task
