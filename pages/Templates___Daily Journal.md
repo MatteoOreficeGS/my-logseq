@@ -19,7 +19,7 @@ type:: [[LS/Page/Journal]]
 	  template-including-parent:: false
 	  id:: 65771538-7dd3-4f9b-a39b-6925aedef47c
 		- ### LATER Riprendo Task <%setInput: suffisso%> ⏩️
-		  tags:: #event/task/resume, #topic/daily-journal-task 
+		  tags:: #event/task/resume
 		  /e
 	- ## Creare un nuovo Task
 	  template:: new-task
@@ -28,7 +28,7 @@ type:: [[LS/Page/Journal]]
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 		- ### LATER <%setInput: intestazione_nuovo_task%>
-		  tags:: event/task/begin
+		  tags:: event/task/begin, #topic/daily-journal-task
 			- Descrivere il task qui
 			- #### Task reference table ↗️
 			  collapsed:: true
