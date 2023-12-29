@@ -33,12 +33,12 @@ type:: [[LS/Page/Journal]]
 			- query-table:: true
 			  collapsed:: true
 			  #+BEGIN_QUERY
-			  {:title "Riferimenti a questo task"
-			      :query [:find (pull ?h [*])
-			              :in $ ?current
-			              :where
-			              [?h :block/refs ?current]]
-			      :inputs [:current-block]
-			      :collapsed? true}
+			  {:title "Riferimenti a questo task in tabella 📄"
+			    :query [:find (pull ?h [*])
+			            :in $ ?current
+			            :where
+			            [?h :block/refs ?current]]
+			    :inputs [:parent-block]
+			    :collapsed? true}
 			  #+END_QUERY
 -
