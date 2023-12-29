@@ -15,6 +15,6 @@
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
+	- Guida alla comprensione dei concetti fondamentali in #gsped
 	- Guida all'uso di #LogSeq si trova a [questa pagina]([[LogSeq]])
 	- Guida d'uso al framework #model/codeigniter
-	- Guida alla comprensione dei concetti fondamentali in #gsped
