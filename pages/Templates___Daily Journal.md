@@ -32,7 +32,7 @@ type:: [[LS/Page/Journal]]
 			- Descrivere il task qui
 			- collapsed:: true
 			  #+BEGIN_QUERY
-			  {:title "Clicca per espandere eventuale risultati..." :query [:find (pull ?h [*])
+			  {:title "Task reference table ↗️ Click 🖱️to expand..." :query [:find (pull ?h [*])
 			        :in $ ?current
 			        :where
 			        [?current :block/parent ?parent]
