@@ -1,4 +1,5 @@
 tags:: #[[Process/Information Capture]]
+description:: funge sia da tag che da guida all'uso
 
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**

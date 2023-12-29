@@ -15,5 +15,5 @@
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
-	- Guida all'uso di #LogSeq
+	- Guida all'uso di #LogSeq si trova a
 	-
