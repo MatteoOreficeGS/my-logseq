@@ -1,1 +1,1 @@
-- Un modo per dire servizio #topic/servizio-economy
+- Un modo per dire servizio #topic/servizio-economy, ad esempio #courier/DHL usa questa analogia, e indica come servizio #topic/servizio-express quello via aerea
