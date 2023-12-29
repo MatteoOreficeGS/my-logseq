@@ -29,7 +29,7 @@ type:: [[LS/Page/Journal]]
 	  id:: 65771538-9e0a-4c95-964c-5b60a4c80435
 		- ### LATER <%setInput: intestazione_nuovo_task%>
 		  tags:: event/task/begin
-			- TODO Descrizione task
+			- Descrivere il task qui
 			- #### Task reference table ↗️
 			  collapsed:: true
 			  #+BEGIN_QUERY
