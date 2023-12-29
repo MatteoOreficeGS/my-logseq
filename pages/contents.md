@@ -14,5 +14,6 @@
 	- Vedi #[[Process/Process Improvement]]
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
-- # Guida uso
-	- Vedere #LogSeq per informazioni ed uso
+- # Guide d'uso
+	- Guida all'uso di #LogSeq
+	-
