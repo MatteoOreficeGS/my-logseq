@@ -17,6 +17,7 @@
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
+	- Tag correlati alle guide sono: #doc/howtos e #doc
 	- Guida alla comprensione dei concetti fondamentali in #gsped
 	- Guida all'uso di #[[Guida d'uso LogSeq]] si trova a [questa pagina]([[Guida d'uso LogSeq]])
 	- Guida d'uso al framework #model/codeigniter
