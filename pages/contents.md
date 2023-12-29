@@ -17,3 +17,4 @@
 - # Guide d'uso
 	- Guida all'uso di #LogSeq si trova a [questa pagina]([[LogSeq]])
 	- Guida d'uso al framework #model/codeigniter
+	- Guida alla comprensione dei concetti fondamentali in #gsped
