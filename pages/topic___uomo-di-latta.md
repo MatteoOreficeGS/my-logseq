@@ -1,0 +1,2 @@
+- é l'uomo che fa da collettore tra sviluppatori e manutenzione
+-
