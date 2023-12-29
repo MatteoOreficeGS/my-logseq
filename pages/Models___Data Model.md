@@ -1,1 +1,1 @@
-description:: un modello concettuale dei dati
+description:: un modello concettuale o fisico dei dati
