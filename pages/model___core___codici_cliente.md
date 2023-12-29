@@ -1,3 +1,3 @@
 tags:: topic/codice-contratto, #topic/codici-contratto, #topic/conventions
 
-- Recuperare dai vari post la descrizione su questa tabella e come viene popolata
+- LATER Recuperare dai vari post nelle **Linked References** informazioni su questa tabella e come venga popolata
