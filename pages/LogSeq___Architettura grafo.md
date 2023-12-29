@@ -26,7 +26,6 @@
 		- In generale i prefissi dei namespace diventano candidati per dei tipi specifici
 			- Glossary
 				- una proprietá per disambiguare
-				-
 			- Instrument: potrebbe avere diverse sottoclassi
 			- Actions
 			- Jira
@@ -43,7 +42,9 @@
 				- Classe C4
 				- Repository di archiviazione
 				- Dove é deployato
-			- Business Rules
+			- Core Concepts
+				- Business Rules
+				- #[[Models/Domain Model/Entity]]
 			- Processo
 			- Meeting o riunione, call
 				- argomento principale
