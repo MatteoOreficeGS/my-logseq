@@ -38,6 +38,9 @@
 				- tipo: Data, Domain, Object
 				- Data Model:
 					- Conceptual / Physical
+				- Model Object
+					- quale é la posizione fisica / codebase
+					- quale é la posizione logica anche se molti model non ne hanno una purtroppo
 			- Model Entity
 				- Tipo di entity: Data, Domain, Object
 				- Classe C4
