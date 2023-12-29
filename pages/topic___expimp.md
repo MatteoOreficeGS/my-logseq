@@ -1,2 +1,2 @@
-- #topic/import #topic/export
+- topic/import-export
 -
