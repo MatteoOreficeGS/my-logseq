@@ -1,8 +1,7 @@
 -
 - # Definition
 	- Any object in my [[Models/Object Model]] that also exist as a concept in my [[Models/Domain Model]] I would call a *domain object*. In the previous example, `Restaurant`, `Order` and `Customer` would all be domain objects.
-	- Not every object in a system is a domain object. Some objects are *value objects*. A value object is an object whose *identity* doesn’t matter. Examples of concepts that would make sense as value objects rather than domain objects are phone number values or money values.
-	-
+	- > Not every object in a system is a domain object. Some objects are *value objects*. A value object is an object whose *identity* doesn’t matter. Examples of concepts that would make sense as value objects rather than domain objects are phone number values or money values.
 - ## Altro
 	- The best definition of "domain object" I've found in literature is in Chapter 11 of [TimHoward](https://wiki.c2.com/?TimHoward)'s book [TheSmalltalkDevelopersGuideToVisualWorks](https://wiki.c2.com/?TheSmalltalkDevelopersGuideToVisualWorks) pp.379-381:
 		- "a domain object is a logical container of purely domain information, usually represents a logical entity in the problem domain space ... In general, domain objects should know how to
