@@ -5,6 +5,7 @@
 	- Tutte le pagine con il tag #[[Templates/Daily Journal/Tags]] possono essere utilizzare come tag nel journal
 	- Alcune parti del #[[Templates/Daily Journal]] vendono embeddate per evitare ripetizioni #[[Templates/Daily Journal/Embeds]]
 - # Long term success
+  Attivitá a lungo termine mirate
 	- ## Miglioramento processi
 	  Esplora la sezione che documenta #[[Process/Process Managament/Improvement]]
 - # Meeting recenti 🧑‍🤝‍🧑
