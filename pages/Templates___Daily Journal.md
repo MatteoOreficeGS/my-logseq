@@ -30,13 +30,14 @@ type:: [[LS/Page/Journal]]
 		- ### LATER <%setInput: intestazione_nuovo_task%>
 		  tags:: event/task/begin, #topic/daily-journal-task
 			- Descrivere il task qui
-			- #### Task reference table ↗️
-			  collapsed:: true
+			- collapsed:: true
 			  #+BEGIN_QUERY
-			  {:query [:find (pull ?h [*])
-			          :in $ ?current
-			          :where
-			          [?h :block/refs ?current]]
+			  {:title "Clicca per espandere eventuale risultati..." :query [:find (pull ?h [*])
+			        :in $ ?current
+			        :where
+			        [?current :block/parent ?parent]
+			        [?h :block/refs ?parent]
+			  ]
 			  :inputs [:parent-block]
 			  :collapsed? true}
 			  #+END_QUERY
