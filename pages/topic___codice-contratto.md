@@ -1,1 +1,2 @@
 - Viene inteso il codice contratto che il corriere ha assegnato al cliente
+- per alcuni corrieri come #courier/DHL i codici contratto possono essere molteplici, vedi ad esempio :/
