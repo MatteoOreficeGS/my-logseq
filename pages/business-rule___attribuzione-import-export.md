@@ -8,8 +8,9 @@ tags:: topic/import-export, #topic/courier-logic
 	- ### DHL
 	  tags:: #topic/courier-logic, #model/core/DHLSoapModel, #model/core/DHLModel, #model/core/codici_cliente
 		- Per DHL il cliente puó inserire in #gsped #topic/codici-contratto multipli per i vari ambiti della spedizione, es: #topic/camionistico
-		- Esistono delle funzioni che determinano il codice contratto da utilizzarsi nelle diverse condizioni
-		- Ad esempio contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`, alcuni riferimenti nel codice
+		- Esistono delle funzioni che determinano il #topic/codice-contratto **corretto** da utilizzarsi nelle diverse condizioni, es: spedizione internazionale di #topic/import
+		- I contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`, alcuni riferimenti nel codice
+		  tags:: #topic/conventions
 			- `\App\models\DHLSoapModel::codice_cliente_dhl_expimp`
 			- `\App\models\FattureRateModel::checkSpedImport`
 			- `\App\models\DHLModel::codiceClienteExpImp`
