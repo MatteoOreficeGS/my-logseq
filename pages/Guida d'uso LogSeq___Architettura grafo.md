@@ -3,7 +3,7 @@
 	- [Questa pagina]([[LS]]) contiene il #[[Guida d'uso LogSeq/namespace]] nel quale sono posizionate tutte le classi per taggare blocchi e pagine.
 - # Proprietá o tags utili e loro usi
 	- Sulla questa pagina si possono poi inserire delle query per ogni classe al fine di trovare i vari tipi di pagina
-	- ## #improvements
+	- ## Metadati orizzontali
 		- Istanza: quale istanza riguarda o cliente
 		- Cliente: quale cliente eventualmente di istanza globale
 		- Corriere: quale corriere
@@ -12,6 +12,7 @@
 			- di quale macro processo fa parte ?
 			- processo interno o esterno
 		- Sprint di sviluppo
+		- Un concetto orizzontale potrebbe essere il #topic/burning-level o '
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
