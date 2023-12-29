@@ -1,4 +1,5 @@
--
+alias:: #topic/codici-contratto
+
 - Viene inteso il codice contratto che il corriere ha assegnato al cliente
 - per alcuni corrieri come #courier/DHL i codici contratto possono essere molteplici
 	- per un esempio di salvataggio dei codici contratto multipli vedere #model/core/codici_cliente
