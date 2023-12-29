@@ -1,1 +1,1 @@
-- Una pagina del #[[Templates/Daily Journal]]
+- Il tipo di una pagina del #topic/daily-journal
