@@ -33,9 +33,9 @@ type:: [[LS/Page/Journal]]
 			- collapsed:: true
 			  #+BEGIN_QUERY
 			  {:title "Task reference table ↗️ Click 🖱️to expand..." :query [:find (pull ?h [*])
-			        :in $ ?current
+			        :in $ ?parent
 			        :where
-			        [?current :block/parent ?parent]
+			        [?parent :block/parent ?grandparent]
 			        [?h :block/refs ?parent]
 			  ]
 			  :inputs [:parent-block]
