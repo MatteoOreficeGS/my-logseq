@@ -1,5 +1,6 @@
 # Scopo
 	- descrivere i tipi di models e il loro scopo per la modellazione del software e di dominio
+	- questa gerarichia é sostanzialmente un elenco di definizioni
 - # Definizioni
   query-sort-by:: page
   query-sort-desc:: true
