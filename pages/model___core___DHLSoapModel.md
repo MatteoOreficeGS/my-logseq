@@ -1,4 +1,4 @@
 # Metodi
 - ## codice_cliente_dhl_expimp
-  tags:: #business-rule/spedizione-import, #topic/import-export
+  tags:: #business-rule/controllo-spedizione-import, #topic/import-export
 	- determina
