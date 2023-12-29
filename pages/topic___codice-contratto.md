@@ -1,0 +1,1 @@
+- Viene inteso il codice contratto che il corriere ha assegnato al cliente
