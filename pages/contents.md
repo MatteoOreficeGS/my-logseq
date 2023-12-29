@@ -16,4 +16,4 @@
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
 	- Guida all'uso di #LogSeq si trova a [questa pagina]([[LogSeq]])
-	- Guida d'uso
+	- Guida d'uso al framework #model/codeigniter
