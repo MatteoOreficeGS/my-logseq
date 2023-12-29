@@ -1,5 +1,6 @@
-tags:: #[[Process/Information Capture]]
+tags:: #[[Process/Information Capture]], #[[Process/Process Improvement]] 
 description:: funge sia da tag che da guida all'uso
+alias:: LogSeq
 
 - # Scopo
 	- Questa pagina sintetizza alcune informazioni utili riguardo a "a cosa serve" e "come usare" **LogSeq**
