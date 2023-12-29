@@ -1,4 +1,4 @@
-tags:: #[[Process/Information Capture]], #[[Process/Process Managament/Improvement]]
+tags:: #[[Process/Information Capture]], #[[Process/Process Managament/Improvement]], #doc/howtos 
 description:: funge sia da tag che da guida all'uso
 alias:: LogSeq
 title:: Guida d'uso LogSeq
