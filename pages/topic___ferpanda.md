@@ -1,0 +1,1 @@
+- si usa per indicare il cossiddetto **parallelismo Ferrari Panda**
