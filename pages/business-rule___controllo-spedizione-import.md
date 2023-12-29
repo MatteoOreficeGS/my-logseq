@@ -10,5 +10,7 @@ tags:: topic/import-export, #topic/courier-logic
 	- ### DHL
 	  tags:: #topic/courier-logic, #model/core/DHLSoapModel, #model/core/DHLModel 
 	  Per DHL il cliente indica codici contratto multipli, esistono poi delle funzioni che determinano il codice contratto da utilizzarsi in diverse condizioni, i contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`, alcuni riferimenti nel codice
-		-
+		- `\App\models\DHLSoapModel::codice_cliente_dhl_expimp`
+		- `\App\models\FattureRateModel::checkSpedImport`
+		- `\App\models\DHLModel::codiceClienteExpImp`
 -
