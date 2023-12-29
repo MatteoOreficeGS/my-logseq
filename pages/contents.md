@@ -1,11 +1,9 @@
-# Organizzazione grafo
-	- Vedere #[[Guida d'uso LogSeq/Architettura grafo]] per architettura di questo grafo
-- # Journal
+# Journal
 - Il journal viene creato a partire da #[[Templates/Daily Journal]]
 	- Tutte le pagine con il tag #[[Templates/Daily Journal/Tags]] possono essere utilizzare come tag nel journal
 	- Alcune parti del #[[Templates/Daily Journal]] vendono embeddate per evitare ripetizioni #[[Templates/Daily Journal/Embeds]]
-- # Long term success
-  Attivitá a lungo termine mirate
+- # Long term success 🎯
+  Obiettivi a lungo termine a cui mirare
 	- ## Miglioramento processi
 	  Esplora la sezione che documenta #[[Process/Process Managament/Improvement]]
 - # Meeting recenti 🧑‍🤝‍🧑
@@ -14,6 +12,8 @@
 	  query-properties:: [:block :page]
 	  query-sort-by:: page
 	  query-sort-desc:: true
+- # Organizzazione grafo
+	- Vedere #[[Guida d'uso LogSeq/Architettura grafo]] per architettura di questo grafo
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
