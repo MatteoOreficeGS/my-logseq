@@ -5,8 +5,8 @@
 	- Tutte le pagine con il tag #[[Templates/Daily Journal/Tags]] possono essere utilizzare come tag nel journal
 	- Alcune parti del #[[Templates/Daily Journal]] vendono embeddate per evitare ripetizioni #[[Templates/Daily Journal/Embeds]]
 - # Long term success
-- # Miglioramento processi
-	- Vedi #[[Process/Process Improvement]]
+	- ## Miglioramento processi
+	  Esplora la sezione che documenta #[[Process/Process Improvement]]
 - # Meeting recenti 🧑‍🤝‍🧑
 	- {{query (and [[meeting]] (not (page [[Process/Collaboration/Meeting]])) (not (page [[Templates]])) (not (page [[meeting]])))}}
 	  query-table:: true
