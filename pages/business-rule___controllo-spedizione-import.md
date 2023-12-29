@@ -8,6 +8,7 @@ tags:: topic/import-export, #topic/courier-logic
 	- quali altri dati potrebbero servire per determinare se una spedizione é di tipo import in generale ?
 		- oltrepassare confini nazionali per questioni geografiche ?
 	- ### DHL
-	  tags:: #topic/courier-logic
-	  Per DHL il cliente indica codici contratto multipli, esistono poi delle funzioni che determinano il codice contratto da utilizzarsi in diverse condizioni, i contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`
+	  tags:: #topic/courier-logic, #model/core/DHLSoapModel, #model/core/DHLModel 
+	  Per DHL il cliente indica codici contratto multipli, esistono poi delle funzioni che determinano il codice contratto da utilizzarsi in diverse condizioni, i contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`, alcuni riferimenti nel codice
+		-
 -
