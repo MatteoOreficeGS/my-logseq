@@ -11,6 +11,8 @@ tags:: topic/import-export, #topic/courier-logic
 		- Esistono delle funzioni che determinano il #topic/codice-contratto **corretto** da utilizzarsi nelle diverse condizioni, es: spedizione internazionale di #topic/import
 		- I contratti DHL sono salvati in #model/core/codici_cliente con una notazione separata da pipe `|`, alcuni riferimenti nel codice
 		  tags:: #topic/conventions
-			- `\App\models\DHLSoapModel::codice_cliente_dhl_expimp`
-			- `\App\models\FattureRateModel::checkSpedImport`
-			- `\App\models\DHLModel::codiceClienteExpImp`
+		  ```
+		  \App\models\DHLSoapModel::codice_cliente_dhl_expimp
+		  \App\models\FattureRateModel::checkSpedImport
+		  \App\models\DHLModel::codiceClienteExpImp
+		  ```
