@@ -35,6 +35,7 @@
 			- Model
 				- inteso come il modello complessivo che contiene le singole entities
 				- tipo: Data, Domain, Object
+				- Il tipo Data Ob
 			- Model Entity
 				- Tipo di entity: Data, Domain, Object
 				- Classe C4
