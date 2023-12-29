@@ -1,4 +1,4 @@
-tags:: [[Process/Process Improvement]], [[Process/Collaboration/Meeting/StandUp]], #doc/howtos, #Process/Collaboration/Meeting, #doc/howtos
+tags:: [[Process/Process Managament/Improvement]], [[Process/Collaboration/Meeting/StandUp]], #doc/howtos, #Process/Collaboration/Meeting, #doc/howtos
 
 - # Articoli
 	- ## Confluence, Alex Ricci

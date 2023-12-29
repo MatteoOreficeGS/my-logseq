@@ -224,7 +224,7 @@
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :group-by-page? false
-    :collapsed? false}
+    :collapsed? true}
    {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
@@ -238,23 +238,6 @@
             [(< ?d ?next)]
     ]
     :inputs [:today :7d-after]
-    :group-by-page? false
-    :collapsed? false}
-   {:title "🔨 NOW"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?today
-            :where
-            [?h :block/marker ?marker]
-            [(contains? #{"NOW" "DOING"} ?marker)]
-            [?h :block/page ?p]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
-            [(>= ?d ?start)]
-            [(<= ?d ?today)]]
-    :inputs [:14d :today]
-    :result-transform (fn [result]
-                        (sort-by (fn [h]
-                                   (get h :block/priority "Z")) result))
     :group-by-page? false
     :collapsed? false}
    ]}
@@ -311,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["troubleshooting/solution" "Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["guida d'uso logseq/architettura grafo" "troubleshooting/solution" "Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:

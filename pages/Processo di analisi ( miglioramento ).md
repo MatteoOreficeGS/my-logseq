@@ -1,4 +1,4 @@
-tags:: #[[Process/Process Improvement]] , #Process/SDC/Analisi
+tags:: #[[Process/Process Managament/Improvement]] , #Process/SDC/Analisi
 
 - NOW Analizzare e provare a creare una presentazione
   :LOGBOOK:

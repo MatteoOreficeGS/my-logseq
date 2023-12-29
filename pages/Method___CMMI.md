@@ -1,1 +1,1 @@
-- Un metodo per il miglioramento dei #[[Process/Process Improvement]]
+- Un metodo per il miglioramento dei #[[Process/Process Managament/Improvement]]

@@ -6,7 +6,7 @@
 	- Alcune parti del #[[Templates/Daily Journal]] vendono embeddate per evitare ripetizioni #[[Templates/Daily Journal/Embeds]]
 - # Long term success
 	- ## Miglioramento processi
-	  Esplora la sezione che documenta #[[Process/Process Improvement]]
+	  Esplora la sezione che documenta #[[Process/Process Managament/Improvement]]
 - # Meeting recenti 🧑‍🤝‍🧑
 	- {{query (and [[meeting]] (not (page [[Process/Collaboration/Meeting]])) (not (page [[Templates]])) (not (page [[meeting]])))}}
 	  query-table:: true
