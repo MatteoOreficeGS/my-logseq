@@ -14,5 +14,7 @@ tags:: topic/import-export, #topic/courier-logic
 		  ```
 		  \App\models\DHLSoapModel::codice_cliente_dhl_expimp
 		  \App\models\FattureRateModel::checkSpedImport
+		  # alla data 2023-12-29 questo metodo non usa il client_id ma definisce import in maniera statica
+		  # in base al fatto che la country del destinatario sia 'IT'
 		  \App\models\DHLModel::codiceClienteExpImp
 		  ```
