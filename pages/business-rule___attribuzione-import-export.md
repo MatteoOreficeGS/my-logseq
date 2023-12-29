@@ -1,7 +1,7 @@
 tags:: topic/import-export, #topic/courier-logic
 
 - Per poter determinare se una spedizione é di tipo import sono necessarie queste condizioni :
-	- la ISO country code del #model/core/cliente che bolletta la spedizione deve risultare uguale all'ISO country code del #model/core/destinatario della spedizione #topic/iso-country-code
+	- la ISO country code del #model/core/cliente che bolletta la spedizione deve risultare uguale all'#topic/iso-country-code  del #model/core/destinatario della spedizione
 	- la spedizione deve essere #topic/internazionale #business-rule/determinazione-ambito-internazionale
 		- #action/ask-question #people/fabio-alessio é corretto dire cosi ? #question
 			- questa decisione potrebbe essere diversa per corriere ?
