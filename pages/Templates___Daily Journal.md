@@ -30,7 +30,8 @@ type:: [[LS/Page/Journal]]
 		- ### LATER <%setInput: intestazione_nuovo_task%>
 		  tags:: event/task/begin, #topic/daily-journal-task
 			- Descrivere il task qui
-			- collapsed:: true
+			- query-table:: true
+			  collapsed:: true
 			  #+BEGIN_QUERY
 			  {:title "Task reference table ↗️ Click 🖱️to expand..." :query [:find (pull ?h [*])
 			        :in $ ?parent
