@@ -3,4 +3,4 @@ tags:: #[[Models/Object Model/Object]]
 - # Metodi
 - ## codice_cliente_dhl_expimp
   tags:: #business-rule/attribuzione-import-export, #topic/import-export
-	- determina
+	- determina il giusto codice cliente a seconda
