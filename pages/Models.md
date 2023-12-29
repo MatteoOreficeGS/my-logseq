@@ -1,5 +1,5 @@
 # Scopo
-	- documentare
+	- descrivere i tipi di models e il loro scopo per la modellazione del software e di dominio
 - # Definizioni
   query-sort-by:: page
   query-sort-desc:: true
