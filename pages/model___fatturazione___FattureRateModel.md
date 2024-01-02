@@ -23,7 +23,7 @@ tags:: #[[Models/Object Model/Object]]
 		- Installare il plugin ((657c6627-98d6-4e6b-8ec0-22e7d97a015f))
 		- Aprire il file di log `.txt`
 		- `CTRL+SHIFT+A` e digitare grep
-		- Inserire questa regexp `(CHECK: Il limite|\[nome\] =>|\[id\] =>|Numero tariffe recuperate|Nessuna fascia|Query scelta tariffe|controllo zone|applica tariffa|MAX tra PESO|VOLUME|RPV|\*\(.*/.*\)|MIN_TAX COMPARISION|ORIGINAL|ROUNDED)` `(CHECK: Il limite|\[nome\] =>|\[id\] =>|Numero tariffe recuperate|Nessuna fascia|Query scelta tariffe|controllo zone|applica tariffa|MAX tra PESO|VOLUME|RPV|\*\(.*/.*\)|MIN_TAX COMPARISION|ORIGINAL|ROUNDED)`
+		- Inserire questa regexp `(CHECK: Il limite|\[nome\] =>|\[id\] =>|Numero tariffe recuperate|Nessuna fascia|Query scelta tariffe|controllo zone|applica tariffa|MAX tra PESO|VOLUME|RPV|\*\(.*/.*\)|MIN_TAX COMPARISION|ORIGINAL|ROUNDED)`
 		- Marcare spunta regexp e case sensitive
 		- ![image.png](../assets/image_1702651042535_0.png)
 		- Ricordare questa mappatura per i servizi: i servizi vengono ricavati con questo filtro e poi tradocci in codici letterali
