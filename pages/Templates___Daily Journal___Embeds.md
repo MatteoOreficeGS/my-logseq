@@ -14,7 +14,7 @@
 	  CLOCK: [2023-12-14 Thu 12:41:17]
 	  CLOCK: [2023-12-14 Thu 12:41:19]
 	  :END:
-	- LATER Integrare nel documento 
+	- LATER Integrare nel documento [Carrellata di difetti nel codice](https://gsped.atlassian.net/wiki/spaces/~642a8bc572a895c404218f0e/pages/1119944749/Carrellata+di+difetti+nel+codice) le comuni osservazioni su difetti nel codice
 	  SCHEDULED: <2023-12-14 Thu .+1d>
 - ### Esempio di Attivitá
   id:: 6565c304-9cba-4238-91e6-36a5a4b45930
