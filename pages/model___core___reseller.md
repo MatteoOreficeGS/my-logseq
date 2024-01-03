@@ -1,3 +1,3 @@
 tags:: [[Models/Domain Model/Entity]]
 
-- Un tipo di #model/core/cliente che di solito rivende spedizioni
+- Un tipo di #model/core/clienti che di solito rivende spedizioni
