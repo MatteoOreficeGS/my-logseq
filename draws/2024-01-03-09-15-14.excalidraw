@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "ellipse",
-      "version": 46,
-      "versionNonce": 136930542,
+      "version": 63,
+      "versionNonce": 2068424413,
       "isDeleted": false,
       "id": "_VjN09mO_brLPL_lGc-LY",
       "fillStyle": "hachure",
@@ -15,8 +15,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 448,
-      "y": 286.40625,
+      "x": 218,
+      "y": 229.40625,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 119,
@@ -27,7 +27,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1704269733731,
+      "updated": 1704270085999,
       "link": null,
       "locked": false
     }
