@@ -5,29 +5,29 @@
   "elements": [
     {
       "type": "ellipse",
-      "version": 63,
-      "versionNonce": 2068424413,
+      "version": 22,
+      "versionNonce": 171035869,
       "isDeleted": false,
-      "id": "_VjN09mO_brLPL_lGc-LY",
+      "id": "qVC4Dn6QwWx0Bu1tdEnZE",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 218,
-      "y": 229.40625,
+      "x": 440,
+      "y": 220,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 119,
-      "height": 116,
-      "seed": 1476276402,
+      "width": 120,
+      "height": 120,
+      "seed": 1418380093,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1704270085999,
+      "updated": 1704270134314,
       "link": null,
       "locked": false
     }
