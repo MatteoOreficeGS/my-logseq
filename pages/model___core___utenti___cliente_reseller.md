@@ -1,0 +1,1 @@
+- É una chiave esterna che fa riferimento ad un client id
