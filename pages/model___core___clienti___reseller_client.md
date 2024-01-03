@@ -1,0 +1,1 @@
+- Sembra essere esclusivamente utilizzato nel #[[Models/Object Model/Object/RestController]] denominato #model/core/Clientireseller al fine di limitare le operazioni a quelli che
