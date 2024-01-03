@@ -1,2 +1,3 @@
 - É una chiave esterna che fa riferimento ad un client id di appartenenza dell'utente
 - É una #information-architecture/association 1:N #action/question ?
+  tags:: #issue/information-architecture, #issue/design
