@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "ellipse",
-      "version": 22,
-      "versionNonce": 171035869,
+      "version": 23,
+      "versionNonce": 1066121907,
       "isDeleted": false,
       "id": "qVC4Dn6QwWx0Bu1tdEnZE",
       "fillStyle": "hachure",
@@ -26,10 +26,50 @@
       "roundness": {
         "type": 2
       },
-      "boundElements": [],
-      "updated": 1704270134314,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "FB2LpT9tueqFCXZTA-G7U"
+        }
+      ],
+      "updated": 1704270135646,
       "link": null,
       "locked": false
+    },
+    {
+      "id": "FB2LpT9tueqFCXZTA-G7U",
+      "type": "text",
+      "x": 469.9936294447251,
+      "y": 242.57359312880715,
+      "width": 60.15992736816406,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 398457245,
+      "version": 39,
+      "versionNonce": 2113809811,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1704270152819,
+      "link": null,
+      "locked": false,
+      "text": "ricava\ncodice\nexpimp",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 68,
+      "containerId": "qVC4Dn6QwWx0Bu1tdEnZE",
+      "originalText": "ricava\ncodice\nexpimp",
+      "lineHeight": 1.25
     }
   ],
   "appState": {
