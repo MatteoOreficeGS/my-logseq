@@ -1,5 +1,5 @@
 - I blocchi di questa pagina vengono inclusi dal #[[Templates/Daily Journal]] al fine di non duplicare ogni volta, possono essere inclusi singolarmente
-- ### Task ricorrenti
+- ### Task ricorrenti / Recuy
   Questi task sono ricorrenti e quindi vengono visti sempre al fondo del journal
 	- LATER Analizzare le #topic/pull-request  degli altri per approvarle
 	  SCHEDULED: <2023-12-14 Thu .+1d>
