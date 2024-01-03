@@ -1,1 +1,3 @@
-- Sembra essere esclusivamente utilizzato nel #[[Models/Object Model/Object/RestController]] denominato #model/core/Clientireseller al fine di limitare le operazioni a quelli che
+- É un flag booleano
+- Sembra essere esclusivamente utilizzato nel #[[Models/Object Model/Object/RestController]] denominato #model/core/Clientireseller al fine di limitare le operazioni a quei record che hanno questo flag alzato
+- Vedi anche
