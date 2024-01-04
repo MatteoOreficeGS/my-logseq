@@ -1,0 +1,1 @@
+- [PS22-412|Integrazione provider pagamento Ingenico](https://gsped.atlassian.net/browse/PS22-412)
