@@ -64,6 +64,8 @@ title:: Guida d'uso LogSeq
 		- Altra differenza nelle due sintassi precedenti é la maniera in cui si visualizzano i link
 		  ad esempio: [[topic]] non mostra il cancelletto e #topic lo mostra
 		- Nel caso volessi visualizzare il cancelletto su un link ad una pagina con spazi nel nome usa questa sintassi  `#[[Process/SDC/Continuous Integration]]`
+	- ## Ricerca
+		- ### Popup search
 	- ## Inline block editing
 		- Forse una delle funzioni piú scenografiche di #[[Guida d'uso LogSeq]], che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
 		- Similmente alla funzione **include / page embed**  di #jira , #[[Guida d'uso LogSeq]] permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
