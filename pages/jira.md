@@ -1,1 +1,1 @@
-alias:: #j
+alias:: #J
