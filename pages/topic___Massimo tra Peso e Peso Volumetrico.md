@@ -1,3 +1,2 @@
-tags:: #[[topic/peso tassato]]
-
+- tags:,: #[[topic/peso tassato]]
 - Un modo per determinare #[[topic/peso tassato]]
