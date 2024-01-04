@@ -66,6 +66,9 @@ title:: Guida d'uso LogSeq
 		- Nel caso volessi visualizzare il cancelletto su un link ad una pagina con spazi nel nome usa questa sintassi  `#[[Process/SDC/Continuous Integration]]`
 	- ## Ricerca
 		- ### Popup search
+			- LogSeq
+		- ### Snart search
+			- Esiste un plugin che si chiama Smart Search
 	- ## Inline block editing
 		- Forse una delle funzioni piú scenografiche di #[[Guida d'uso LogSeq]], che vi fará pensare: "quanto lavoro mi avrebbe evitato?"
 		- Similmente alla funzione **include / page embed**  di #jira , #[[Guida d'uso LogSeq]] permette di fare un embed di un **blocco** o di una **pagina**, e fino a qui le cose non stanno diversamente, in questo modo evitate di creare un duplicato di testo nella vostra #topic/knowledge-base ...
