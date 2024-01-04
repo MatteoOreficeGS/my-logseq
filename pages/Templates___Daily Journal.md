@@ -8,6 +8,7 @@ type:: [[LS/Page/Journal]]
 	- # Attivitá
 	  {{renderer :smartblock, resume-task, Resume Task ⏩️, false}} {{renderer :smartblock, new-task, New Task ➕, false}}
 	- # Aiuto compilazione
+	  collapsed:: true
 	  Se hai bisogno di aiuto nelle compilazioni ecco alcuni riferimenti utili, questi blocchi sono inclusi con embed per evitare duplicazioni
 		- {{embed ((6565c304-9cba-4238-91e6-36a5a4b45930))}}
 		- {{embed ((6565c304-72f1-40e2-b2ac-a2eab69b4998))}}
@@ -17,7 +18,7 @@ type:: [[LS/Page/Journal]]
 	  template:: resume-task
 	  template-including-parent:: false
 	  id:: 65771538-7dd3-4f9b-a39b-6925aedef47c
-		- ### LATER Riprendo Task <%setInput: suffisso%> ⏩️
+		- ### Riprendo Task <%setInput: suffisso%> ⏩️
 		  tags:: #event/task/resume
 		  /e
 	- ## Creare un nuovo Task
