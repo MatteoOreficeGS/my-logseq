@@ -50,8 +50,8 @@
     },
     {
       "type": "text",
-      "version": 480,
-      "versionNonce": 1479782641,
+      "version": 481,
+      "versionNonce": 1760496415,
       "isDeleted": false,
       "id": "FB2LpT9tueqFCXZTA-G7U",
       "fillStyle": "hachure",
@@ -70,7 +70,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1704354088357,
+      "updated": 1704354390775,
       "link": null,
       "locked": false,
       "fontSize": 12.53333333333333,
@@ -81,7 +81,7 @@
       "containerId": "qVC4Dn6QwWx0Bu1tdEnZE",
       "originalText": "ricava\ncodice\nexpimp",
       "lineHeight": 1.25,
-      "baseline": 41
+      "baseline": 42
     },
     {
       "type": "ellipse",
@@ -931,8 +931,8 @@
     },
     {
       "type": "text",
-      "version": 43,
-      "versionNonce": 318882559,
+      "version": 44,
+      "versionNonce": 699529809,
       "isDeleted": false,
       "id": "fAGv1MQ6OVnjrQP8MVrt-",
       "fillStyle": "hachure",
@@ -951,7 +951,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1704354088362,
+      "updated": 1704354390779,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -962,7 +962,7 @@
       "containerId": "mkdvryo4VJhOdGtgBkUqB",
       "originalText": "client id",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -1003,8 +1003,8 @@
     },
     {
       "type": "text",
-      "version": 132,
-      "versionNonce": 1764700273,
+      "version": 133,
+      "versionNonce": 2118012735,
       "isDeleted": false,
       "id": "yRyZdjkj4xr9q2Y1dkLmP",
       "fillStyle": "hachure",
@@ -1023,7 +1023,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1704354088363,
+      "updated": 1704354390779,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1034,7 +1034,7 @@
       "containerId": "CwJR2r3imIYesFHRek8CR",
       "originalText": "invoiced\nclient id",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 42
     },
     {
       "type": "arrow",
