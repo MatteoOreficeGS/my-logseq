@@ -67,7 +67,8 @@ title:: Guida d'uso LogSeq
 	- ## Ricerca
 		- ### Popup search
 			- LogSeq permette di aprire la ricerca con **CTRL+K**
-			-
+			- Nella ricerca potete anche creare pagina da zero se non esistono
+			- Usando lo slash **/** potete mettere in and e ridurre il set di risultati
 		- ### Smart search
 			- Esiste un plugin che si chiama **Smart Search** che permette di fare una ricerca con diverse action nel punto in cui vi trovate richiamabile con la #topic/shortcut **CTRL+SPACE**
 	- ## Inline block editing
