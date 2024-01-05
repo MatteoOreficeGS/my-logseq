@@ -12,20 +12,20 @@ tags:: #issue
   CLOCK: [2023-11-09 Thu 09:02:28]--[2023-11-09 Thu 09:02:28] =>  00:00:00
   :END:
 	- ## Elencare tutti i client id per cui non esiste una tariffa
-	  tags:: troubleshooting/solution
+	  tags:: troubleshooting/solution, #topic/logs/analisi
 		- ```shell
 		  grep 'Risposta.*Rate.*15386' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
 	- ## Mostrare risposte #[[model/fatturazione/FattureRateModel]]  dal log `CtrFatt.log`
-	  tags:: troubleshooting/solution
+	  tags:: troubleshooting/solution, #topic/logs/analisi
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \
 		  	grep -oP 'Rate response":"\K.*' | sort -h | uniq
 		  ```
 	- ## Estrarre dal log `CtrFatt.log` solo un'elaborazione
-	  tags:: troubleshooting/solution
+	  tags:: troubleshooting/solution, #topic/logs/analisi
 		- ```shell
 		  zcat /tmp/CtrFatGsped.log | \
 		  	sed -ne  '/Inizio elaborazione.*15829/,/Tempo di elaborazione.*"15829"/p' \
