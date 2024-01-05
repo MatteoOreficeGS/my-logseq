@@ -19,7 +19,7 @@
 - # Guide d'uso
 	- Tag correlati alle guide sono: #doc/howtos e #doc
 	  {{query (or (page-tags [[doc/howtos]]) (page-tags [[doc/team]]) (page-tags [[process/knowledge sharing]]))}}
-	- Guida alla comprensione dei concetti fondamentali in #gsped
+	- Guida alla comprensione dei concetti fondamentali in #gsped, #topic/key-concept, ancora
 	- Guida all'uso di #[[Guida d'uso LogSeq]] si trova a [questa pagina]([[Guida d'uso LogSeq]])
 	- Guida d'uso al framework #model/codeigniter
 	- [[Guida d'uso Jira per utenti]]
