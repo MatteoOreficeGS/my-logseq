@@ -1,3 +1,4 @@
 - il tipo di dato contenuto in questo campo é una stringa in #topic/iso-country-code
 - la country indica dove il cliente ha la sede fisica del magazzino
 	- vedere i concetti legati #business-rule/attribuzione-import-export
+-
