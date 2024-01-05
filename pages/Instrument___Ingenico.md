@@ -1,0 +1,2 @@
+# Hosted Checkout Ingenico
+-
