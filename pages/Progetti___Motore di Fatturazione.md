@@ -1,4 +1,5 @@
--
+alias:: [[Progetti/Controllo Fatture]]
+
 - # Problemi noti
   tags:: #issue
 	- gli utenti in primis sbagliano il formato del file #topic/UX #[[Progetti/Gsped Legacy]]
