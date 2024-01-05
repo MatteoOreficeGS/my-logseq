@@ -1,1 +1,1 @@
-- Una issue legata all'impossibilitá o
+- Una issue legata all'impossibilitá di prendere decisioni senza intervento dall'alto
