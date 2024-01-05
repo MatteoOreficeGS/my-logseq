@@ -16,7 +16,7 @@
 		- Nel caso dell'uso generico dei tags, non sarebbe male indicare su ogni pagina che potrebbe essere un tag alcuni scope su cui utilizzarlo, in questo modo si puó suggerire alle persone di usare un tag a partire da un elenco degli scope
 			- forse con una query si potrebbero ricavare i tags che vengono affiancati al tag
 			- in ogni caso le query sarebbero due ovvero :
-				- mostra i tags
+				- mostra un elenco dei tags unici che compaiono su ogni blocco a lato
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
