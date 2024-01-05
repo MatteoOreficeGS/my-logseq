@@ -13,7 +13,8 @@
 			- processo interno o esterno
 		- Sprint di sviluppo
 		- Un **concetto orizzontale** potrebbe essere il #topic/burning-level o #topic/interest-level che indica appunto quanto da noi é **caldo il tema**
-		- Nel caso dell'uso generico dei tags, non sarebbe male indicare su ogni pagina che potrebbe essere un tag alcuni scope su cui utilizzarlo
+		- Nel caso dell'uso generico dei tags, non sarebbe male indicare su ogni pagina che potrebbe essere un tag alcuni scope su cui utilizzarlo, in questo modo si puó suggerire alle persone di usare un tag a partire da un elenco degli scope
+			- forse con una query si potrebbe
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
