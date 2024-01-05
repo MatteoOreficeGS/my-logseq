@@ -14,8 +14,8 @@ tags:: #[[Models/Object Model/Object]]
 		- nella prima parte c'é un un if 👿 che lascia sfuggire alcune condizioni #issue/code #issue/bug
 		- gli esuberi potrebbero essere calcolati meglio e in maniera piú flessibile ((6555222a-3562-4770-b8ba-f64a070f7cc7))
 		- proseguire a documentare #action/doc
-- # Soluzione ai problemi comuni
-  tags:: #troubleshooting
+- # Soluzioni ai problemi comuni
+  tags:: #troubleshooting/solution, #troubleshooting 
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## FattureRate: Filtrare log selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
 	  id:: fb99f650-ffad-4b58-bd10-4dec0dc86850
@@ -33,7 +33,6 @@ tags:: #[[Models/Object Model/Object]]
 	- ## Esaminare log chiamata FattureRate su #env/staging 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
 	  tags:: #[[model/fatturazione/FattureRateModel]], #troubleshooting/solution
-	  collapsed:: true
 		- Per poter esaminare il log dobbiamo usare la macchina di staging
 		- effettuare una chiamata come la seguente
 		- ```
@@ -66,6 +65,7 @@ tags:: #[[Models/Object Model/Object]]
 		- Conviene creare documentazione di alto livello per i componenti di GSped, ad esempio il modello #[[Instrument/C4]] puó essere usato per descrivere ad alto livello un sistema
 		- Inoltre andrebbero #[[model/fatturazione/FattureRateModel]]
 - # Problemi noti
+  tags:: #issue
 	- Il metodo checkReseller non dovrebbe decidere se utilizzare un client id ( invoiced o normale ) indicato sulla `$sped`, questo dovrebbe essere passato da fuori e fine #issue/design
 		- la responsabilitá di scegliere quale client id utilizzare dovrebbe spettare al chiamate
 		- le tariffe non hanno relazione alcuna con il concetto di #model/core/reseller
