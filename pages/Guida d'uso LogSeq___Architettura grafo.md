@@ -17,7 +17,7 @@
 			- forse con una query si potrebbero ricavare i tags che vengono affiancati al tag
 			- in ogni caso le query sarebbero due ovvero :
 				- mostra un elenco dei tags distinct che compaiono su ogni blocco che contiene la proprietá che sará utilizzata per indicare il tipo di blocco, es: **type**
-				- onestamente non so se si possa fare un elenco di tags intesi come pagine accumulandolo, forse con clojure
+				- onestamente non so se si possa fare un elenco di tags intesi come pagine accumulandolo, forse con clojure in `:result-transform`
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
