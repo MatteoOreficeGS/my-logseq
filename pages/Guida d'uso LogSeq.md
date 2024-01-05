@@ -117,12 +117,14 @@ title:: Guida d'uso LogSeq
 	- Gli assets incollati come immagini vengono creati come link o files, in particolare il comportamento di creazione files puó essere forzato anche sui link
 	- L'indice di ricerca viene creato in una cartella priva e non viene mescolato con quanto viene versionato eventualmente nella cartella principale
 - # Pubblicazione
+  tags:: #doc/public, #issue/sharing/knowledge
 	- ## On-premise
 	  id:: 655744a8-9998-4cf1-b139-a3cec80f75ad
 		- Si puó pubblicare anche su proprio server https://devops.bike/publish-your-notes-as-site #topic/on-premise
 	- ## Documenti
 		- Export in vari formati
 	- ## GitHub Pages
+	  tags:: #logseq/publish-spa
 		- https://github.com/logseq/publish-spa
 		-
 - # Open Issues
