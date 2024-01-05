@@ -13,6 +13,7 @@
 			- processo interno o esterno
 		- Sprint di sviluppo
 		- Un **concetto orizzontale** potrebbe essere il #topic/burning-level o #topic/interest-level che indica appunto quanto da noi é **caldo il tema**
+		- Nel caso dell'uso generico dei tags, non sareb
 	- ## Journal
 		- trovare un sistema basato su **tag** oppure **props** per elencare i tags utilizzabili nelle righe del journal
 			- in questo modo sará facile trovare tramite query i vari task della GTD
