@@ -1,0 +1,1 @@
+- [FT-123|Il confronto codice addebito in  `costi_accessori_master` e il codice indicato nella fattura avviene su case diversi](https://gsped.atlassian.net/browse/FT-123) /up
