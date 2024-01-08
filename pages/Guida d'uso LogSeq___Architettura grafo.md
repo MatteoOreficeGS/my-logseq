@@ -61,6 +61,7 @@
 				- riferimento a lista argomenti
 				- actions finali
 				- data
+			- Contatti utili per i vari corrieri, persone di riferimento
 		- DONE Fare un test per uso namespace nelle properties
 			- ~~i nomi delle properties non possono usare i namespace~~
 	- ## Altre cose che vengono in mente
