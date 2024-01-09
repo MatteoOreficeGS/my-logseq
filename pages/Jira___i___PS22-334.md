@@ -1,1 +1,1 @@
-- PS
+- [PS22-334|Analisi refactoring metodo DHLSoapModel::codice_cliente_dhl_expimp() ](https://gsped.atlassian.net/browse/PS22-334)
