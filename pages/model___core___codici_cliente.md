@@ -4,6 +4,6 @@ tags:: topic/codice-contratto, #topic/codici-contratto, #topic/conventions
 - # Campi
 	- ## cliente_corriere
 		- valori non validi
-			- `|||`
-			- `0`
-			- `""`
+			- `|||` tre pipes
+			- `"0"` il valore zero stringa
+			- `""` la stringa vuota
