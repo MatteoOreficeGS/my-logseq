@@ -23,7 +23,7 @@
 	       [d
 	         (distinct (flatten (map
 	           (fn [val]
-	             (clojure.core.re-find (clojure.core.re-pattern "\\s*,\\s*") val) 
+	             (clojure.string/split val clojure.core/re-pattern "\\s*,\\s*")
 	           )
 	           vals
 	         )))
