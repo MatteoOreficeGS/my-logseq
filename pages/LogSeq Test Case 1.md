@@ -23,7 +23,7 @@
 	       [d
 	         (distinct (flatten (map
 	           (fn [val]
-	             (into [] val)
+	             (clojure.string/split val ",")
 	           )
 	           vals
 	         )))
