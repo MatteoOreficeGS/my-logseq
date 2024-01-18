@@ -13,12 +13,12 @@
 	     :where
 	       [?tag :block/original-name "mytag"]
 	       [?b :block/refs ?tag]
-	       [?b :block/page ?p]
-	       [?p :block/properties ?props]
+	       [?b :block/properties ?props]
 	       [(get ?props :tags) ?tags]
 	       [(contains? ?tags "mytag")]
 	       [(get ?props :myprop) ?myprop-vals]
 	   ]
 	  }
 	  #+END_QUERY
+	-
 	-
