@@ -7,4 +7,18 @@
 	  tags:: mytag
 	  myprop:: val4, val5, val1
 - ## Query
+	- #+BEGIN_QUERY
+	  {
+	   :query [:find ?myprop-vals
+	     :where
+	       [?tag :block/original-name "mytag"]
+	       [?b :block/refs ?tag]
+	       [?b :block/page ?p]
+	       [?p :block/properties ?props]
+	       [(get ?props :tags) ?tags]
+	       [(contains? ?tags "mytag")]
+	       [(get ?props :myprop) ?myprop-vals]
+	   ]
+	  }
+	  #+END_QUERY
 	-
