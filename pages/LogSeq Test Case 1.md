@@ -18,6 +18,19 @@
 	       [(contains? ?tags "mytag")]
 	       [(get ?props :myprop) ?myprop-vals]
 	   ]
+	   :view (fn [vals]
+	     (for
+	       [d
+	         (distinct (flatten (map
+	           (fn [val]
+	             (into [] val)
+	           )
+	           vals
+	         )))
+	       ]
+	       [:div d]
+	     )
+	   )
 	  }
 	  #+END_QUERY
 	-
