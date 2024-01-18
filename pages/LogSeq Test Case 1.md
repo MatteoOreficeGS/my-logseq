@@ -7,4 +7,4 @@
 	  tags:: mytag
 	  myprop:: val4, val5, val1
 - ## Query
-	- {{query }}
+	-
