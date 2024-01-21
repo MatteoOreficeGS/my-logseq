@@ -126,11 +126,13 @@ title:: Guida d'uso LogSeq
 	- ## GitHub Pages
 	  tags:: #logseq/publish-spa
 		- https://github.com/logseq/publish-spa
+	- ## S
 		-
 - # Open Issues
   tags:: #improvements/logseq, #issue/information
 	- capire come usare i tags e le properties sulle pagine e i blocchi
 	- come reagiscono i namespace nei valori delle properties ?
+	  collapsed:: true
 		- come si comportano in particolare per la prop tags? alcuni tag di test
 		  tags:: prefix/prefix2/tagvalue, prefix/prefix2
 			- mi sembra di vedere che la sezione "pagine taggate con questo tag" si popola solo se il tag é presente esattamente nella property, quindi se il valore tag é organizzato con un namespace non viene menzionato sulla pagina del prefisso, questa pagina é taggata con #prefix/prefix2/tagvalue ma se si va su #prefix/prefix2 si vede questo
