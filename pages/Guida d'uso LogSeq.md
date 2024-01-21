@@ -126,7 +126,8 @@ title:: Guida d'uso LogSeq
 	- ## GitHub Pages
 	  tags:: #logseq/publish-spa
 		- https://github.com/logseq/publish-spa
-	- ## S
+	- ## Strumenti online
+		- https://adxsoft.github.io/logseqadvancedquerybuilder/
 		-
 - # Open Issues
   tags:: #improvements/logseq, #issue/information
