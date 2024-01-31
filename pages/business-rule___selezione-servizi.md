@@ -1,0 +1,1 @@
+- regole su come selezionare un servizio
