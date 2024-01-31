@@ -1,1 +1,3 @@
-- regole su come selezionare un servizio
+- Discutere dei modi in cui viene selezionato un servizio
+	- filtraggio per flag internazionale o per id ?
+	- a che serve la funzione `traduciServizio` ?
