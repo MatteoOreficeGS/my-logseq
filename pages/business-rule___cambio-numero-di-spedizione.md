@@ -1,6 +1,6 @@
 alias:: business-rule/sostituzione-numero-di-spedizione
 tags:: #model/shipment/spedizione
 
-- Il meccanismo dietro il cambio di numero spedizione che avviene dopo una giacenza o altri casi
-- come in gsped sono collegate le due cose
--
+- ## Open points
+	- Le motivazioni dietro il cambio di numero spedizione che avviene dopo una giacenza o altri casi
+	- quali sono le attivitá manuali e non che vengno effettuate
