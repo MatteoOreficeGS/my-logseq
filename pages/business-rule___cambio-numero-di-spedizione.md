@@ -3,4 +3,4 @@ tags:: #model/shipment/spedizione
 
 - ## Open points
 	- Le motivazioni dietro il cambio di numero spedizione che avviene dopo una giacenza o altri casi
-	- quali sono le attivitá manuali e non che vengno effettuate
+	- quali sono le attivitá manuali e non che vengno effettuate nel sistema gsped per rendere coerente la situazione
