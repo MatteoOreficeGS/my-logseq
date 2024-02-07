@@ -1,4 +1,4 @@
-filters:: {}
+filters:: {"progetti/motore di fatturazione" true}
 
 - Permette di trovare facilmente tutti i blocchi che parlano di risoluzione problematiche #issue
 -
