@@ -3,11 +3,34 @@ query-table:: true
 query-sort-desc:: true
 #+BEGIN_QUERY
 {:title “ALL TASKS”
-:query [
-   :find (pull ?h [*])
-   
-   :collapsed? false
-]}
+:query [:find (pull ?h [*])
+:in $ ?start ?next
+:where
+[?h :block/marker ?marker]
+[(contains? #{“NOW” “LATER” “TODO”} ?marker)]
+[?h :block/page ?p]
+[?p :block/journal? true]
+[?p :block/journal-day ?d]
+[(> ?d ?start)]
+[(< ?d ?next)]]
+:inputs [:today :7d-after]
+:collapsed? false}]}
 #+END_QUERY
 
--
+- #+BEGIN_QUERY
+  {:title [:h3 "🔥 Tasks past due"]
+   :query [:find (pull ?b [*])
+   :in $ ?day
+   :where
+     [?b :block/marker ?m]
+     (not [(contains? #{"DONE" "CANCELED"} ?m)])
+     (or
+       [?b :block/scheduled ?d]  ; Either the scheduled value
+       [?b :block/deadline ?d] ; or the deadline value
+      )
+      [(< ?d ?day)] ; the value is in the past
+   ]
+   :inputs [:today]
+   :table-view? false
+  }
+  #+END_QUERY
