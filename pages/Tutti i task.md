@@ -20,17 +20,12 @@ query-sort-desc:: true
 - #+BEGIN_QUERY
   {:title [:h3 "🔥 Tasks past due"]
    :query [:find (pull ?b [*])
-   :in $ ?day
    :where
      [?b :block/marker ?m]
      (not [(contains? #{"DONE" "CANCELED"} ?m)])
-     (or
-       [?b :block/scheduled ?d]  ; Either the scheduled value
-       [?b :block/deadline ?d] ; or the deadline value
-      )
-      [(< ?d ?day)] ; the value is in the past
+     [?h :block/page ?p]
+     [?p :block/journal? true]
    ]
-   :inputs [:today]
-   :table-view? false
+   :table-view? true
   }
   #+END_QUERY
