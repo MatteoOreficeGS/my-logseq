@@ -12,7 +12,7 @@ query-sort-desc:: true
        [(str ?d) ?ds]
        [(subs ?ds 0 6) ?dYYYYMM]       
        ]
- :inputs [:-1w :+6m]
+ :inputs [:-1w :+60m]
 :collapsed? false
  :group-by ?d
  :view (fn [rows]
