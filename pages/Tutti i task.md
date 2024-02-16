@@ -10,9 +10,7 @@ query-sort-desc:: true
        (task ?b #{"LATER" "TODO" "DOING"})
        (or [?b :block/scheduled ?d] [?b :block/deadline ?d])
        [(str ?d) ?ds]
-       [(subs ?ds 0 6) ?dYYYYMM]
-       [(> ?d ?start)]
-       [(< ?d ?end)]
+       [(subs ?ds 0 6) ?dYYYYMM]       
        ]
  :inputs [:-1w :+6m]
 :collapsed? false
