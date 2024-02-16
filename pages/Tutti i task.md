@@ -1,5 +1,5 @@
 query-sort-by:: page
-query-sort-desc:: true
+query-sort-desc:: false
 #+BEGIN_QUERY
 {:title [:h3 "🔥 Tasks past due"]
  :query [:find (pull ?b [*])
