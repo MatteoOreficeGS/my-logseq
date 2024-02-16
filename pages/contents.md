@@ -14,7 +14,7 @@
 	  query-sort-by:: page
 	  query-sort-desc:: true
 - # Organizzazione grafo
-	- Vedere #[[Guida d'uso LogSeq/Architettura Grafo]] per architettura di questo grafo
+	- Vedere #[[Architettura Grafo]] per architettura di questo grafo
 - # Templates
 	- Vedere #Templates per i vari tempates disponibili
 - # Guide d'uso
