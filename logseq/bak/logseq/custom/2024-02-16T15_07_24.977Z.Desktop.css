@@ -2,5 +2,5 @@
   display: inline-block;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 64ch;
+  max-width: 33%;
 }

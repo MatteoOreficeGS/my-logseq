@@ -1,7 +1,7 @@
 query-sort-by:: page
 query-sort-desc:: true
 #+BEGIN_QUERY
-{:title [:h3 "All Tasks"]
+{:title [:h3 "🔥 Tasks past due"]
  :query [:find (pull ?b [*])
  :where
    [?b :block/marker ?m]
