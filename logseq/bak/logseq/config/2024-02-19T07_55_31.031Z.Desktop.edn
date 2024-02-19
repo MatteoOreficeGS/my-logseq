@@ -50,7 +50,7 @@
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
- :ui/auto-expand-block-refs? true
+ :ui/auto-expand-block-refs? false
 
  ;; Enable Block timestamps.
  ;; Default value: false
@@ -294,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["guida d'uso logseq/architettura grafo" "troubleshooting/solution" "Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["architettura grafo" "guida d'uso logseq/architettura grafo" "Tutti i task" "process/process managament/improvement" "troubleshooting/solution" "Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
