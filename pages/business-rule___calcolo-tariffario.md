@@ -5,11 +5,11 @@ filters:: {"done" false}
 - # Attuale implementazione
 	- ## Data Model
 		- Nel nostro [[Models/Type/Data Model]] troviamo le seguenti #[[Models/Type/Data Model/Entity]]
-			- [[model/fatturazione/tariffe]]
+			- [[models/gsped/fatturazione/tariffe]]
 			- [[models/gsped/fatturazione/tariffe_fasce]]
 			- [[models/gsped/fatturazione/tariffe_clienti]]
 	- ## Selezione tariffa e fascia
-	  tags:: #topic/fascia, #models/gsped/fatturazione/tariffe_fasce, #model/fatturazione/tariffe, #models/gsped/fatturazione/tariffe/chiave_primaria, #models/gsped/fatturazione/tariffe_fasce/chiave_secondaria
+	  tags:: #topic/fascia, #models/gsped/fatturazione/tariffe_fasce, #models/gsped/fatturazione/tariffe, #models/gsped/fatturazione/tariffe/chiave_primaria, #models/gsped/fatturazione/tariffe_fasce/chiave_secondaria
 		- Prima del calcolo vero e proprio viene determinata in sequenza la tariffa e poi la fascia prescelta.
 		- [[draws/2023-11-15-15-30-57.excalidraw]]
 		  #Instrument/DFD che fornisce una semplice rappresentazione del processo di calcolo tariffario
