@@ -1,4 +1,4 @@
-tags:: [[Models/Data Model/Entity]]
+tags:: [[Models/Type/Data Model/Entity]]
 
 - # DDL
 	- ```sql

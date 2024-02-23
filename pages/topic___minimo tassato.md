@@ -1,1 +1,1 @@
-- andrebbe collegato al #[[Models/Domain Model]]
+- andrebbe collegato al #[[Models/Type/Domain Model]]

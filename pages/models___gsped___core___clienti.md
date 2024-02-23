@@ -1,1 +1,1 @@
-tags:: [[Models/Domain Model/Entity]]
+tags:: [[Models/Type/Domain Model/Entity]]

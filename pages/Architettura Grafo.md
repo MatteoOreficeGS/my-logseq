@@ -53,7 +53,7 @@
 				- Dove é deployato
 			- Core Concepts
 				- Business Rules
-				- Sono anche le #[[Models/Domain Model/Entity]]
+				- Sono anche le #[[Models/Type/Domain Model/Entity]]
 			- Processo
 			- Meeting o riunione, call
 				- argomento principale

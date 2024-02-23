@@ -4,7 +4,7 @@ filters:: {"done" false}
   Il calcolo tariffarrio é il processo attraverso il quale viene determinato il prezzo di una spedizione
 - # Attuale implementazione
 	- ## Data Model
-		- Nel nostro [[Models/Data Model]] troviamo le seguenti #[[Models/Data Model/Entity]]
+		- Nel nostro [[Models/Type/Data Model]] troviamo le seguenti #[[Models/Type/Data Model/Entity]]
 			- [[model/fatturazione/tariffe]]
 			- [[models/gsped/fatturazione/tariffe_fasce]]
 			- [[models/gsped/fatturazione/tariffe_clienti]]
