@@ -23,5 +23,5 @@
 	- Guide alla comprensione dei concetti fondamentali in #gsped, #topic/key-concept
 	  {{query (page-tags [[topic/key-concept]])}}
 	- Guida all'uso di #[[Guida d'uso LogSeq]] si trova a [questa pagina]([[Guida d'uso LogSeq]])
-	- Guida d'uso al framework #model/codeigniter
+	- Guida d'uso al framework #models/gsped/codeigniter
 	- [[Guida d'uso Jira per utenti]]
