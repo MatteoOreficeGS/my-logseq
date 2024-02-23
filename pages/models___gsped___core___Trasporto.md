@@ -1,3 +1,3 @@
-tags:: #[[Models/Object Model/Object/Domain Object]]
+tags:: #[[Models/Type/Object Model/Object/Domain Object]]
 
 -

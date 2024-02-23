@@ -1,1 +1,1 @@
-tags:: [[Models/Object Model/Object/RestController]]
+tags:: [[Models/Type/Object Model/Object/RestController]]

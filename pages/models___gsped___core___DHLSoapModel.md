@@ -1,4 +1,4 @@
-tags:: #[[Models/Object Model/Object]]
+tags:: #[[Models/Type/Object Model/Object]]
 
 - # Metodi
 - ## codice_cliente_dhl_expimp

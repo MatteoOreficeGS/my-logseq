@@ -1,4 +1,4 @@
-tags:: #[[Models/Object Model/Object]]
+tags:: #[[Models/Type/Object Model/Object]]
 
 - Deputato al #business-rule/calcolo-tariffario a partire dai dati di una fattura
 -
