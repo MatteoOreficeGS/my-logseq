@@ -1,1 +1,1 @@
-- Vedere La pag #Models/Type
+- Vedere la pagina [[Models/Type]] per un elenco esaustivo di tutti i mode types
