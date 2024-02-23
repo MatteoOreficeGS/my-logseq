@@ -19,7 +19,7 @@ tags:: #[[Models/Object Model/Object]]
   {{renderer :smartblock, trouble-solution, New Solution ➕, false}}
 	- ## FattureRate: Filtrare log selezione di una fascia tariffaria in log `api-yyyy-mm-dd.txt` 
 	  id:: fb99f650-ffad-4b58-bd10-4dec0dc86850
-	  tags:: [[troubleshooting/solution]], #model/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario, #Instrument/IDE/PHPStorm, #model/fatturazione/tariffe, #Instrument/grep, #topic/servizio, #model/fatturazione/RateComparativa, #model/fatturazione/FattureRate
+	  tags:: [[troubleshooting/solution]], #models/gsped/fatturazione/tariffe_fasce, #topic/fascia, #business-rule/calcolo-tariffario, #Instrument/IDE/PHPStorm, #model/fatturazione/tariffe, #Instrument/grep, #topic/servizio, #models/gsped/fatturazione/RateComparativa, #models/gsped/fatturazione/FattureRate
 		- Installare il plugin ((657c6627-98d6-4e6b-8ec0-22e7d97a015f))
 		- Aprire il file di log `.txt`
 		- `CTRL+SHIFT+A` e digitare grep
@@ -32,7 +32,7 @@ tags:: #[[Models/Object Model/Object]]
 		  ![image.png](../assets/image_1702899029029_0.png)
 	- ## Esaminare log chiamata FattureRate su #env/staging 
 	  id:: 6553499b-9e4a-464c-b2f8-10d46d011e37
-	  tags:: #[[model/fatturazione/FattureRateModel]], #troubleshooting/solution
+	  tags:: #[[models/gsped/fatturazione/FattureRateModel]], #troubleshooting/solution
 		- Per poter esaminare il log dobbiamo usare la macchina di staging
 		- effettuare una chiamata come la seguente
 		- ```
@@ -63,12 +63,12 @@ tags:: #[[Models/Object Model/Object]]
 		  docker exec  api cat '/tmp/api-2023-10-11.txt' | less
 		  ```
 		- Conviene creare documentazione di alto livello per i componenti di GSped, ad esempio il modello #[[Instrument/C4]] puó essere usato per descrivere ad alto livello un sistema
-		- Inoltre andrebbero #[[model/fatturazione/FattureRateModel]]
+		- Inoltre andrebbero #[[models/gsped/fatturazione/FattureRateModel]]
 - # Problemi noti
   tags:: #issue
 	- Il metodo checkReseller non dovrebbe decidere se utilizzare un client id ( invoiced o normale ) indicato sulla `$sped`, questo dovrebbe essere passato da fuori e fine #issue/design
 		- la responsabilitá di scegliere quale client id utilizzare dovrebbe spettare al chiamate
-		- le tariffe non hanno relazione alcuna con il concetto di #model/core/reseller
+		- le tariffe non hanno relazione alcuna con il concetto di #models/gsped/core/reseller
 		- > ATTENZIONE ⚠️ : il metodo `checkReseller` era usato per decidere se una spedizione é #topic/internazionale, nella #Jira/i/PS22-307 é stato rimosso perché .... ((6597b47d-048f-4cdf-b1aa-667610d40c59))
 	- `calcolaSingoloNoloAddebito` non é chiaro se riceva sempre `$sped['corriere']` #issue/code/array-shape
 	  ![image.png](../assets/image_1701177560694_0.png)

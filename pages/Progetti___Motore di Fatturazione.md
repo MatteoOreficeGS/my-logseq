@@ -20,7 +20,7 @@ alias:: [[Progetti/Controllo Fatture]]
 		  	grep -oP 'Nessuna tariffa trovata per cliente \d+' | \
 		  	sort -h | uniq
 		  ```
-	- ## FattureRate: Mostrare risposte chiamata API #[[model/fatturazione/FattureRateModel]]  dal log `CtrFatt.log`
+	- ## FattureRate: Mostrare risposte chiamata API #[[models/gsped/fatturazione/FattureRateModel]]  dal log `CtrFatt.log`
 	  tags:: troubleshooting/solution, #topic/logs/analisi
 		- ```shell
 		  zgrep 'Risposta.*Rate.*15393' /tmp/CtrFatGsped.log | \

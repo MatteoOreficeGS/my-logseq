@@ -1,0 +1,3 @@
+- É un flag booleano
+- Sembra essere esclusivamente utilizzato nel #[[Models/Object Model/Object/RestController]] denominato #models/gsped/core/Clientireseller al fine di limitare le operazioni a quei record che hanno questo flag alzato
+- Vedi anche #models/gsped/core/utenti/cliente_reseller per #topic/disambiguazione

@@ -1,5 +1,5 @@
 alias:: business-rule/sostituzione-numero-di-spedizione
-tags:: #model/shipment/spedizione
+tags:: #models/gsped/shipment/spedizione
 
 - ## Open points
 	- Le motivazioni dietro il cambio di numero spedizione che avviene dopo una giacenza o altri casi #topic/giacenza
