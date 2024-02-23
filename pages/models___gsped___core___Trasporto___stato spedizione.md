@@ -2,57 +2,62 @@
 	- Per una migliore lista cercare nella codebase usando questa #Instrument/RegExp `CASE.*trasporti.*status` , la lista é creata da #people/valerio
 	- Lista paziale degli stati del trasporto, tra cui la #topic/giacenza ovviamente 
 	  ```mysql
-	   -1.0 THEN 'RICHIESTO' 
-	   0.0 THEN 'CREATO' 
-	   0.3 THEN 'DA AUTORIZZARE' 
-	   0.5 THEN 'IN ELABORAZIONE' 
-	   0.6 THEN 'ELABORATO CON ERRORI' 
-	   0.7 THEN 'ERRORE COMUNICAZIONE CON TNT' 
-	   1.0 THEN 'INVIATO' 
-	   2.0 THEN 'RICEVUTO' 
-	   3.0 THEN 'TRASMESSO A FILIALE DI COMPETENZA' 
-	   4.0 THEN 'CONFERMATO' 
-	   5.0 THEN 'IN RITIRO' 
-	   6.0 THEN 'RITIRATO' 
-	   7.0 THEN 'NON ANCORA RITIRATO: MANCANZA DI TEMPO' 
-	   8.0 THEN 'NON ANCORA RITIRATO: MERCE NON PRONTA' 
-	   9.0 THEN 'NON ANCORA RITIRATO: CLIENTE ASSENTE/CHIUSO' 
-	   10.0 THEN 'ANNULLATO: ANNULLAMENTO PRIMA DELL\'AFFIDAMENTO' 
-	   11.0 THEN 'ANNULLATO: RIFIUTATO DAL CLIENTE'
-	   12.0 THEN 'ANNULLATO: GIA\' RITIRATO' 
-	   12.1 THEN 'ANNULLATO: NULLA DA RITIRARE' 
-	   13.0 THEN 'ANNULLATO: MERCE NON IN PRODOTTO' 
-	   14.0 THEN 'ANNULLATO: CLIENTE INESISTENTE ALL\'INDIRIZZO' 
-	   15.0 THEN 'ANNULLATO: TELEFONO ERRATO E/O NON RISPONDE' 
-	   16.0 THEN 'ANNULLATO: GIA\' EFFETTUATI DUE TENTATIVI' 
-	   16.5 THEN 'NON RITIRATO'
-	   17.0 THEN 'SPEDIZIONE PARTITA' 
-	   17.4 THEN 'ARRIVATA IN FILIALE'
-	   17.5 THEN 'IN TRANSITO' 
-	   17.6 THEN 'IN DEPOSITO CAUSA FORZA MAGGIORE'
-	   17.7 THEN 'FERMO DEPOSITO'
-	   17.8 THEN 'IN DEPOSITO CAUSA NON DIPENDENTE DA CORRIERE'
-	   18.0 THEN 'IN CONSEGNA'
-	   18.1 THEN 'CHIUSO PER TURNO'
-	   18.5 THEN 'CONSEGNA PARZIALE'
-	   19.0 THEN 'CONSEGNATO'
-	   20.0 THEN 'DIROTTATO'
-	   20.5 THEN 'ASSENTE'
-	   21.0 THEN 'RESO AL MITTENTE'
-	   22.0 THEN 'SPEDIZIONE RIPRISTINATA DOPO ERRATA IMPUTAZIONE DI CONSEGNA'
-	   23.0 THEN 'RAPINATO INCASSO'
-	   24.0 THEN 'CHIUSURA SPEDIZIONE CON PRATICA ANOMALIA'
-	   25.0 THEN 'CHIUSURA SPEDIZIONE CON AVARIA RESA AL MITTENTE'
-	   26.0 THEN 'MERCE MAI AFFIDATA'
-	   27.0 THEN 'APERTURA PRATICA ANOMALIA'
-	   28.0 THEN 'RAPINATA MERCE'
-	   29.0 THEN 'MERCE DISTRUTTA'
-	   30.0 THEN 'GIACENZA APERTA' 
-	   31.0 THEN 'GIACENZA CHIUSA' 
-	   40.0 THEN 'INOLTRATA ALL\'ESTERO' 
-	   50.0 THEN 'VIAGGIO DIRETTO' 
-	   500.0 THEN 'NON ANCORA RITIRATO' 
-	   999.0 THEN 'ANNULLATO' 
-	   19.1 THEN 'RICONSEGNATO AL MITTENTE' 
-	   32.0 THEN 'SPEDIZIONE RIFIUTATA'
+	  INSERT INTO testbed.statuses (id, status) VALUES (-1.0, 'RICHIESTO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (0.0, 'CREATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (0.2, 'PARTENZA DIFFERITA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (0.3, 'DA AUTORIZZARE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (0.5, 'IN ELABORAZIONE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (0.6, 'ELABORATO CON ERRORI');
+	  INSERT INTO testbed.statuses (id, status) VALUES (0.7, 'ERRORE COMUNICAZIONE CON TNT');
+	  INSERT INTO testbed.statuses (id, status) VALUES (1.0, 'INVIATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (2.0, 'RICEVUTO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (3.0, 'TRASMESSO A FILIALE DI COMPETENZA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (4.0, 'CONFERMATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (5.0, 'IN RITIRO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (6.0, 'RITIRATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (7.0, 'NON ANCORA RITIRATO: MANCANZA DI TEMPO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (8.0, 'NON ANCORA RITIRATO: MERCE NON PRONTA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (9.0, 'NON ANCORA RITIRATO: CLIENTE ASSENTE/CHIUSO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (10.0, 'ANNULLATO: ANNULLAMENTO PRIMA DELL\'AFFIDAMENTO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (11.0, 'ANNULLATO: RIFIUTATO DAL CLIENTE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (12.0, 'ANNULLATO: GIA\' RITIRATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (12.1, 'ANNULLATO: NULLA DA RITIRARE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (13.0, 'ANNULLATO: MERCE NON IN PRODOTTO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (14.0, 'ANNULLATO: CLIENTE INESISTENTE ALL\'INDIRIZZO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (15.0, 'ANNULLATO: TELEFONO ERRATO E/O NON RISPONDE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (16.0, 'ANNULLATO: GIA\' EFFETTUATI DUE TENTATIVI');
+	  INSERT INTO testbed.statuses (id, status) VALUES (16.5, 'NON RITIRATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (17.0, 'SPEDIZIONE PARTITA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (17.4, 'ARRIVATA IN FILIALE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (17.5, 'IN TRANSITO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (17.6, 'IN DEPOSITO CAUSA FORZA MAGGIORE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (17.7, 'FERMO DEPOSITO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (17.8, 'IN DEPOSITO CAUSA NON DIPENDENTE DA CORRIERE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (18.0, 'IN CONSEGNA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (18.1, 'CHIUSO PER TURNO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (18.4, 'ARRIVATA PUNTO DI RITIRO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (18.5, 'CONSEGNA PARZIALE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (18.6, 'DA RITIRARE PARCELSHOP');
+	  INSERT INTO testbed.statuses (id, status) VALUES (18.7, 'NON RITIRATA PARCELSHOP');
+	  INSERT INTO testbed.statuses (id, status) VALUES (19.0, 'CONSEGNATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (19.1, 'RICONSEGNATO AL MITTENTE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (20.0, 'DIROTTATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (20.5, 'ASSENTE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (21.0, 'RESO AL MITTENTE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (22.0, 'SPEDIZIONE RIPRISTINATA DOPO ERRATA IMPUTAZIONE DI CONSEGNA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (23.0, 'RAPINATO INCASSO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (24.0, 'CHIUSURA SPEDIZIONE CON PRATICA ANOMALIA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (25.0, 'CHIUSURA SPEDIZIONE CON AVARIA RESA AL MITTENTE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (26.0, 'MERCE MAI AFFIDATA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (27.0, 'APERTURA PRATICA ANOMALIA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (28.0, 'RAPINATA MERCE');
+	  INSERT INTO testbed.statuses (id, status) VALUES (29.0, 'MERCE DISTRUTTA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (30.0, 'GIACENZA APERTA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (31.0, 'GIACENZA CHIUSA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (32.0, 'SPEDIZIONE RIFIUTATA');
+	  INSERT INTO testbed.statuses (id, status) VALUES (35.0, 'ANNULLATO SENZA ADDEBITO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (40.0, 'INOLTRATA ALL\'ESTERO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (50.0, 'VIAGGIO DIRETTO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (500.0, 'NON ANCORA RITIRATO');
+	  INSERT INTO testbed.statuses (id, status) VALUES (999.0, 'ANNULLATO');
 	  ```
