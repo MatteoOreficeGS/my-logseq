@@ -14,12 +14,12 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   query-properties:: [:type :description :block :page :subject]
   #+BEGIN_QUERY
   { :title [:h1 "Azioni"]
-    :query [:find (pull ?block [ * ])
+    :query [:find (pull ?b [ * ])
             :where
-            [?block :block/properties ?props]
-  [(get ?props :template) ?template]
-  [(= ?template nil)]
   
+  [?b :block/properties ?bprops]
+  		        [(get ?bprops :template "nil") ?bs]
+  		        [(not= ?bs "nil")]
     ]
   }
   #+END_QUERY
