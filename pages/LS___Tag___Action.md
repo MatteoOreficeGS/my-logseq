@@ -16,12 +16,9 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   { :title [:h1 "Azioni"]
     :query [:find (pull ?b [ * ])
             :where
-            [?b :block/refs ?page]
-         [?page :block/properties ?props]
-  [(get ?props :type) ?type]
-  [(= ?type #{"LS/Tag/Action"})]
+            
   [?b :block/properties ?properties]
-   [?properties :not (contains :template)]
+   [?properties (contains "template")]
     ]
   }
   #+END_QUERY
