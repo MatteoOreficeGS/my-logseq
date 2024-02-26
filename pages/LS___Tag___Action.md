@@ -16,8 +16,9 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   { :title [:h1 "Azioni"]
     :query [:find (pull ?block [ * ])
             :where
-            [?block :block/properties ?properties]
-  [?properties :template]
+            [?block :block/properties ?props]
+  [(get ?props :template) ?template]
+  (not [(= ?template "")])
   
     ]
   }
