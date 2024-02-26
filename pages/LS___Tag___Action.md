@@ -18,7 +18,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
             :where
             [?block :block/properties ?props]
   [(get ?props :template) ?template]
-  (not [(= ?template "")])
+  [(= ?template "")]
   
     ]
   }
