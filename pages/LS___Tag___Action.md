@@ -26,6 +26,6 @@ subject:: Soggetto opzionale che deve eseguire l'azione
     ]
   :table
     [:block/name
-     [:page-property :title]]
+     [:page-property :type]]
   }
   #+END_QUERY
