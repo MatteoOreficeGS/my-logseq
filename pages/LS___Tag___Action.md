@@ -19,7 +19,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   
   [?b :block/properties ?bprops]
   		        [(get ?bprops :template "nil") ?bs]
-  		        [(not= ?bs "nil")]
+  		        [(not= ?bs "nil")]]
     ]
   }
   #+END_QUERY
