@@ -1,4 +1,4 @@
-filters:: {"instrument/sql" true}
+filters:: {}
 
 - Permette di trovare facilmente tutti i blocchi che parlano di risoluzione problematiche #issue
 -
