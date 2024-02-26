@@ -42,4 +42,3 @@ type:: [[LS/Page/Journal]]
 			  :inputs [:parent-block]
 			  :collapsed? true}
 			  #+END_QUERY
--
