@@ -17,7 +17,7 @@ subject:: Soggetto opzionale che deve eseguire l'azione
     :query [:find (pull ?block [ * ])
             :where
             [?block :block/properties ?properties]
-  (some #(= % :my-property) ?properties))
+  
     ]
   }
   #+END_QUERY
