@@ -24,5 +24,8 @@ subject:: Soggetto opzionale che deve eseguire l'azione
   		        [(get ?bprops :template "nil") ?bs]
   		        [(= ?bs "nil")]
     ]
+  :table
+    [:block/name
+     [:page-property :title]]
   }
   #+END_QUERY
