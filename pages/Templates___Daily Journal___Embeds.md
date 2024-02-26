@@ -24,7 +24,7 @@
 			- la sorgente della richiesta, mail, slack etc
 			- richiedente, cliente ed eventualmente il corriere
 			  logseq.order-list-type:: number
-	- #### Sotto blocchi
+	- Sotto blocchi
 		- Nella sezione [[Architettura Grafo]] saranno descritti i tipi di attivitá #WIP
 - ### Template journal e tags utilizzabili
   id:: 6565c304-72f1-40e2-b2ac-a2eab69b4998
