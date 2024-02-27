@@ -6,6 +6,7 @@ type:: [[LS/Page/Journal]]
 	- # Stand-Up Topics
 		-
 		-
+		-
 	- # Attivitá
 	  {{renderer :smartblock, resume-task, Resume Task ⏩️, false}} {{renderer :smartblock, new-task, New Task ➕, false}}
 	- # Aiuto compilazione
