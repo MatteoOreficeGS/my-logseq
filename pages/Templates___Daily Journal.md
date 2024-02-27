@@ -10,6 +10,11 @@ type:: [[LS/Page/Journal]]
 			- file
 			- class
 			- etc
+		- #### Target
+		  heading:: 4
+			- file
+			- class
+			- etc
 		-
 		-
 	- # Attivitá
