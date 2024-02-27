@@ -416,7 +416,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/preferred-pasting-file? true
- :ui/show-brackets? true
+ :ui/show-brackets? false
  :graph/settings {:builtin-pages? true
  :orphan-pages? false
  :excluded-pages? false

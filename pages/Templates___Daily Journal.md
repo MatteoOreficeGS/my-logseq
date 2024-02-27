@@ -4,7 +4,7 @@ template:: Daily Journal
 template-including-parent:: false
 type:: [[LS/Page/Journal]]
 	- # Stand-Up Topics
-		- inserire qui il primo argomento
+		- ==inserire qui il primo argomento==
 	- # Attivitá
 	  {{renderer :smartblock, resume-task, Resume Task ⏩️, false}} {{renderer :smartblock, new-task, New Task ➕, false}}
 	- # Aiuto compilazione

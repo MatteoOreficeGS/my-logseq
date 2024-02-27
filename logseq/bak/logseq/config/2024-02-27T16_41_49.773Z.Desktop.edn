@@ -219,7 +219,7 @@
             [?p :block/journal-day ?d]
             [(>= ?d ?start)]
             [(<= ?d ?today)]]
-    :inputs [:14d :today]
+    :inputs [:365d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
@@ -294,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["guida d'uso logseq/architettura grafo" "Tutti i task" "process/process managament/improvement" "troubleshooting/solution" "Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
+ :favorites ["architettura grafo" "guida d'uso logseq/architettura grafo" "Tutti i task" "troubleshooting/solution" "Process/Process Improvement" "logseq/architettura grafo" "ls/tag/action" "ls/action" "process/tasks management/gtd/my" "process/tasks management/my gtd" "process/tasks management/gtd/mydailyplanning" "LogSeq/graph-architecture" "troubleshooting" "process/gtd/mydailyplanning" "processi/gtd/mydailyplanning" "processi/gtd/pianificazione giornaliera" "Processi/Personali/Pianificazione Giornaliera" "logseq/guida operativa"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -416,7 +416,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/preferred-pasting-file? true
- :ui/show-brackets? true
+ :ui/show-brackets? false
  :graph/settings {:builtin-pages? true
  :orphan-pages? false
  :excluded-pages? false
