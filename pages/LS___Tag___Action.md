@@ -1,3 +1,4 @@
+public:: true
 type:: [[LS/Class]]
 description:: Descrive una azione da eseguirsi
 subject:: Soggetto opzionale che deve eseguire l'azione
