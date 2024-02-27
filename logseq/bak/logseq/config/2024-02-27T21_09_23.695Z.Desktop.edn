@@ -133,7 +133,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
-
+ 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
  ;; :pages-directory "pages"
@@ -313,7 +313,7 @@
 
  ;; Create a page for all properties.
  ;; Default value: true
- :property-pages/enabled? true
+ :property-pages/enabled? false
 
  ;; Properties to exclude from having property pages
  ;; Example usage:
@@ -416,8 +416,9 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :editor/preferred-pasting-file? true
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :graph/settings {:builtin-pages? true
  :orphan-pages? false
  :excluded-pages? false
- :journal? true}}
+ :journal? true}
+ :publishing/all-pages-public? true}

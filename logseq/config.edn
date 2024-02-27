@@ -313,7 +313,7 @@
 
  ;; Create a page for all properties.
  ;; Default value: true
- :property-pages/enabled? false
+ :property-pages/enabled? true
 
  ;; Properties to exclude from having property pages
  ;; Example usage:
