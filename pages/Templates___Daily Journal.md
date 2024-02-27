@@ -5,6 +5,11 @@ template-including-parent:: false
 type:: [[LS/Page/Journal]]
 	- # Stand-Up Topics
 		-
+		- #### Target
+		  heading:: 4
+			- file
+			- class
+			- etc
 		-
 		-
 	- # Attivitá
