@@ -1,3 +1,5 @@
+public:: true
+
 - descrive organizzazione dei metadati
 - # Namespaced Hierarchy
 	- [Questa pagina]([[LS]]) contiene il [[Guida d'uso LogSeq/Namespaces]] nel quale sono posizionate tutte le classi per taggare blocchi e pagine.
