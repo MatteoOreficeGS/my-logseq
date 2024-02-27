@@ -134,6 +134,8 @@
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
 
+ :default-home {:page "Jun 3rd, 2021"}
+ 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
  ;; :pages-directory "pages"
@@ -219,7 +221,7 @@
             [?p :block/journal-day ?d]
             [(>= ?d ?start)]
             [(<= ?d ?today)]]
-    :inputs [:14d :today]
+    :inputs [:365d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
@@ -420,4 +422,5 @@
  :graph/settings {:builtin-pages? true
  :orphan-pages? false
  :excluded-pages? false
- :journal? true}}
+ :journal? true}
+ :publishing/all-pages-public? true}
