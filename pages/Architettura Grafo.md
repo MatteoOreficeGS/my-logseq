@@ -1,5 +1,5 @@
 public:: true
-new-prod/test:: prova
+new-prod/test::  prova
 
 -
 -
