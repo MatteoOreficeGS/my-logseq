@@ -71,5 +71,5 @@ tags:: #[[Models/Type/Object Model/Object]]
 		- le tariffe non hanno relazione alcuna con il concetto di #models/gsped/core/reseller
 		- > ATTENZIONE ⚠️ : il metodo `checkReseller` era usato per decidere se una spedizione é #topic/internazionale, nella #Jira/i/PS22-307 é stato rimosso perché .... ((6597b47d-048f-4cdf-b1aa-667610d40c59))
 	- `calcolaSingoloNoloAddebito` non é chiaro se riceva sempre `$sped['corriere']` #issue/code/array-shape
-	  ![image.png](../assets/image_1701177560694_0.png)
+	  ![image.png](../assets/image_1701177560694_0.png){:height 565, :width 1219}
 -
