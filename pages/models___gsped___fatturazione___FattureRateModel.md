@@ -1,7 +1,7 @@
 tags:: #[[Models/Type/Object Model/Object]]
 
 - Deputato al #business-rule/calcolo-tariffario a partire dai dati di una fattura
--
+- {{renderer :tables_65df3f9d-4061-4761-a005-4294fdaa484a}}
 - # Metodi
 	- ## `private function calcolaTariffa(...)`
 	  tags:: #business-rule/calcolo-tariffario
