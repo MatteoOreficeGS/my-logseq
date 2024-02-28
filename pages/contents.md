@@ -25,3 +25,4 @@
 	- Guida all'uso di #[[Guida d'uso LogSeq]] si trova a [questa pagina]([[Guida d'uso LogSeq]])
 	- Guida d'uso al framework #models/gsped/codeigniter
 	- [[Guida d'uso Jira per utenti]]
+- {{renderer :tocgen2, [[progetti/motore di fatturazione]], calc(100vh - 135px)}}
