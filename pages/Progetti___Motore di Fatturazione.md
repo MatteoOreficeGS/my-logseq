@@ -1,7 +1,6 @@
 alias:: [[Progetti/Controllo Fatture]]
 
-- # Table of Contents
-	-
+- ## {{renderer :tocgen2}}
 - # Problemi noti
   tags:: #issue
 	- gli utenti in primis sbagliano il formato del file #topic/UX #[[Progetti/Gsped Legacy]]
