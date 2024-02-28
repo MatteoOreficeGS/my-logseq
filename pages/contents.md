@@ -1,5 +1,4 @@
--
-- # Journal
+# Journal
 - Il journal viene creato a partire da #[[Templates/Daily Journal]]
 	- Tutte le pagine con il tag #[[Templates/Daily Journal/Tags]] possono essere utilizzare come tag nel journal
 	- Alcune parti del #[[Templates/Daily Journal]] vendono embeddate per evitare ripetizioni #[[Templates/Daily Journal/Embeds]]
@@ -25,4 +24,3 @@
 	- Guida all'uso di #[[Guida d'uso LogSeq]] si trova a [questa pagina]([[Guida d'uso LogSeq]])
 	- Guida d'uso al framework #models/gsped/codeigniter
 	- [[Guida d'uso Jira per utenti]]
-- {{renderer :tocgen2, [[progetti/motore di fatturazione]], calc(100vh - 135px)}}
