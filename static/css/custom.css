@@ -1,0 +1,6 @@
+.custom-query-results td.whitespace-nowrap div {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 64ch;
+}
