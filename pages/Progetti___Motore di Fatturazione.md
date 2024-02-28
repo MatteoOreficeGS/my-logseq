@@ -1,13 +1,13 @@
 alias:: [[Progetti/Controllo Fatture]]
 
-- ## {{renderer :tocgen2}}
+- {{renderer :tocgen2}}
 - # Problemi noti
   tags:: #issue
 	- gli utenti in primis sbagliano il formato del file #topic/UX #[[Progetti/Gsped Legacy]]
 	- RigaFattura contiene del codice specifico per GLS che tratta `p_tax` eche non dovrebbe stare li, in qualche ramo avevo predisposto una fix per generalizzare `getRateRequest` in maniera che fosse interamente **overridable** ma forse non é stata mergiata per interruzione del lavoro #issue/code #Process/SDC/design/OOP
 		- ~~ho giá creato una #jira/issue [FT-36|specializzare opener GlsRigaFattura per trattare p_tax nella classe figlia (Refactoring)](https://gsped.atlassian.net/browse/FT-36)~~
 - # Miglioramenti
-  tags:: #improvements, #issue/feature, #issue/tools
+  tags:: #improvements, #issue/feature, #issue/tools, #idea💡
 	- creare un tool da riga di comando per fare analisi del log con semplici parametri, non sarebbe male usare un binario GO oppure uno shell script ancore meglio
 - # Problemi comuni
   tags:: #doc/howtos, #[[Progetti/Motore di Fatturazione]], #troubleshooting
