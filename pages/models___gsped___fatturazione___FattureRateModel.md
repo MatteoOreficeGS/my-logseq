@@ -1,6 +1,7 @@
 tags:: #[[Models/Type/Object Model/Object]]
 
 - Deputato al #business-rule/calcolo-tariffario a partire dai dati di una fattura
+- # Table of Contents
 - {{renderer :tocgen2}}
 -
 - # Metodi
@@ -8,7 +9,7 @@ tags:: #[[Models/Type/Object Model/Object]]
 	  tags:: #business-rule/calcolo-tariffario
 		- Calcola il valore finale
 		- Ritorna `false` in caso non ci siano le condizioni per calcolare la tariffa
-		- ### Sequenza
+		- Sequenza
 			- fa alcuni controlli che potrebbero interrompere il calcolo della tariffa
 				- ie: se il tipo listino non é conforme al listino per la quale la tariffa é specificata
 			- controllo sulle zone incluse se `zone_incluse` diverso da `MONDO`
