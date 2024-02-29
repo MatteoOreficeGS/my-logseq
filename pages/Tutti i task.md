@@ -9,6 +9,9 @@ query-sort-desc:: false
    [?b :block/page ?p]
    [?p :block/journal? true]
  ]
+:result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
  :table-view? true
 }
 #+END_QUERY
