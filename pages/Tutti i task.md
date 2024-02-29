@@ -1,5 +1,5 @@
-query-sort-by:: page
-query-sort-desc:: true
+query-sort-by:: block
+query-sort-desc:: false
 #+BEGIN_QUERY
 {:title [:h3 "All Tasks"]
  :query [:find (pull ?b [*])
